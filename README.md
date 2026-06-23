@@ -80,7 +80,3 @@ limitations.
 - IP extraction assumes IPv4 and standard Apache combined log format
 - Everything here is scoped to a known-vulnerable lab target (DVWA), not a
   hardened or production environment
-
-## License
-
-[Add your license here]
