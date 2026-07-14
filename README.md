@@ -1,4 +1,4 @@
-Cybersecurity AI Agent Research
+**Cybersecurity AI Agent Research**
 
 A collection of research projects exploring how AI agents can be applied to
 offensive and defensive security workflows — and where the boundaries of
@@ -8,11 +8,11 @@ Each project lives in its own branch with full documentation, sample output,
 and tests. This README serves as an index.
 
 
-Projects
+**Projects
 
-Autonomous Red Team / Blue Team Pipeline
+Autonomous Red Team / Blue Team Pipeline**
 
-Branch: red-team-blue-team · Status: Complete
+**Branch:** red-team-blue-team · **Status:** Complete
 
 Two LLM-based agents — one offensive, one defensive — running across two
 isolated VMs against a deliberately vulnerable web application. The red team
@@ -25,7 +25,7 @@ pipeline? A human approval checkpoint separates the agent's planning from its
 execution — the agent proposes a plan and explains its reasoning, but cannot
 act without explicit authorization.
 
-Key findings:
+**Key findings:**
 
 
 The approval gate held up as intended across all test runs — no exploitation
@@ -61,20 +61,20 @@ One paragraph describing the project and the research question it addresses.
 
 ---
 -->
-Research focus
+**Research focus**
 
 These projects sit at the intersection of three areas:
 
 
-Agentic AI in security contexts — what can autonomous agents do in
+**Agentic AI in security contexts** — what can autonomous agents do in
 offensive and defensive security workflows, and what can't they do yet?
-The offense/defense boundary — does AI capability scale symmetrically
+**The offense/defense boundary** — does AI capability scale symmetrically
 to both sides, or does it create asymmetries that favor one over the other?
-Human-in-the-loop design — where should autonomy stop, and what does
+**Human-in-the-loop design** — where should autonomy stop, and what does
 a well-designed approval checkpoint look like in a security-critical system?
 
 
-Ethics and scope
+**Ethics and scope**
 
 
 All projects in this repo target intentionally vulnerable, isolated lab
@@ -84,11 +84,11 @@ you do not own or have explicit authorization to test.
 
 
 
-About
+**About**
 
 Cybersecurity engineer with six years of experience, currently researching
 the application of large language models and autonomous agents to security
 workflows. Interested in the design tradeoffs between agent autonomy and
 human oversight in security-critical systems.
 
-📝 Blog: [link] · 💼 LinkedIn: [link]
+📝 Blog: https://www.jackgage.net/blog · 💼 LinkedIn: https://www.linkedin.com/in/jack-gage-5a4b45157/
