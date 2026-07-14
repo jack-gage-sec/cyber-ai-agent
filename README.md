@@ -8,9 +8,9 @@ Each project lives in its own branch with full documentation, sample output,
 and tests. This README serves as an index.
 
 
-**Projects
+**Projects**
 
-Autonomous Red Team / Blue Team Pipeline**
+**Autonomous Red Team / Blue Team Pipeline**
 
 **Branch:** red-team-blue-team · **Status:** Complete
 
