@@ -5,7 +5,10 @@ Splits policy documents into chunks suitable for RAG.
 import os
 import sys
 
-parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "D:\Backup Files\Experiments\Compliance Evidence Pipeline"))
+from pathlib import Path
+
+dir_above_cep = Path(__file__).resolve().parents[2]
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), dir_above_cep))
 
 external_path = os.path.join(parent_dir, "Compliance-AI")
 sys.path.append(external_path)
