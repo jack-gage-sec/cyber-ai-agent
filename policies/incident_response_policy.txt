@@ -1,0 +1,97 @@
+Policy ID: IR-001
+
+Policy Name:
+Security Incident Response Policy
+
+Version:
+4.0
+
+Effective Date:
+2026-01-01
+
+Owner:
+Security Operations Center
+
+
+1. Purpose
+
+This policy establishes requirements for identifying, responding to, containing, and recovering from cybersecurity incidents.
+
+
+2. Scope
+
+This policy applies to all security incidents involving organizational systems, applications, networks, or data.
+
+
+3. Incident Identification
+
+Security events must be monitored through approved security monitoring tools.
+
+Examples include:
+
+- SIEM alerts.
+- Endpoint detection alerts.
+- Vulnerability notifications.
+- User-reported security concerns.
+
+
+4. Incident Classification
+
+Incidents must be categorized based on:
+
+- Impact.
+- Scope.
+- Data affected.
+- Business criticality.
+
+
+Severity Levels:
+
+Critical:
+Events causing significant business disruption or data compromise.
+
+High:
+Events requiring immediate investigation and response.
+
+Medium:
+Events requiring scheduled investigation.
+
+Low:
+Events requiring monitoring or routine remediation.
+
+
+5. Incident Response Process
+
+The incident response lifecycle includes:
+
+1. Identification
+2. Containment
+3. Eradication
+4. Recovery
+5. Lessons Learned
+
+
+6. Evidence Preservation
+
+Incident responders must preserve relevant evidence including:
+
+- Logs.
+- System images.
+- Network captures.
+- Investigation notes.
+
+
+7. Control Mapping
+
+Control ID:
+IR-001
+
+Control Objective:
+Ensure security incidents are detected, investigated, and resolved in a timely manner.
+
+Evidence Examples:
+
+- Incident tickets.
+- SIEM alerts.
+- Investigation reports.
+- Post-incident reviews.

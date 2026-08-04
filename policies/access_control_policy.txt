@@ -1,0 +1,83 @@
+Policy ID: AC-001
+
+Policy Name:
+Access Control Policy
+
+Version:
+3.0
+
+Effective Date:
+2026-01-01
+
+Owner:
+Information Security Department
+
+
+1. Purpose
+
+The purpose of this policy is to establish requirements for controlling access to organizational systems, applications, and data. The organization follows the principle of least privilege to ensure users receive only the access necessary to perform their job responsibilities.
+
+
+2. Scope
+
+This policy applies to all employees, contractors, third-party users, applications, and systems that access organizational resources.
+
+
+3. Policy Requirements
+
+3.1 User Access Provisioning
+
+All user access requests must be approved by the user's manager and the appropriate system owner before access is granted.
+
+Access must be provisioned according to the user's job responsibilities and business requirements.
+
+3.2 Least Privilege
+
+Users must only receive the minimum permissions required to perform assigned responsibilities.
+
+Administrative privileges must be restricted to authorized personnel.
+
+3.3 Access Reviews
+
+User access reviews must be performed quarterly for critical systems.
+
+Reviewers must verify that:
+
+- Access is still required.
+- Access level is appropriate.
+- Former employees or inactive accounts are removed.
+
+3.4 Privileged Access
+
+Privileged accounts must use additional security controls including:
+
+- Multi-factor authentication.
+- Periodic access reviews.
+- Activity monitoring.
+
+3.5 Access Exceptions
+
+Any deviation from standard access requirements must be documented as a policy exception.
+
+Exceptions must include:
+
+- Business justification.
+- Risk assessment.
+- Approval from the system owner.
+- Expiration date.
+
+
+4. Control Mapping
+
+Control ID:
+AC-001
+
+Control Objective:
+Ensure access to organizational resources is authorized, appropriate, and periodically reviewed.
+
+Evidence Examples:
+
+- User access review reports.
+- Access approval tickets.
+- Privileged account inventories.
+- Identity provider logs.
