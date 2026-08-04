@@ -1,0 +1,1001 @@
+test_id,control_id,control_description,framework,result,evidence_id,tester,test_date,finding
+TEST000000,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000000,Compliance Team,2026-07-13,Control operating effectively.
+TEST000001,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000001,Compliance Team,2026-07-26,Control operating effectively.
+TEST000002,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000002,Security Engineering,2026-06-21,Control operating effectively.
+TEST000003,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000003,Compliance Team,2026-05-14,Control operating effectively.
+TEST000004,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,FAIL,EV000004,Internal Audit,2026-07-18,Minor documentation issue identified.
+TEST000005,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000005,Security Engineering,2026-07-18,Control operating effectively.
+TEST000006,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000006,Security Engineering,2026-03-10,Control operating effectively.
+TEST000007,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000007,Internal Audit,2026-07-14,Control operating effectively.
+TEST000008,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000008,Internal Audit,2026-05-04,Control operating effectively.
+TEST000009,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000009,Internal Audit,2026-03-14,Control operating effectively.
+TEST000010,IR-02,Incident response procedures are tested.,NIST CSF,FAIL,EV000010,Security Engineering,2026-04-30,Control operating effectively.
+TEST000011,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000011,Security Engineering,2026-07-21,Control operating effectively.
+TEST000012,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000012,Security Engineering,2026-03-19,Control operating effectively.
+TEST000013,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000013,Compliance Team,2026-07-24,Control operating effectively.
+TEST000014,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000014,Internal Audit,2026-03-04,Control operating effectively.
+TEST000015,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000015,Compliance Team,2026-05-16,Control operating effectively.
+TEST000016,IR-01,Incident response policies are established.,SOC 2,PASS,EV000016,Compliance Team,2026-04-03,Control operating effectively.
+TEST000017,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000017,Compliance Team,2026-06-25,Control operating effectively.
+TEST000018,IR-01,Incident response policies are established.,SOC 2,PASS,EV000018,Compliance Team,2026-02-21,Control operating effectively.
+TEST000019,CM-02,Systems maintain approved baseline configurations.,SOC 2,FAIL,EV000019,Compliance Team,2026-06-19,Control operating effectively.
+TEST000020,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,FAIL,EV000020,Security Engineering,2026-05-27,Control operating effectively.
+TEST000021,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000021,Security Engineering,2026-06-19,Control operating effectively.
+TEST000022,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000022,Compliance Team,2026-04-04,Control operating effectively.
+TEST000023,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000023,Compliance Team,2026-04-09,Control operating effectively.
+TEST000024,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000024,Compliance Team,2026-04-18,Control operating effectively.
+TEST000025,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000025,Compliance Team,2026-05-30,Control operating effectively.
+TEST000026,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000026,Security Engineering,2026-06-28,Control operating effectively.
+TEST000027,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,FAIL,EV000027,Security Engineering,2026-06-01,Privileged access review overdue.
+TEST000028,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000028,Internal Audit,2026-07-13,Control operating effectively.
+TEST000029,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000029,Internal Audit,2026-03-04,Control operating effectively.
+TEST000030,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,FAIL,EV000030,Internal Audit,2026-04-27,Control operating effectively.
+TEST000031,IR-01,Incident response policies are established.,SOC 2,PASS,EV000031,Internal Audit,2026-03-05,Control operating effectively.
+TEST000032,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000032,Compliance Team,2026-07-07,Control operating effectively.
+TEST000033,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000033,Internal Audit,2026-02-26,Control operating effectively.
+TEST000034,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000034,Internal Audit,2026-04-27,Control operating effectively.
+TEST000035,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000035,Internal Audit,2026-05-09,Control operating effectively.
+TEST000036,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000036,Internal Audit,2026-06-05,Control operating effectively.
+TEST000037,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000037,Security Engineering,2026-05-29,Control operating effectively.
+TEST000038,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000038,Security Engineering,2026-06-23,Control operating effectively.
+TEST000039,CM-01,Configuration management policies are established.,ISO 27001,FAIL,EV000039,Security Engineering,2026-04-01,Privileged access review overdue.
+TEST000040,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000040,Compliance Team,2026-04-05,Control operating effectively.
+TEST000041,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000041,Internal Audit,2026-06-15,Control operating effectively.
+TEST000042,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000042,Security Engineering,2026-07-26,Control operating effectively.
+TEST000043,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,FAIL,EV000043,Compliance Team,2026-02-18,Control operating effectively.
+TEST000044,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000044,Compliance Team,2026-02-05,Control operating effectively.
+TEST000045,IR-01,Incident response policies are established.,NIST CSF,FAIL,EV000045,Compliance Team,2026-06-24,Inactive accounts detected.
+TEST000046,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000046,Internal Audit,2026-05-26,Control operating effectively.
+TEST000047,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000047,Compliance Team,2026-05-12,Control operating effectively.
+TEST000048,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000048,Compliance Team,2026-06-29,Control operating effectively.
+TEST000049,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000049,Security Engineering,2026-05-24,Control operating effectively.
+TEST000050,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000050,Security Engineering,2026-05-30,Control operating effectively.
+TEST000051,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000051,Security Engineering,2026-05-12,Control operating effectively.
+TEST000052,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000052,Internal Audit,2026-07-17,Control operating effectively.
+TEST000053,IA-01,Identification and authentication policies are maintained.,NIST CSF,FAIL,EV000053,Security Engineering,2026-04-21,Minor documentation issue identified.
+TEST000054,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000054,Internal Audit,2026-02-01,Control operating effectively.
+TEST000055,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000055,Security Engineering,2026-06-14,Control operating effectively.
+TEST000056,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000056,Internal Audit,2026-05-05,Control operating effectively.
+TEST000057,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000057,Compliance Team,2026-04-22,Control operating effectively.
+TEST000058,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000058,Internal Audit,2026-07-09,Control operating effectively.
+TEST000059,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000059,Security Engineering,2026-07-20,Control operating effectively.
+TEST000060,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000060,Security Engineering,2026-07-20,Control operating effectively.
+TEST000061,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,FAIL,EV000061,Internal Audit,2026-04-08,Inactive accounts detected.
+TEST000062,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000062,Security Engineering,2026-02-10,Control operating effectively.
+TEST000063,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000063,Security Engineering,2026-04-02,Control operating effectively.
+TEST000064,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000064,Compliance Team,2026-06-03,Control operating effectively.
+TEST000065,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000065,Compliance Team,2026-05-15,Control operating effectively.
+TEST000066,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000066,Internal Audit,2026-04-10,Control operating effectively.
+TEST000067,CM-01,Configuration management policies are established.,SOC 2,FAIL,EV000067,Security Engineering,2026-04-25,Inactive accounts detected.
+TEST000068,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,FAIL,EV000068,Security Engineering,2026-03-11,Inactive accounts detected.
+TEST000069,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000069,Internal Audit,2026-02-06,Control operating effectively.
+TEST000070,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000070,Compliance Team,2026-06-30,Control operating effectively.
+TEST000071,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000071,Compliance Team,2026-06-12,Control operating effectively.
+TEST000072,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000072,Compliance Team,2026-02-10,Control operating effectively.
+TEST000073,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000073,Compliance Team,2026-05-28,Control operating effectively.
+TEST000074,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000074,Compliance Team,2026-02-18,Control operating effectively.
+TEST000075,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000075,Internal Audit,2026-04-21,Control operating effectively.
+TEST000076,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000076,Security Engineering,2026-03-25,Control operating effectively.
+TEST000077,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000077,Internal Audit,2026-01-29,Control operating effectively.
+TEST000078,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000078,Internal Audit,2026-03-22,Control operating effectively.
+TEST000079,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000079,Security Engineering,2026-05-24,Control operating effectively.
+TEST000080,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000080,Security Engineering,2026-05-05,Control operating effectively.
+TEST000081,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000081,Internal Audit,2026-03-24,Control operating effectively.
+TEST000082,AC-01,Access control policy is documented and maintained.,ISO 27001,FAIL,EV000082,Security Engineering,2026-02-09,Control operating effectively.
+TEST000083,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000083,Internal Audit,2026-04-19,Control operating effectively.
+TEST000084,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000084,Internal Audit,2026-04-15,Control operating effectively.
+TEST000085,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000085,Compliance Team,2026-06-06,Control operating effectively.
+TEST000086,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000086,Security Engineering,2026-05-21,Control operating effectively.
+TEST000087,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000087,Internal Audit,2026-02-01,Control operating effectively.
+TEST000088,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000088,Internal Audit,2026-04-14,Control operating effectively.
+TEST000089,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000089,Internal Audit,2026-06-19,Control operating effectively.
+TEST000090,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000090,Compliance Team,2026-03-23,Control operating effectively.
+TEST000091,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000091,Security Engineering,2026-05-14,Control operating effectively.
+TEST000092,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000092,Internal Audit,2026-06-05,Control operating effectively.
+TEST000093,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000093,Internal Audit,2026-02-13,Control operating effectively.
+TEST000094,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000094,Security Engineering,2026-05-11,Control operating effectively.
+TEST000095,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000095,Compliance Team,2026-07-06,Control operating effectively.
+TEST000096,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000096,Compliance Team,2026-04-09,Control operating effectively.
+TEST000097,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000097,Internal Audit,2026-05-19,Control operating effectively.
+TEST000098,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000098,Compliance Team,2026-04-03,Control operating effectively.
+TEST000099,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000099,Security Engineering,2026-03-01,Control operating effectively.
+TEST000100,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000100,Internal Audit,2026-07-02,Control operating effectively.
+TEST000101,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000101,Security Engineering,2026-06-20,Control operating effectively.
+TEST000102,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000102,Compliance Team,2026-05-06,Control operating effectively.
+TEST000103,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000103,Security Engineering,2026-07-24,Control operating effectively.
+TEST000104,IR-01,Incident response policies are established.,SOC 2,PASS,EV000104,Compliance Team,2026-02-10,Control operating effectively.
+TEST000105,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000105,Compliance Team,2026-05-06,Control operating effectively.
+TEST000106,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000106,Internal Audit,2026-02-13,Control operating effectively.
+TEST000107,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000107,Security Engineering,2026-01-31,Control operating effectively.
+TEST000108,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000108,Compliance Team,2026-02-27,Control operating effectively.
+TEST000109,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000109,Internal Audit,2026-02-18,Control operating effectively.
+TEST000110,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000110,Security Engineering,2026-07-16,Control operating effectively.
+TEST000111,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000111,Security Engineering,2026-04-23,Control operating effectively.
+TEST000112,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000112,Security Engineering,2026-02-24,Control operating effectively.
+TEST000113,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000113,Internal Audit,2026-05-13,Control operating effectively.
+TEST000114,IA-02,Users are uniquely identified and authenticated.,NIST CSF,FAIL,EV000114,Security Engineering,2026-02-12,Minor documentation issue identified.
+TEST000115,CM-02,Systems maintain approved baseline configurations.,SOC 2,FAIL,EV000115,Internal Audit,2026-03-29,Minor documentation issue identified.
+TEST000116,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000116,Security Engineering,2026-05-13,Control operating effectively.
+TEST000117,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000117,Security Engineering,2026-02-19,Control operating effectively.
+TEST000118,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000118,Internal Audit,2026-02-20,Control operating effectively.
+TEST000119,IA-02,Users are uniquely identified and authenticated.,SOC 2,FAIL,EV000119,Internal Audit,2026-03-09,Inactive accounts detected.
+TEST000120,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000120,Internal Audit,2026-06-01,Control operating effectively.
+TEST000121,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000121,Internal Audit,2026-03-29,Control operating effectively.
+TEST000122,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000122,Security Engineering,2026-02-17,Control operating effectively.
+TEST000123,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000123,Compliance Team,2026-02-15,Control operating effectively.
+TEST000124,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000124,Compliance Team,2026-04-30,Control operating effectively.
+TEST000125,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000125,Security Engineering,2026-04-26,Control operating effectively.
+TEST000126,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000126,Internal Audit,2026-03-21,Control operating effectively.
+TEST000127,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000127,Internal Audit,2026-03-19,Control operating effectively.
+TEST000128,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000128,Compliance Team,2026-05-03,Control operating effectively.
+TEST000129,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000129,Security Engineering,2026-01-29,Control operating effectively.
+TEST000130,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,FAIL,EV000130,Security Engineering,2026-04-06,Minor documentation issue identified.
+TEST000131,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000131,Internal Audit,2026-05-20,Control operating effectively.
+TEST000132,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000132,Internal Audit,2026-03-23,Control operating effectively.
+TEST000133,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000133,Internal Audit,2026-03-11,Control operating effectively.
+TEST000134,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000134,Internal Audit,2026-04-09,Control operating effectively.
+TEST000135,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000135,Compliance Team,2026-02-17,Control operating effectively.
+TEST000136,IR-01,Incident response policies are established.,SOC 2,PASS,EV000136,Internal Audit,2026-04-15,Control operating effectively.
+TEST000137,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000137,Compliance Team,2026-02-16,Control operating effectively.
+TEST000138,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000138,Internal Audit,2026-05-16,Control operating effectively.
+TEST000139,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000139,Security Engineering,2026-02-24,Control operating effectively.
+TEST000140,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000140,Internal Audit,2026-07-20,Control operating effectively.
+TEST000141,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000141,Compliance Team,2026-04-22,Control operating effectively.
+TEST000142,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000142,Security Engineering,2026-03-20,Control operating effectively.
+TEST000143,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000143,Compliance Team,2026-03-13,Control operating effectively.
+TEST000144,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000144,Security Engineering,2026-06-25,Control operating effectively.
+TEST000145,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000145,Security Engineering,2026-03-13,Control operating effectively.
+TEST000146,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000146,Internal Audit,2026-07-19,Control operating effectively.
+TEST000147,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000147,Compliance Team,2026-06-09,Control operating effectively.
+TEST000148,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000148,Security Engineering,2026-05-21,Control operating effectively.
+TEST000149,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000149,Compliance Team,2026-03-30,Control operating effectively.
+TEST000150,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000150,Internal Audit,2026-06-18,Control operating effectively.
+TEST000151,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000151,Compliance Team,2026-03-31,Control operating effectively.
+TEST000152,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,FAIL,EV000152,Compliance Team,2026-02-05,Minor documentation issue identified.
+TEST000153,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000153,Security Engineering,2026-02-01,Control operating effectively.
+TEST000154,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000154,Compliance Team,2026-05-07,Control operating effectively.
+TEST000155,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000155,Compliance Team,2026-03-11,Control operating effectively.
+TEST000156,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000156,Security Engineering,2026-03-16,Control operating effectively.
+TEST000157,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000157,Compliance Team,2026-03-31,Control operating effectively.
+TEST000158,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000158,Security Engineering,2026-05-31,Control operating effectively.
+TEST000159,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000159,Security Engineering,2026-05-16,Control operating effectively.
+TEST000160,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000160,Compliance Team,2026-07-07,Control operating effectively.
+TEST000161,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000161,Compliance Team,2026-02-21,Control operating effectively.
+TEST000162,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000162,Security Engineering,2026-05-05,Control operating effectively.
+TEST000163,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000163,Security Engineering,2026-07-01,Control operating effectively.
+TEST000164,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000164,Internal Audit,2026-04-13,Control operating effectively.
+TEST000165,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000165,Security Engineering,2026-05-29,Control operating effectively.
+TEST000166,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000166,Internal Audit,2026-06-26,Control operating effectively.
+TEST000167,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000167,Security Engineering,2026-03-23,Control operating effectively.
+TEST000168,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000168,Internal Audit,2026-07-26,Control operating effectively.
+TEST000169,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000169,Compliance Team,2026-07-13,Control operating effectively.
+TEST000170,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000170,Internal Audit,2026-05-22,Control operating effectively.
+TEST000171,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000171,Security Engineering,2026-06-17,Control operating effectively.
+TEST000172,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000172,Internal Audit,2026-05-25,Control operating effectively.
+TEST000173,IA-01,Identification and authentication policies are maintained.,SOC 2,FAIL,EV000173,Compliance Team,2026-06-28,Control operating effectively.
+TEST000174,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000174,Internal Audit,2026-04-16,Control operating effectively.
+TEST000175,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000175,Internal Audit,2026-02-24,Control operating effectively.
+TEST000176,IR-01,Incident response policies are established.,ISO 27001,FAIL,EV000176,Security Engineering,2026-05-21,Privileged access review overdue.
+TEST000177,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000177,Internal Audit,2026-03-18,Control operating effectively.
+TEST000178,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000178,Security Engineering,2026-07-12,Control operating effectively.
+TEST000179,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000179,Compliance Team,2026-04-05,Control operating effectively.
+TEST000180,IR-01,Incident response policies are established.,SOC 2,PASS,EV000180,Security Engineering,2026-06-20,Control operating effectively.
+TEST000181,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000181,Security Engineering,2026-05-18,Control operating effectively.
+TEST000182,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000182,Internal Audit,2026-07-09,Control operating effectively.
+TEST000183,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000183,Internal Audit,2026-03-14,Control operating effectively.
+TEST000184,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000184,Security Engineering,2026-03-29,Control operating effectively.
+TEST000185,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,FAIL,EV000185,Internal Audit,2026-04-25,Control operating effectively.
+TEST000186,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000186,Compliance Team,2026-05-06,Control operating effectively.
+TEST000187,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000187,Security Engineering,2026-03-08,Control operating effectively.
+TEST000188,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000188,Compliance Team,2026-07-21,Control operating effectively.
+TEST000189,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000189,Compliance Team,2026-07-19,Control operating effectively.
+TEST000190,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000190,Internal Audit,2026-06-28,Control operating effectively.
+TEST000191,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000191,Security Engineering,2026-03-13,Control operating effectively.
+TEST000192,CM-03,Configuration changes are controlled and documented.,ISO 27001,FAIL,EV000192,Compliance Team,2026-02-09,Minor documentation issue identified.
+TEST000193,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000193,Compliance Team,2026-06-17,Control operating effectively.
+TEST000194,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000194,Security Engineering,2026-04-10,Control operating effectively.
+TEST000195,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000195,Compliance Team,2026-05-03,Control operating effectively.
+TEST000196,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000196,Compliance Team,2026-03-02,Control operating effectively.
+TEST000197,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000197,Compliance Team,2026-05-27,Control operating effectively.
+TEST000198,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,FAIL,EV000198,Internal Audit,2026-04-17,Control operating effectively.
+TEST000199,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000199,Compliance Team,2026-02-04,Control operating effectively.
+TEST000200,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000200,Compliance Team,2026-07-01,Control operating effectively.
+TEST000201,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000201,Internal Audit,2026-07-10,Control operating effectively.
+TEST000202,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000202,Compliance Team,2026-05-08,Control operating effectively.
+TEST000203,CM-01,Configuration management policies are established.,ISO 27001,FAIL,EV000203,Compliance Team,2026-03-16,Inactive accounts detected.
+TEST000204,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000204,Compliance Team,2026-07-07,Control operating effectively.
+TEST000205,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000205,Security Engineering,2026-04-06,Control operating effectively.
+TEST000206,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,FAIL,EV000206,Internal Audit,2026-03-14,Minor documentation issue identified.
+TEST000207,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000207,Internal Audit,2026-02-19,Control operating effectively.
+TEST000208,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000208,Compliance Team,2026-03-21,Control operating effectively.
+TEST000209,CM-02,Systems maintain approved baseline configurations.,NIST CSF,FAIL,EV000209,Compliance Team,2026-04-25,Evidence incomplete.
+TEST000210,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000210,Compliance Team,2026-03-11,Control operating effectively.
+TEST000211,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000211,Compliance Team,2026-04-26,Control operating effectively.
+TEST000212,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000212,Security Engineering,2026-03-12,Control operating effectively.
+TEST000213,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000213,Compliance Team,2026-03-17,Control operating effectively.
+TEST000214,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000214,Compliance Team,2026-07-24,Control operating effectively.
+TEST000215,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000215,Security Engineering,2026-07-16,Control operating effectively.
+TEST000216,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000216,Compliance Team,2026-04-21,Control operating effectively.
+TEST000217,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000217,Compliance Team,2026-04-02,Control operating effectively.
+TEST000218,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000218,Security Engineering,2026-04-06,Control operating effectively.
+TEST000219,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000219,Internal Audit,2026-04-16,Control operating effectively.
+TEST000220,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000220,Internal Audit,2026-02-03,Control operating effectively.
+TEST000221,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000221,Compliance Team,2026-06-01,Control operating effectively.
+TEST000222,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000222,Security Engineering,2026-06-08,Control operating effectively.
+TEST000223,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000223,Security Engineering,2026-05-16,Control operating effectively.
+TEST000224,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000224,Compliance Team,2026-07-23,Control operating effectively.
+TEST000225,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,FAIL,EV000225,Security Engineering,2026-02-11,Evidence incomplete.
+TEST000226,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000226,Internal Audit,2026-03-22,Control operating effectively.
+TEST000227,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000227,Internal Audit,2026-05-18,Control operating effectively.
+TEST000228,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000228,Compliance Team,2026-04-29,Control operating effectively.
+TEST000229,IR-02,Incident response procedures are tested.,SOC 2,FAIL,EV000229,Compliance Team,2026-03-30,Minor documentation issue identified.
+TEST000230,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000230,Compliance Team,2026-04-11,Control operating effectively.
+TEST000231,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000231,Compliance Team,2026-05-17,Control operating effectively.
+TEST000232,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000232,Security Engineering,2026-06-24,Control operating effectively.
+TEST000233,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000233,Internal Audit,2026-03-24,Control operating effectively.
+TEST000234,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000234,Security Engineering,2026-06-29,Control operating effectively.
+TEST000235,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000235,Security Engineering,2026-04-05,Control operating effectively.
+TEST000236,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000236,Internal Audit,2026-06-09,Control operating effectively.
+TEST000237,IR-01,Incident response policies are established.,NIST SP 800-53,FAIL,EV000237,Security Engineering,2026-06-19,Evidence incomplete.
+TEST000238,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000238,Internal Audit,2026-07-15,Control operating effectively.
+TEST000239,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000239,Compliance Team,2026-02-11,Control operating effectively.
+TEST000240,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000240,Internal Audit,2026-05-26,Control operating effectively.
+TEST000241,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000241,Compliance Team,2026-06-10,Control operating effectively.
+TEST000242,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000242,Security Engineering,2026-02-13,Control operating effectively.
+TEST000243,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,FAIL,EV000243,Compliance Team,2026-07-24,Minor documentation issue identified.
+TEST000244,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000244,Security Engineering,2026-04-23,Control operating effectively.
+TEST000245,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000245,Internal Audit,2026-07-17,Control operating effectively.
+TEST000246,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000246,Internal Audit,2026-07-24,Control operating effectively.
+TEST000247,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000247,Internal Audit,2026-03-26,Control operating effectively.
+TEST000248,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000248,Compliance Team,2026-04-19,Control operating effectively.
+TEST000249,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000249,Internal Audit,2026-04-12,Control operating effectively.
+TEST000250,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000250,Internal Audit,2026-05-18,Control operating effectively.
+TEST000251,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000251,Compliance Team,2026-05-08,Control operating effectively.
+TEST000252,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000252,Compliance Team,2026-06-28,Control operating effectively.
+TEST000253,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000253,Internal Audit,2026-05-25,Control operating effectively.
+TEST000254,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000254,Internal Audit,2026-05-08,Control operating effectively.
+TEST000255,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000255,Compliance Team,2026-07-02,Control operating effectively.
+TEST000256,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000256,Security Engineering,2026-07-21,Control operating effectively.
+TEST000257,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000257,Security Engineering,2026-04-06,Control operating effectively.
+TEST000258,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000258,Security Engineering,2026-02-01,Control operating effectively.
+TEST000259,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000259,Compliance Team,2026-02-05,Control operating effectively.
+TEST000260,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000260,Security Engineering,2026-07-18,Control operating effectively.
+TEST000261,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000261,Compliance Team,2026-03-18,Control operating effectively.
+TEST000262,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000262,Internal Audit,2026-04-18,Control operating effectively.
+TEST000263,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000263,Internal Audit,2026-02-01,Control operating effectively.
+TEST000264,CM-03,Configuration changes are controlled and documented.,NIST CSF,FAIL,EV000264,Security Engineering,2026-04-17,Control operating effectively.
+TEST000265,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000265,Security Engineering,2026-03-12,Control operating effectively.
+TEST000266,CM-03,Configuration changes are controlled and documented.,NIST CSF,FAIL,EV000266,Internal Audit,2026-06-13,Minor documentation issue identified.
+TEST000267,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000267,Compliance Team,2026-06-20,Control operating effectively.
+TEST000268,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000268,Security Engineering,2026-04-09,Control operating effectively.
+TEST000269,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000269,Internal Audit,2026-01-30,Control operating effectively.
+TEST000270,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000270,Security Engineering,2026-03-20,Control operating effectively.
+TEST000271,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000271,Security Engineering,2026-06-30,Control operating effectively.
+TEST000272,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000272,Security Engineering,2026-03-28,Control operating effectively.
+TEST000273,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000273,Security Engineering,2026-07-19,Control operating effectively.
+TEST000274,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000274,Compliance Team,2026-03-11,Control operating effectively.
+TEST000275,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000275,Security Engineering,2026-03-13,Control operating effectively.
+TEST000276,IA-01,Identification and authentication policies are maintained.,SOC 2,FAIL,EV000276,Compliance Team,2026-02-19,Inactive accounts detected.
+TEST000277,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000277,Compliance Team,2026-06-21,Control operating effectively.
+TEST000278,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000278,Internal Audit,2026-05-31,Control operating effectively.
+TEST000279,IR-01,Incident response policies are established.,ISO 27001,FAIL,EV000279,Internal Audit,2026-06-27,Evidence incomplete.
+TEST000280,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000280,Compliance Team,2026-05-08,Control operating effectively.
+TEST000281,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000281,Security Engineering,2026-02-19,Control operating effectively.
+TEST000282,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,FAIL,EV000282,Compliance Team,2026-06-13,Privileged access review overdue.
+TEST000283,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000283,Internal Audit,2026-03-08,Control operating effectively.
+TEST000284,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000284,Internal Audit,2026-06-23,Control operating effectively.
+TEST000285,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000285,Compliance Team,2026-06-09,Control operating effectively.
+TEST000286,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000286,Internal Audit,2026-05-17,Control operating effectively.
+TEST000287,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000287,Compliance Team,2026-05-15,Control operating effectively.
+TEST000288,IA-02,Users are uniquely identified and authenticated.,SOC 2,FAIL,EV000288,Security Engineering,2026-04-27,Privileged access review overdue.
+TEST000289,IR-02,Incident response procedures are tested.,ISO 27001,FAIL,EV000289,Internal Audit,2026-07-01,Control operating effectively.
+TEST000290,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,FAIL,EV000290,Internal Audit,2026-06-28,Minor documentation issue identified.
+TEST000291,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000291,Compliance Team,2026-07-19,Control operating effectively.
+TEST000292,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000292,Compliance Team,2026-03-27,Control operating effectively.
+TEST000293,CM-02,Systems maintain approved baseline configurations.,ISO 27001,FAIL,EV000293,Security Engineering,2026-03-06,Inactive accounts detected.
+TEST000294,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000294,Compliance Team,2026-02-07,Control operating effectively.
+TEST000295,IR-01,Incident response policies are established.,SOC 2,PASS,EV000295,Compliance Team,2026-02-17,Control operating effectively.
+TEST000296,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000296,Internal Audit,2026-04-29,Control operating effectively.
+TEST000297,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000297,Internal Audit,2026-06-04,Control operating effectively.
+TEST000298,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000298,Internal Audit,2026-05-25,Control operating effectively.
+TEST000299,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,FAIL,EV000299,Security Engineering,2026-03-07,Control operating effectively.
+TEST000300,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000300,Compliance Team,2026-06-11,Control operating effectively.
+TEST000301,IR-02,Incident response procedures are tested.,NIST CSF,FAIL,EV000301,Internal Audit,2026-05-10,Privileged access review overdue.
+TEST000302,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000302,Compliance Team,2026-02-22,Control operating effectively.
+TEST000303,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000303,Internal Audit,2026-05-25,Control operating effectively.
+TEST000304,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,FAIL,EV000304,Compliance Team,2026-05-18,Minor documentation issue identified.
+TEST000305,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000305,Internal Audit,2026-07-14,Control operating effectively.
+TEST000306,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,FAIL,EV000306,Internal Audit,2026-04-09,Control operating effectively.
+TEST000307,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,FAIL,EV000307,Compliance Team,2026-03-23,Privileged access review overdue.
+TEST000308,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000308,Compliance Team,2026-07-25,Control operating effectively.
+TEST000309,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000309,Compliance Team,2026-04-28,Control operating effectively.
+TEST000310,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000310,Compliance Team,2026-03-21,Control operating effectively.
+TEST000311,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000311,Internal Audit,2026-05-01,Control operating effectively.
+TEST000312,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000312,Internal Audit,2026-05-13,Control operating effectively.
+TEST000313,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000313,Compliance Team,2026-07-22,Control operating effectively.
+TEST000314,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000314,Internal Audit,2026-02-05,Control operating effectively.
+TEST000315,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000315,Compliance Team,2026-07-24,Control operating effectively.
+TEST000316,AC-01,Access control policy is documented and maintained.,NIST CSF,FAIL,EV000316,Internal Audit,2026-04-07,Privileged access review overdue.
+TEST000317,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000317,Compliance Team,2026-06-26,Control operating effectively.
+TEST000318,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000318,Compliance Team,2026-03-26,Control operating effectively.
+TEST000319,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000319,Compliance Team,2026-02-11,Control operating effectively.
+TEST000320,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000320,Internal Audit,2026-03-13,Control operating effectively.
+TEST000321,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000321,Security Engineering,2026-07-23,Control operating effectively.
+TEST000322,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000322,Compliance Team,2026-06-25,Control operating effectively.
+TEST000323,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000323,Compliance Team,2026-05-07,Control operating effectively.
+TEST000324,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000324,Security Engineering,2026-07-04,Control operating effectively.
+TEST000325,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000325,Security Engineering,2026-03-04,Control operating effectively.
+TEST000326,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000326,Security Engineering,2026-03-30,Control operating effectively.
+TEST000327,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000327,Compliance Team,2026-06-03,Control operating effectively.
+TEST000328,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000328,Internal Audit,2026-06-06,Control operating effectively.
+TEST000329,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000329,Internal Audit,2026-06-11,Control operating effectively.
+TEST000330,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000330,Security Engineering,2026-03-26,Control operating effectively.
+TEST000331,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000331,Compliance Team,2026-03-21,Control operating effectively.
+TEST000332,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000332,Internal Audit,2026-07-23,Control operating effectively.
+TEST000333,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000333,Security Engineering,2026-04-05,Control operating effectively.
+TEST000334,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,FAIL,EV000334,Security Engineering,2026-03-19,Privileged access review overdue.
+TEST000335,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000335,Security Engineering,2026-06-10,Control operating effectively.
+TEST000336,CM-02,Systems maintain approved baseline configurations.,NIST CSF,FAIL,EV000336,Compliance Team,2026-05-27,Evidence incomplete.
+TEST000337,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000337,Security Engineering,2026-06-02,Control operating effectively.
+TEST000338,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000338,Internal Audit,2026-07-26,Control operating effectively.
+TEST000339,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000339,Internal Audit,2026-05-06,Control operating effectively.
+TEST000340,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000340,Internal Audit,2026-04-26,Control operating effectively.
+TEST000341,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000341,Internal Audit,2026-06-01,Control operating effectively.
+TEST000342,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000342,Compliance Team,2026-05-23,Control operating effectively.
+TEST000343,CM-03,Configuration changes are controlled and documented.,SOC 2,FAIL,EV000343,Internal Audit,2026-06-30,Minor documentation issue identified.
+TEST000344,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000344,Compliance Team,2026-07-24,Control operating effectively.
+TEST000345,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000345,Internal Audit,2026-04-12,Control operating effectively.
+TEST000346,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000346,Security Engineering,2026-07-15,Control operating effectively.
+TEST000347,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000347,Internal Audit,2026-02-18,Control operating effectively.
+TEST000348,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000348,Security Engineering,2026-03-23,Control operating effectively.
+TEST000349,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000349,Compliance Team,2026-04-03,Control operating effectively.
+TEST000350,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000350,Internal Audit,2026-06-16,Control operating effectively.
+TEST000351,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000351,Internal Audit,2026-05-12,Control operating effectively.
+TEST000352,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000352,Security Engineering,2026-07-02,Control operating effectively.
+TEST000353,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000353,Security Engineering,2026-05-11,Control operating effectively.
+TEST000354,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000354,Internal Audit,2026-03-13,Control operating effectively.
+TEST000355,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000355,Security Engineering,2026-03-01,Control operating effectively.
+TEST000356,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000356,Internal Audit,2026-02-23,Control operating effectively.
+TEST000357,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000357,Compliance Team,2026-02-17,Control operating effectively.
+TEST000358,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000358,Security Engineering,2026-03-19,Control operating effectively.
+TEST000359,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000359,Security Engineering,2026-07-26,Control operating effectively.
+TEST000360,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000360,Compliance Team,2026-05-09,Control operating effectively.
+TEST000361,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,FAIL,EV000361,Compliance Team,2026-04-14,Inactive accounts detected.
+TEST000362,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000362,Security Engineering,2026-02-16,Control operating effectively.
+TEST000363,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000363,Security Engineering,2026-03-15,Control operating effectively.
+TEST000364,IR-01,Incident response policies are established.,ISO 27001,FAIL,EV000364,Security Engineering,2026-03-30,Privileged access review overdue.
+TEST000365,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000365,Internal Audit,2026-04-18,Control operating effectively.
+TEST000366,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000366,Compliance Team,2026-02-22,Control operating effectively.
+TEST000367,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000367,Security Engineering,2026-04-14,Control operating effectively.
+TEST000368,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000368,Security Engineering,2026-04-02,Control operating effectively.
+TEST000369,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000369,Security Engineering,2026-04-06,Control operating effectively.
+TEST000370,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000370,Security Engineering,2026-07-16,Control operating effectively.
+TEST000371,CM-01,Configuration management policies are established.,ISO 27001,FAIL,EV000371,Security Engineering,2026-06-19,Control operating effectively.
+TEST000372,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000372,Compliance Team,2026-03-28,Control operating effectively.
+TEST000373,IR-01,Incident response policies are established.,ISO 27001,FAIL,EV000373,Compliance Team,2026-05-26,Evidence incomplete.
+TEST000374,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000374,Internal Audit,2026-04-29,Control operating effectively.
+TEST000375,CM-02,Systems maintain approved baseline configurations.,SOC 2,FAIL,EV000375,Security Engineering,2026-03-14,Evidence incomplete.
+TEST000376,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000376,Internal Audit,2026-03-27,Control operating effectively.
+TEST000377,CM-01,Configuration management policies are established.,SOC 2,FAIL,EV000377,Security Engineering,2026-04-21,Minor documentation issue identified.
+TEST000378,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,FAIL,EV000378,Compliance Team,2026-03-27,Inactive accounts detected.
+TEST000379,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000379,Security Engineering,2026-06-07,Control operating effectively.
+TEST000380,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000380,Security Engineering,2026-02-02,Control operating effectively.
+TEST000381,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000381,Internal Audit,2026-06-13,Control operating effectively.
+TEST000382,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000382,Security Engineering,2026-04-05,Control operating effectively.
+TEST000383,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000383,Compliance Team,2026-04-10,Control operating effectively.
+TEST000384,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000384,Compliance Team,2026-03-08,Control operating effectively.
+TEST000385,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000385,Compliance Team,2026-03-30,Control operating effectively.
+TEST000386,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000386,Internal Audit,2026-05-19,Control operating effectively.
+TEST000387,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000387,Compliance Team,2026-05-18,Control operating effectively.
+TEST000388,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000388,Internal Audit,2026-04-01,Control operating effectively.
+TEST000389,IR-01,Incident response policies are established.,NIST SP 800-53,FAIL,EV000389,Security Engineering,2026-07-20,Evidence incomplete.
+TEST000390,IR-02,Incident response procedures are tested.,ISO 27001,FAIL,EV000390,Security Engineering,2026-05-17,Inactive accounts detected.
+TEST000391,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000391,Internal Audit,2026-04-03,Control operating effectively.
+TEST000392,CM-01,Configuration management policies are established.,NIST CSF,FAIL,EV000392,Security Engineering,2026-04-25,Minor documentation issue identified.
+TEST000393,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000393,Security Engineering,2026-06-12,Control operating effectively.
+TEST000394,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000394,Security Engineering,2026-05-22,Control operating effectively.
+TEST000395,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000395,Security Engineering,2026-02-21,Control operating effectively.
+TEST000396,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000396,Security Engineering,2026-03-09,Control operating effectively.
+TEST000397,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000397,Compliance Team,2026-07-05,Control operating effectively.
+TEST000398,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000398,Security Engineering,2026-07-04,Control operating effectively.
+TEST000399,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000399,Security Engineering,2026-02-26,Control operating effectively.
+TEST000400,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000400,Compliance Team,2026-06-17,Control operating effectively.
+TEST000401,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000401,Internal Audit,2026-06-25,Control operating effectively.
+TEST000402,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000402,Compliance Team,2026-02-25,Control operating effectively.
+TEST000403,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000403,Security Engineering,2026-02-21,Control operating effectively.
+TEST000404,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000404,Compliance Team,2026-03-17,Control operating effectively.
+TEST000405,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000405,Security Engineering,2026-03-19,Control operating effectively.
+TEST000406,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000406,Compliance Team,2026-04-12,Control operating effectively.
+TEST000407,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000407,Compliance Team,2026-04-05,Control operating effectively.
+TEST000408,CM-01,Configuration management policies are established.,SOC 2,FAIL,EV000408,Security Engineering,2026-04-24,Inactive accounts detected.
+TEST000409,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000409,Security Engineering,2026-02-26,Control operating effectively.
+TEST000410,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000410,Security Engineering,2026-03-22,Control operating effectively.
+TEST000411,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000411,Internal Audit,2026-04-04,Control operating effectively.
+TEST000412,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000412,Internal Audit,2026-03-28,Control operating effectively.
+TEST000413,IA-01,Identification and authentication policies are maintained.,NIST CSF,FAIL,EV000413,Security Engineering,2026-03-14,Control operating effectively.
+TEST000414,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000414,Security Engineering,2026-04-10,Control operating effectively.
+TEST000415,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000415,Internal Audit,2026-07-04,Control operating effectively.
+TEST000416,IR-01,Incident response policies are established.,SOC 2,PASS,EV000416,Security Engineering,2026-02-10,Control operating effectively.
+TEST000417,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000417,Security Engineering,2026-05-26,Control operating effectively.
+TEST000418,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000418,Compliance Team,2026-06-09,Control operating effectively.
+TEST000419,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000419,Security Engineering,2026-05-09,Control operating effectively.
+TEST000420,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000420,Security Engineering,2026-01-31,Control operating effectively.
+TEST000421,CM-03,Configuration changes are controlled and documented.,SOC 2,FAIL,EV000421,Security Engineering,2026-03-25,Inactive accounts detected.
+TEST000422,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000422,Security Engineering,2026-04-25,Control operating effectively.
+TEST000423,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000423,Compliance Team,2026-02-19,Control operating effectively.
+TEST000424,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000424,Compliance Team,2026-07-27,Control operating effectively.
+TEST000425,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000425,Security Engineering,2026-05-06,Control operating effectively.
+TEST000426,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000426,Security Engineering,2026-04-13,Control operating effectively.
+TEST000427,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000427,Security Engineering,2026-05-01,Control operating effectively.
+TEST000428,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000428,Internal Audit,2026-04-02,Control operating effectively.
+TEST000429,AC-01,Access control policy is documented and maintained.,ISO 27001,FAIL,EV000429,Security Engineering,2026-04-09,Inactive accounts detected.
+TEST000430,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000430,Internal Audit,2026-07-20,Control operating effectively.
+TEST000431,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000431,Security Engineering,2026-05-28,Control operating effectively.
+TEST000432,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000432,Security Engineering,2026-07-22,Control operating effectively.
+TEST000433,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000433,Compliance Team,2026-04-27,Control operating effectively.
+TEST000434,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000434,Compliance Team,2026-04-15,Control operating effectively.
+TEST000435,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000435,Internal Audit,2026-07-20,Control operating effectively.
+TEST000436,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000436,Internal Audit,2026-06-11,Control operating effectively.
+TEST000437,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000437,Internal Audit,2026-04-11,Control operating effectively.
+TEST000438,IR-01,Incident response policies are established.,ISO 27001,FAIL,EV000438,Security Engineering,2026-07-27,Privileged access review overdue.
+TEST000439,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000439,Compliance Team,2026-07-10,Control operating effectively.
+TEST000440,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000440,Security Engineering,2026-07-21,Control operating effectively.
+TEST000441,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000441,Compliance Team,2026-01-30,Control operating effectively.
+TEST000442,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000442,Internal Audit,2026-06-25,Control operating effectively.
+TEST000443,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000443,Compliance Team,2026-06-29,Control operating effectively.
+TEST000444,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000444,Compliance Team,2026-02-07,Control operating effectively.
+TEST000445,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000445,Compliance Team,2026-06-04,Control operating effectively.
+TEST000446,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000446,Compliance Team,2026-03-02,Control operating effectively.
+TEST000447,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000447,Internal Audit,2026-05-13,Control operating effectively.
+TEST000448,IA-02,Users are uniquely identified and authenticated.,NIST CSF,FAIL,EV000448,Internal Audit,2026-05-31,Inactive accounts detected.
+TEST000449,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,FAIL,EV000449,Internal Audit,2026-04-18,Control operating effectively.
+TEST000450,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000450,Security Engineering,2026-04-14,Control operating effectively.
+TEST000451,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000451,Compliance Team,2026-06-26,Control operating effectively.
+TEST000452,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000452,Compliance Team,2026-07-24,Control operating effectively.
+TEST000453,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000453,Internal Audit,2026-07-15,Control operating effectively.
+TEST000454,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000454,Security Engineering,2026-06-21,Control operating effectively.
+TEST000455,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000455,Security Engineering,2026-04-10,Control operating effectively.
+TEST000456,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000456,Internal Audit,2026-03-07,Control operating effectively.
+TEST000457,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000457,Compliance Team,2026-06-11,Control operating effectively.
+TEST000458,IR-01,Incident response policies are established.,SOC 2,PASS,EV000458,Internal Audit,2026-03-21,Control operating effectively.
+TEST000459,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000459,Compliance Team,2026-07-07,Control operating effectively.
+TEST000460,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000460,Compliance Team,2026-04-22,Control operating effectively.
+TEST000461,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000461,Compliance Team,2026-03-14,Control operating effectively.
+TEST000462,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000462,Security Engineering,2026-05-09,Control operating effectively.
+TEST000463,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000463,Security Engineering,2026-04-01,Control operating effectively.
+TEST000464,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000464,Security Engineering,2026-03-03,Control operating effectively.
+TEST000465,IR-01,Incident response policies are established.,SOC 2,PASS,EV000465,Compliance Team,2026-03-19,Control operating effectively.
+TEST000466,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,FAIL,EV000466,Compliance Team,2026-02-09,Control operating effectively.
+TEST000467,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000467,Internal Audit,2026-05-23,Control operating effectively.
+TEST000468,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000468,Compliance Team,2026-02-19,Control operating effectively.
+TEST000469,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000469,Security Engineering,2026-04-12,Control operating effectively.
+TEST000470,CM-02,Systems maintain approved baseline configurations.,SOC 2,FAIL,EV000470,Internal Audit,2026-04-19,Control operating effectively.
+TEST000471,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000471,Internal Audit,2026-07-19,Control operating effectively.
+TEST000472,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000472,Internal Audit,2026-03-09,Control operating effectively.
+TEST000473,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000473,Compliance Team,2026-05-27,Control operating effectively.
+TEST000474,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000474,Compliance Team,2026-06-18,Control operating effectively.
+TEST000475,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000475,Internal Audit,2026-03-01,Control operating effectively.
+TEST000476,IR-02,Incident response procedures are tested.,ISO 27001,FAIL,EV000476,Internal Audit,2026-06-19,Evidence incomplete.
+TEST000477,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000477,Security Engineering,2026-07-11,Control operating effectively.
+TEST000478,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000478,Internal Audit,2026-03-15,Control operating effectively.
+TEST000479,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,FAIL,EV000479,Security Engineering,2026-04-18,Inactive accounts detected.
+TEST000480,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000480,Security Engineering,2026-07-22,Control operating effectively.
+TEST000481,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000481,Compliance Team,2026-07-15,Control operating effectively.
+TEST000482,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000482,Compliance Team,2026-04-25,Control operating effectively.
+TEST000483,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,FAIL,EV000483,Internal Audit,2026-03-13,Privileged access review overdue.
+TEST000484,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000484,Internal Audit,2026-02-04,Control operating effectively.
+TEST000485,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000485,Security Engineering,2026-06-22,Control operating effectively.
+TEST000486,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000486,Compliance Team,2026-05-16,Control operating effectively.
+TEST000487,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000487,Compliance Team,2026-06-28,Control operating effectively.
+TEST000488,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000488,Security Engineering,2026-02-13,Control operating effectively.
+TEST000489,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000489,Compliance Team,2026-07-04,Control operating effectively.
+TEST000490,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000490,Compliance Team,2026-01-29,Control operating effectively.
+TEST000491,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000491,Compliance Team,2026-02-28,Control operating effectively.
+TEST000492,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000492,Internal Audit,2026-02-26,Control operating effectively.
+TEST000493,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000493,Compliance Team,2026-04-11,Control operating effectively.
+TEST000494,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000494,Compliance Team,2026-02-18,Control operating effectively.
+TEST000495,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000495,Compliance Team,2026-03-28,Control operating effectively.
+TEST000496,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000496,Internal Audit,2026-06-30,Control operating effectively.
+TEST000497,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000497,Compliance Team,2026-04-14,Control operating effectively.
+TEST000498,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000498,Internal Audit,2026-04-25,Control operating effectively.
+TEST000499,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000499,Compliance Team,2026-05-03,Control operating effectively.
+TEST000500,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000500,Security Engineering,2026-07-06,Control operating effectively.
+TEST000501,AC-01,Access control policy is documented and maintained.,SOC 2,FAIL,EV000501,Security Engineering,2026-06-24,Privileged access review overdue.
+TEST000502,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000502,Internal Audit,2026-05-07,Control operating effectively.
+TEST000503,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000503,Compliance Team,2026-02-15,Control operating effectively.
+TEST000504,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000504,Compliance Team,2026-05-23,Control operating effectively.
+TEST000505,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000505,Internal Audit,2026-05-17,Control operating effectively.
+TEST000506,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000506,Compliance Team,2026-04-04,Control operating effectively.
+TEST000507,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000507,Internal Audit,2026-06-07,Control operating effectively.
+TEST000508,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,FAIL,EV000508,Compliance Team,2026-05-14,Control operating effectively.
+TEST000509,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000509,Security Engineering,2026-07-10,Control operating effectively.
+TEST000510,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000510,Security Engineering,2026-04-14,Control operating effectively.
+TEST000511,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000511,Compliance Team,2026-03-02,Control operating effectively.
+TEST000512,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000512,Internal Audit,2026-03-04,Control operating effectively.
+TEST000513,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000513,Security Engineering,2026-02-15,Control operating effectively.
+TEST000514,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000514,Security Engineering,2026-02-14,Control operating effectively.
+TEST000515,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000515,Security Engineering,2026-03-02,Control operating effectively.
+TEST000516,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000516,Compliance Team,2026-07-08,Control operating effectively.
+TEST000517,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,FAIL,EV000517,Compliance Team,2026-06-18,Minor documentation issue identified.
+TEST000518,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000518,Compliance Team,2026-03-27,Control operating effectively.
+TEST000519,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000519,Compliance Team,2026-05-17,Control operating effectively.
+TEST000520,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000520,Compliance Team,2026-05-31,Control operating effectively.
+TEST000521,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000521,Compliance Team,2026-07-20,Control operating effectively.
+TEST000522,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000522,Compliance Team,2026-02-22,Control operating effectively.
+TEST000523,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000523,Security Engineering,2026-04-18,Control operating effectively.
+TEST000524,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000524,Compliance Team,2026-04-22,Control operating effectively.
+TEST000525,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,FAIL,EV000525,Security Engineering,2026-03-08,Control operating effectively.
+TEST000526,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000526,Internal Audit,2026-05-20,Control operating effectively.
+TEST000527,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000527,Security Engineering,2026-02-03,Control operating effectively.
+TEST000528,IR-02,Incident response procedures are tested.,ISO 27001,FAIL,EV000528,Security Engineering,2026-07-18,Privileged access review overdue.
+TEST000529,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000529,Compliance Team,2026-07-20,Control operating effectively.
+TEST000530,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000530,Compliance Team,2026-02-26,Control operating effectively.
+TEST000531,CM-02,Systems maintain approved baseline configurations.,SOC 2,FAIL,EV000531,Compliance Team,2026-06-03,Control operating effectively.
+TEST000532,IA-02,Users are uniquely identified and authenticated.,ISO 27001,FAIL,EV000532,Internal Audit,2026-05-20,Minor documentation issue identified.
+TEST000533,CM-01,Configuration management policies are established.,NIST CSF,FAIL,EV000533,Internal Audit,2026-06-01,Inactive accounts detected.
+TEST000534,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,FAIL,EV000534,Compliance Team,2026-02-05,Evidence incomplete.
+TEST000535,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,FAIL,EV000535,Security Engineering,2026-05-02,Inactive accounts detected.
+TEST000536,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000536,Security Engineering,2026-03-09,Control operating effectively.
+TEST000537,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000537,Compliance Team,2026-04-24,Control operating effectively.
+TEST000538,IA-01,Identification and authentication policies are maintained.,SOC 2,FAIL,EV000538,Internal Audit,2026-04-04,Inactive accounts detected.
+TEST000539,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000539,Internal Audit,2026-03-04,Control operating effectively.
+TEST000540,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000540,Internal Audit,2026-03-30,Control operating effectively.
+TEST000541,CM-02,Systems maintain approved baseline configurations.,ISO 27001,FAIL,EV000541,Compliance Team,2026-03-16,Evidence incomplete.
+TEST000542,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000542,Security Engineering,2026-05-06,Control operating effectively.
+TEST000543,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000543,Compliance Team,2026-05-24,Control operating effectively.
+TEST000544,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000544,Security Engineering,2026-03-26,Control operating effectively.
+TEST000545,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000545,Internal Audit,2026-02-23,Control operating effectively.
+TEST000546,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000546,Internal Audit,2026-03-22,Control operating effectively.
+TEST000547,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000547,Internal Audit,2026-05-25,Control operating effectively.
+TEST000548,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000548,Compliance Team,2026-04-18,Control operating effectively.
+TEST000549,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000549,Compliance Team,2026-05-26,Control operating effectively.
+TEST000550,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000550,Security Engineering,2026-07-22,Control operating effectively.
+TEST000551,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000551,Security Engineering,2026-03-24,Control operating effectively.
+TEST000552,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000552,Security Engineering,2026-05-27,Control operating effectively.
+TEST000553,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000553,Compliance Team,2026-04-26,Control operating effectively.
+TEST000554,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000554,Compliance Team,2026-03-29,Control operating effectively.
+TEST000555,CM-01,Configuration management policies are established.,SOC 2,FAIL,EV000555,Internal Audit,2026-03-17,Evidence incomplete.
+TEST000556,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,FAIL,EV000556,Compliance Team,2026-05-18,Evidence incomplete.
+TEST000557,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000557,Compliance Team,2026-02-23,Control operating effectively.
+TEST000558,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000558,Internal Audit,2026-06-08,Control operating effectively.
+TEST000559,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000559,Security Engineering,2026-03-29,Control operating effectively.
+TEST000560,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000560,Security Engineering,2026-07-18,Control operating effectively.
+TEST000561,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000561,Internal Audit,2026-06-21,Control operating effectively.
+TEST000562,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000562,Security Engineering,2026-04-03,Control operating effectively.
+TEST000563,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000563,Internal Audit,2026-03-20,Control operating effectively.
+TEST000564,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000564,Compliance Team,2026-07-16,Control operating effectively.
+TEST000565,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000565,Internal Audit,2026-05-06,Control operating effectively.
+TEST000566,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000566,Compliance Team,2026-06-11,Control operating effectively.
+TEST000567,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000567,Security Engineering,2026-05-19,Control operating effectively.
+TEST000568,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000568,Security Engineering,2026-06-26,Control operating effectively.
+TEST000569,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000569,Internal Audit,2026-02-27,Control operating effectively.
+TEST000570,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000570,Internal Audit,2026-04-20,Control operating effectively.
+TEST000571,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,FAIL,EV000571,Compliance Team,2026-03-09,Control operating effectively.
+TEST000572,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000572,Security Engineering,2026-06-25,Control operating effectively.
+TEST000573,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000573,Compliance Team,2026-04-20,Control operating effectively.
+TEST000574,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000574,Internal Audit,2026-01-31,Control operating effectively.
+TEST000575,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000575,Security Engineering,2026-06-02,Control operating effectively.
+TEST000576,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000576,Compliance Team,2026-03-06,Control operating effectively.
+TEST000577,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000577,Internal Audit,2026-05-18,Control operating effectively.
+TEST000578,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000578,Compliance Team,2026-05-01,Control operating effectively.
+TEST000579,IR-01,Incident response policies are established.,ISO 27001,FAIL,EV000579,Security Engineering,2026-05-29,Control operating effectively.
+TEST000580,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000580,Compliance Team,2026-02-19,Control operating effectively.
+TEST000581,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000581,Security Engineering,2026-05-18,Control operating effectively.
+TEST000582,IR-01,Incident response policies are established.,ISO 27001,FAIL,EV000582,Security Engineering,2026-02-15,Privileged access review overdue.
+TEST000583,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000583,Compliance Team,2026-03-23,Control operating effectively.
+TEST000584,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000584,Compliance Team,2026-05-25,Control operating effectively.
+TEST000585,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000585,Compliance Team,2026-03-30,Control operating effectively.
+TEST000586,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000586,Internal Audit,2026-06-27,Control operating effectively.
+TEST000587,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000587,Internal Audit,2026-04-07,Control operating effectively.
+TEST000588,CM-01,Configuration management policies are established.,ISO 27001,FAIL,EV000588,Internal Audit,2026-04-23,Control operating effectively.
+TEST000589,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,FAIL,EV000589,Security Engineering,2026-03-23,Evidence incomplete.
+TEST000590,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000590,Compliance Team,2026-05-14,Control operating effectively.
+TEST000591,AC-01,Access control policy is documented and maintained.,ISO 27001,FAIL,EV000591,Internal Audit,2026-05-11,Control operating effectively.
+TEST000592,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000592,Internal Audit,2026-04-26,Control operating effectively.
+TEST000593,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000593,Security Engineering,2026-03-22,Control operating effectively.
+TEST000594,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000594,Security Engineering,2026-06-19,Control operating effectively.
+TEST000595,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000595,Internal Audit,2026-07-08,Control operating effectively.
+TEST000596,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000596,Compliance Team,2026-07-09,Control operating effectively.
+TEST000597,IA-02,Users are uniquely identified and authenticated.,SOC 2,FAIL,EV000597,Internal Audit,2026-05-31,Control operating effectively.
+TEST000598,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000598,Security Engineering,2026-05-26,Control operating effectively.
+TEST000599,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000599,Internal Audit,2026-02-17,Control operating effectively.
+TEST000600,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000600,Internal Audit,2026-04-14,Control operating effectively.
+TEST000601,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000601,Security Engineering,2026-02-03,Control operating effectively.
+TEST000602,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000602,Internal Audit,2026-06-26,Control operating effectively.
+TEST000603,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000603,Compliance Team,2026-02-02,Control operating effectively.
+TEST000604,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000604,Security Engineering,2026-05-22,Control operating effectively.
+TEST000605,IR-01,Incident response policies are established.,SOC 2,PASS,EV000605,Compliance Team,2026-06-27,Control operating effectively.
+TEST000606,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000606,Internal Audit,2026-03-08,Control operating effectively.
+TEST000607,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000607,Compliance Team,2026-01-29,Control operating effectively.
+TEST000608,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,FAIL,EV000608,Compliance Team,2026-05-09,Evidence incomplete.
+TEST000609,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000609,Security Engineering,2026-02-19,Control operating effectively.
+TEST000610,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,FAIL,EV000610,Internal Audit,2026-03-17,Evidence incomplete.
+TEST000611,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000611,Compliance Team,2026-04-29,Control operating effectively.
+TEST000612,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000612,Internal Audit,2026-05-17,Control operating effectively.
+TEST000613,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000613,Internal Audit,2026-03-28,Control operating effectively.
+TEST000614,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000614,Internal Audit,2026-05-17,Control operating effectively.
+TEST000615,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000615,Internal Audit,2026-07-14,Control operating effectively.
+TEST000616,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000616,Security Engineering,2026-06-13,Control operating effectively.
+TEST000617,IR-01,Incident response policies are established.,NIST CSF,FAIL,EV000617,Security Engineering,2026-05-12,Inactive accounts detected.
+TEST000618,CM-03,Configuration changes are controlled and documented.,NIST CSF,FAIL,EV000618,Security Engineering,2026-07-08,Control operating effectively.
+TEST000619,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000619,Security Engineering,2026-04-05,Control operating effectively.
+TEST000620,CM-02,Systems maintain approved baseline configurations.,NIST CSF,FAIL,EV000620,Compliance Team,2026-07-11,Control operating effectively.
+TEST000621,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000621,Internal Audit,2026-03-08,Control operating effectively.
+TEST000622,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000622,Internal Audit,2026-04-23,Control operating effectively.
+TEST000623,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000623,Compliance Team,2026-05-19,Control operating effectively.
+TEST000624,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000624,Internal Audit,2026-06-12,Control operating effectively.
+TEST000625,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000625,Compliance Team,2026-03-16,Control operating effectively.
+TEST000626,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000626,Compliance Team,2026-02-05,Control operating effectively.
+TEST000627,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000627,Compliance Team,2026-05-17,Control operating effectively.
+TEST000628,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000628,Security Engineering,2026-06-25,Control operating effectively.
+TEST000629,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000629,Compliance Team,2026-07-25,Control operating effectively.
+TEST000630,IR-02,Incident response procedures are tested.,NIST CSF,FAIL,EV000630,Internal Audit,2026-04-18,Minor documentation issue identified.
+TEST000631,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000631,Internal Audit,2026-06-19,Control operating effectively.
+TEST000632,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000632,Compliance Team,2026-06-10,Control operating effectively.
+TEST000633,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000633,Compliance Team,2026-03-09,Control operating effectively.
+TEST000634,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,FAIL,EV000634,Compliance Team,2026-04-23,Minor documentation issue identified.
+TEST000635,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000635,Compliance Team,2026-03-05,Control operating effectively.
+TEST000636,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000636,Internal Audit,2026-07-05,Control operating effectively.
+TEST000637,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000637,Internal Audit,2026-04-01,Control operating effectively.
+TEST000638,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000638,Internal Audit,2026-07-06,Control operating effectively.
+TEST000639,IR-01,Incident response policies are established.,SOC 2,PASS,EV000639,Security Engineering,2026-04-06,Control operating effectively.
+TEST000640,CM-03,Configuration changes are controlled and documented.,ISO 27001,FAIL,EV000640,Internal Audit,2026-07-05,Evidence incomplete.
+TEST000641,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000641,Internal Audit,2026-02-14,Control operating effectively.
+TEST000642,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000642,Security Engineering,2026-03-01,Control operating effectively.
+TEST000643,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000643,Internal Audit,2026-06-29,Control operating effectively.
+TEST000644,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000644,Compliance Team,2026-05-05,Control operating effectively.
+TEST000645,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000645,Compliance Team,2026-02-11,Control operating effectively.
+TEST000646,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000646,Internal Audit,2026-02-23,Control operating effectively.
+TEST000647,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000647,Internal Audit,2026-07-26,Control operating effectively.
+TEST000648,IA-02,Users are uniquely identified and authenticated.,ISO 27001,FAIL,EV000648,Security Engineering,2026-05-13,Privileged access review overdue.
+TEST000649,IA-02,Users are uniquely identified and authenticated.,SOC 2,FAIL,EV000649,Security Engineering,2026-05-17,Control operating effectively.
+TEST000650,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000650,Internal Audit,2026-05-22,Control operating effectively.
+TEST000651,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000651,Internal Audit,2026-03-11,Control operating effectively.
+TEST000652,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000652,Compliance Team,2026-07-14,Control operating effectively.
+TEST000653,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000653,Security Engineering,2026-04-11,Control operating effectively.
+TEST000654,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000654,Internal Audit,2026-07-07,Control operating effectively.
+TEST000655,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000655,Security Engineering,2026-04-14,Control operating effectively.
+TEST000656,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000656,Compliance Team,2026-06-29,Control operating effectively.
+TEST000657,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000657,Internal Audit,2026-03-09,Control operating effectively.
+TEST000658,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000658,Security Engineering,2026-06-07,Control operating effectively.
+TEST000659,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000659,Security Engineering,2026-02-01,Control operating effectively.
+TEST000660,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000660,Security Engineering,2026-04-12,Control operating effectively.
+TEST000661,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000661,Security Engineering,2026-04-14,Control operating effectively.
+TEST000662,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000662,Internal Audit,2026-02-15,Control operating effectively.
+TEST000663,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000663,Internal Audit,2026-02-20,Control operating effectively.
+TEST000664,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000664,Internal Audit,2026-02-25,Control operating effectively.
+TEST000665,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000665,Security Engineering,2026-04-06,Control operating effectively.
+TEST000666,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000666,Internal Audit,2026-03-04,Control operating effectively.
+TEST000667,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000667,Security Engineering,2026-02-18,Control operating effectively.
+TEST000668,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000668,Security Engineering,2026-04-27,Control operating effectively.
+TEST000669,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000669,Compliance Team,2026-05-12,Control operating effectively.
+TEST000670,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000670,Internal Audit,2026-07-21,Control operating effectively.
+TEST000671,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000671,Internal Audit,2026-04-25,Control operating effectively.
+TEST000672,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000672,Internal Audit,2026-03-09,Control operating effectively.
+TEST000673,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000673,Security Engineering,2026-05-29,Control operating effectively.
+TEST000674,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000674,Security Engineering,2026-06-08,Control operating effectively.
+TEST000675,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000675,Internal Audit,2026-04-29,Control operating effectively.
+TEST000676,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000676,Internal Audit,2026-03-25,Control operating effectively.
+TEST000677,CM-01,Configuration management policies are established.,NIST CSF,FAIL,EV000677,Security Engineering,2026-03-06,Minor documentation issue identified.
+TEST000678,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000678,Compliance Team,2026-07-24,Control operating effectively.
+TEST000679,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000679,Compliance Team,2026-04-13,Control operating effectively.
+TEST000680,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000680,Compliance Team,2026-04-29,Control operating effectively.
+TEST000681,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000681,Security Engineering,2026-07-21,Control operating effectively.
+TEST000682,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000682,Security Engineering,2026-06-13,Control operating effectively.
+TEST000683,AC-01,Access control policy is documented and maintained.,SOC 2,FAIL,EV000683,Security Engineering,2026-06-11,Privileged access review overdue.
+TEST000684,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000684,Compliance Team,2026-03-21,Control operating effectively.
+TEST000685,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000685,Internal Audit,2026-03-11,Control operating effectively.
+TEST000686,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000686,Security Engineering,2026-03-14,Control operating effectively.
+TEST000687,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000687,Internal Audit,2026-07-08,Control operating effectively.
+TEST000688,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000688,Internal Audit,2026-01-31,Control operating effectively.
+TEST000689,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000689,Internal Audit,2026-06-28,Control operating effectively.
+TEST000690,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000690,Internal Audit,2026-05-25,Control operating effectively.
+TEST000691,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000691,Compliance Team,2026-02-18,Control operating effectively.
+TEST000692,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000692,Compliance Team,2026-03-28,Control operating effectively.
+TEST000693,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,FAIL,EV000693,Security Engineering,2026-05-03,Evidence incomplete.
+TEST000694,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000694,Internal Audit,2026-04-01,Control operating effectively.
+TEST000695,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000695,Compliance Team,2026-06-11,Control operating effectively.
+TEST000696,CM-03,Configuration changes are controlled and documented.,ISO 27001,FAIL,EV000696,Security Engineering,2026-05-04,Privileged access review overdue.
+TEST000697,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,FAIL,EV000697,Internal Audit,2026-05-03,Control operating effectively.
+TEST000698,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000698,Security Engineering,2026-06-19,Control operating effectively.
+TEST000699,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000699,Compliance Team,2026-04-03,Control operating effectively.
+TEST000700,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000700,Internal Audit,2026-06-12,Control operating effectively.
+TEST000701,IA-02,Users are uniquely identified and authenticated.,NIST CSF,FAIL,EV000701,Security Engineering,2026-06-17,Control operating effectively.
+TEST000702,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000702,Internal Audit,2026-06-06,Control operating effectively.
+TEST000703,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000703,Security Engineering,2026-04-15,Control operating effectively.
+TEST000704,IA-02,Users are uniquely identified and authenticated.,ISO 27001,FAIL,EV000704,Compliance Team,2026-06-28,Minor documentation issue identified.
+TEST000705,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000705,Internal Audit,2026-04-27,Control operating effectively.
+TEST000706,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000706,Internal Audit,2026-06-27,Control operating effectively.
+TEST000707,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000707,Compliance Team,2026-04-12,Control operating effectively.
+TEST000708,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000708,Internal Audit,2026-07-02,Control operating effectively.
+TEST000709,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000709,Internal Audit,2026-06-26,Control operating effectively.
+TEST000710,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,FAIL,EV000710,Internal Audit,2026-02-05,Privileged access review overdue.
+TEST000711,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000711,Security Engineering,2026-02-16,Control operating effectively.
+TEST000712,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000712,Internal Audit,2026-05-06,Control operating effectively.
+TEST000713,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000713,Security Engineering,2026-02-02,Control operating effectively.
+TEST000714,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000714,Security Engineering,2026-02-11,Control operating effectively.
+TEST000715,IA-01,Identification and authentication policies are maintained.,ISO 27001,FAIL,EV000715,Internal Audit,2026-06-20,Privileged access review overdue.
+TEST000716,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000716,Security Engineering,2026-03-31,Control operating effectively.
+TEST000717,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000717,Internal Audit,2026-07-02,Control operating effectively.
+TEST000718,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000718,Compliance Team,2026-04-30,Control operating effectively.
+TEST000719,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000719,Compliance Team,2026-02-24,Control operating effectively.
+TEST000720,IA-02,Users are uniquely identified and authenticated.,ISO 27001,FAIL,EV000720,Security Engineering,2026-04-17,Evidence incomplete.
+TEST000721,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000721,Internal Audit,2026-03-30,Control operating effectively.
+TEST000722,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,FAIL,EV000722,Compliance Team,2026-02-04,Control operating effectively.
+TEST000723,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000723,Security Engineering,2026-05-18,Control operating effectively.
+TEST000724,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000724,Compliance Team,2026-02-25,Control operating effectively.
+TEST000725,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,FAIL,EV000725,Compliance Team,2026-02-17,Inactive accounts detected.
+TEST000726,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000726,Internal Audit,2026-01-31,Control operating effectively.
+TEST000727,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000727,Security Engineering,2026-06-23,Control operating effectively.
+TEST000728,IR-01,Incident response policies are established.,SOC 2,PASS,EV000728,Internal Audit,2026-07-10,Control operating effectively.
+TEST000729,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000729,Internal Audit,2026-04-30,Control operating effectively.
+TEST000730,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000730,Internal Audit,2026-07-14,Control operating effectively.
+TEST000731,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000731,Internal Audit,2026-02-08,Control operating effectively.
+TEST000732,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000732,Security Engineering,2026-03-10,Control operating effectively.
+TEST000733,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000733,Compliance Team,2026-02-06,Control operating effectively.
+TEST000734,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000734,Internal Audit,2026-02-06,Control operating effectively.
+TEST000735,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,FAIL,EV000735,Internal Audit,2026-07-12,Inactive accounts detected.
+TEST000736,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000736,Security Engineering,2026-05-21,Control operating effectively.
+TEST000737,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000737,Compliance Team,2026-03-28,Control operating effectively.
+TEST000738,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000738,Compliance Team,2026-02-09,Control operating effectively.
+TEST000739,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000739,Security Engineering,2026-03-07,Control operating effectively.
+TEST000740,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000740,Compliance Team,2026-02-21,Control operating effectively.
+TEST000741,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000741,Internal Audit,2026-06-24,Control operating effectively.
+TEST000742,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,FAIL,EV000742,Compliance Team,2026-03-24,Evidence incomplete.
+TEST000743,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000743,Compliance Team,2026-05-05,Control operating effectively.
+TEST000744,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000744,Compliance Team,2026-07-04,Control operating effectively.
+TEST000745,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000745,Internal Audit,2026-06-08,Control operating effectively.
+TEST000746,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000746,Compliance Team,2026-07-18,Control operating effectively.
+TEST000747,IA-01,Identification and authentication policies are maintained.,SOC 2,FAIL,EV000747,Compliance Team,2026-02-01,Evidence incomplete.
+TEST000748,AC-01,Access control policy is documented and maintained.,SOC 2,FAIL,EV000748,Compliance Team,2026-07-03,Evidence incomplete.
+TEST000749,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000749,Compliance Team,2026-06-17,Control operating effectively.
+TEST000750,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000750,Security Engineering,2026-07-25,Control operating effectively.
+TEST000751,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000751,Compliance Team,2026-06-18,Control operating effectively.
+TEST000752,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000752,Compliance Team,2026-03-10,Control operating effectively.
+TEST000753,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000753,Compliance Team,2026-05-06,Control operating effectively.
+TEST000754,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000754,Internal Audit,2026-06-20,Control operating effectively.
+TEST000755,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000755,Internal Audit,2026-04-12,Control operating effectively.
+TEST000756,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000756,Compliance Team,2026-02-13,Control operating effectively.
+TEST000757,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000757,Compliance Team,2026-02-24,Control operating effectively.
+TEST000758,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000758,Compliance Team,2026-02-04,Control operating effectively.
+TEST000759,IR-01,Incident response policies are established.,NIST CSF,FAIL,EV000759,Compliance Team,2026-03-28,Privileged access review overdue.
+TEST000760,CM-02,Systems maintain approved baseline configurations.,SOC 2,FAIL,EV000760,Security Engineering,2026-05-26,Evidence incomplete.
+TEST000761,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000761,Security Engineering,2026-04-25,Control operating effectively.
+TEST000762,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000762,Internal Audit,2026-04-09,Control operating effectively.
+TEST000763,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000763,Compliance Team,2026-02-21,Control operating effectively.
+TEST000764,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000764,Compliance Team,2026-02-10,Control operating effectively.
+TEST000765,IA-02,Users are uniquely identified and authenticated.,ISO 27001,FAIL,EV000765,Internal Audit,2026-03-17,Evidence incomplete.
+TEST000766,IR-02,Incident response procedures are tested.,ISO 27001,FAIL,EV000766,Compliance Team,2026-03-20,Evidence incomplete.
+TEST000767,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000767,Internal Audit,2026-04-12,Control operating effectively.
+TEST000768,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000768,Security Engineering,2026-07-08,Control operating effectively.
+TEST000769,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000769,Internal Audit,2026-03-23,Control operating effectively.
+TEST000770,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,FAIL,EV000770,Internal Audit,2026-03-17,Evidence incomplete.
+TEST000771,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000771,Compliance Team,2026-07-05,Control operating effectively.
+TEST000772,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000772,Internal Audit,2026-03-18,Control operating effectively.
+TEST000773,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000773,Compliance Team,2026-03-10,Control operating effectively.
+TEST000774,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000774,Security Engineering,2026-06-11,Control operating effectively.
+TEST000775,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000775,Internal Audit,2026-02-11,Control operating effectively.
+TEST000776,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000776,Internal Audit,2026-03-24,Control operating effectively.
+TEST000777,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000777,Compliance Team,2026-05-26,Control operating effectively.
+TEST000778,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000778,Compliance Team,2026-02-03,Control operating effectively.
+TEST000779,IA-01,Identification and authentication policies are maintained.,ISO 27001,FAIL,EV000779,Internal Audit,2026-04-19,Evidence incomplete.
+TEST000780,CM-01,Configuration management policies are established.,NIST CSF,FAIL,EV000780,Internal Audit,2026-04-04,Control operating effectively.
+TEST000781,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000781,Security Engineering,2026-07-16,Control operating effectively.
+TEST000782,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000782,Internal Audit,2026-04-07,Control operating effectively.
+TEST000783,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000783,Internal Audit,2026-07-11,Control operating effectively.
+TEST000784,IR-01,Incident response policies are established.,SOC 2,PASS,EV000784,Compliance Team,2026-05-24,Control operating effectively.
+TEST000785,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000785,Compliance Team,2026-02-15,Control operating effectively.
+TEST000786,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000786,Compliance Team,2026-06-30,Control operating effectively.
+TEST000787,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000787,Internal Audit,2026-03-03,Control operating effectively.
+TEST000788,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,FAIL,EV000788,Compliance Team,2026-03-26,Evidence incomplete.
+TEST000789,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000789,Compliance Team,2026-05-15,Control operating effectively.
+TEST000790,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000790,Internal Audit,2026-07-01,Control operating effectively.
+TEST000791,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000791,Compliance Team,2026-04-08,Control operating effectively.
+TEST000792,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000792,Security Engineering,2026-02-14,Control operating effectively.
+TEST000793,IR-02,Incident response procedures are tested.,NIST CSF,FAIL,EV000793,Security Engineering,2026-03-11,Privileged access review overdue.
+TEST000794,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,FAIL,EV000794,Security Engineering,2026-03-30,Control operating effectively.
+TEST000795,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000795,Security Engineering,2026-05-20,Control operating effectively.
+TEST000796,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000796,Compliance Team,2026-02-23,Control operating effectively.
+TEST000797,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000797,Internal Audit,2026-02-16,Control operating effectively.
+TEST000798,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000798,Compliance Team,2026-07-11,Control operating effectively.
+TEST000799,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000799,Internal Audit,2026-06-11,Control operating effectively.
+TEST000800,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000800,Internal Audit,2026-03-02,Control operating effectively.
+TEST000801,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000801,Internal Audit,2026-02-20,Control operating effectively.
+TEST000802,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000802,Internal Audit,2026-04-15,Control operating effectively.
+TEST000803,IA-01,Identification and authentication policies are maintained.,NIST CSF,FAIL,EV000803,Compliance Team,2026-03-22,Control operating effectively.
+TEST000804,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000804,Internal Audit,2026-05-19,Control operating effectively.
+TEST000805,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000805,Compliance Team,2026-04-23,Control operating effectively.
+TEST000806,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,FAIL,EV000806,Internal Audit,2026-05-07,Control operating effectively.
+TEST000807,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000807,Security Engineering,2026-05-13,Control operating effectively.
+TEST000808,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000808,Internal Audit,2026-07-26,Control operating effectively.
+TEST000809,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000809,Compliance Team,2026-02-28,Control operating effectively.
+TEST000810,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000810,Internal Audit,2026-06-04,Control operating effectively.
+TEST000811,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000811,Compliance Team,2026-05-12,Control operating effectively.
+TEST000812,AC-01,Access control policy is documented and maintained.,ISO 27001,FAIL,EV000812,Compliance Team,2026-06-04,Minor documentation issue identified.
+TEST000813,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000813,Security Engineering,2026-02-06,Control operating effectively.
+TEST000814,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000814,Security Engineering,2026-04-28,Control operating effectively.
+TEST000815,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000815,Internal Audit,2026-05-23,Control operating effectively.
+TEST000816,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,FAIL,EV000816,Security Engineering,2026-07-03,Inactive accounts detected.
+TEST000817,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000817,Internal Audit,2026-03-24,Control operating effectively.
+TEST000818,IR-01,Incident response policies are established.,SOC 2,PASS,EV000818,Security Engineering,2026-03-29,Control operating effectively.
+TEST000819,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000819,Compliance Team,2026-05-16,Control operating effectively.
+TEST000820,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000820,Internal Audit,2026-07-10,Control operating effectively.
+TEST000821,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000821,Compliance Team,2026-01-30,Control operating effectively.
+TEST000822,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000822,Compliance Team,2026-07-22,Control operating effectively.
+TEST000823,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000823,Compliance Team,2026-06-14,Control operating effectively.
+TEST000824,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000824,Compliance Team,2026-05-07,Control operating effectively.
+TEST000825,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000825,Compliance Team,2026-02-15,Control operating effectively.
+TEST000826,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000826,Security Engineering,2026-04-10,Control operating effectively.
+TEST000827,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000827,Compliance Team,2026-05-21,Control operating effectively.
+TEST000828,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000828,Internal Audit,2026-05-01,Control operating effectively.
+TEST000829,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000829,Internal Audit,2026-05-16,Control operating effectively.
+TEST000830,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000830,Security Engineering,2026-02-08,Control operating effectively.
+TEST000831,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000831,Compliance Team,2026-05-19,Control operating effectively.
+TEST000832,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000832,Compliance Team,2026-07-15,Control operating effectively.
+TEST000833,IR-02,Incident response procedures are tested.,NIST CSF,FAIL,EV000833,Internal Audit,2026-04-11,Control operating effectively.
+TEST000834,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000834,Compliance Team,2026-02-27,Control operating effectively.
+TEST000835,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000835,Internal Audit,2026-01-30,Control operating effectively.
+TEST000836,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000836,Internal Audit,2026-07-03,Control operating effectively.
+TEST000837,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000837,Internal Audit,2026-05-02,Control operating effectively.
+TEST000838,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000838,Internal Audit,2026-06-16,Control operating effectively.
+TEST000839,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000839,Internal Audit,2026-05-17,Control operating effectively.
+TEST000840,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000840,Compliance Team,2026-04-05,Control operating effectively.
+TEST000841,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,FAIL,EV000841,Compliance Team,2026-07-06,Minor documentation issue identified.
+TEST000842,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000842,Internal Audit,2026-03-18,Control operating effectively.
+TEST000843,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000843,Security Engineering,2026-04-26,Control operating effectively.
+TEST000844,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000844,Security Engineering,2026-05-07,Control operating effectively.
+TEST000845,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000845,Internal Audit,2026-06-22,Control operating effectively.
+TEST000846,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000846,Security Engineering,2026-03-10,Control operating effectively.
+TEST000847,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000847,Security Engineering,2026-03-14,Control operating effectively.
+TEST000848,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000848,Security Engineering,2026-02-28,Control operating effectively.
+TEST000849,IA-01,Identification and authentication policies are maintained.,ISO 27001,PASS,EV000849,Compliance Team,2026-03-11,Control operating effectively.
+TEST000850,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000850,Compliance Team,2026-03-07,Control operating effectively.
+TEST000851,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000851,Security Engineering,2026-05-28,Control operating effectively.
+TEST000852,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000852,Security Engineering,2026-07-23,Control operating effectively.
+TEST000853,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000853,Security Engineering,2026-05-11,Control operating effectively.
+TEST000854,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000854,Security Engineering,2026-07-17,Control operating effectively.
+TEST000855,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,PASS,EV000855,Compliance Team,2026-04-04,Control operating effectively.
+TEST000856,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000856,Security Engineering,2026-04-23,Control operating effectively.
+TEST000857,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000857,Internal Audit,2026-05-25,Control operating effectively.
+TEST000858,IA-01,Identification and authentication policies are maintained.,NIST CSF,FAIL,EV000858,Compliance Team,2026-05-23,Inactive accounts detected.
+TEST000859,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000859,Internal Audit,2026-05-26,Control operating effectively.
+TEST000860,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000860,Security Engineering,2026-05-28,Control operating effectively.
+TEST000861,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000861,Internal Audit,2026-07-25,Control operating effectively.
+TEST000862,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000862,Compliance Team,2026-03-14,Control operating effectively.
+TEST000863,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000863,Security Engineering,2026-05-02,Control operating effectively.
+TEST000864,AC-01,Access control policy is documented and maintained.,NIST CSF,FAIL,EV000864,Compliance Team,2026-03-02,Minor documentation issue identified.
+TEST000865,AC-01,Access control policy is documented and maintained.,ISO 27001,FAIL,EV000865,Internal Audit,2026-05-10,Control operating effectively.
+TEST000866,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000866,Security Engineering,2026-03-07,Control operating effectively.
+TEST000867,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000867,Security Engineering,2026-03-12,Control operating effectively.
+TEST000868,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000868,Security Engineering,2026-06-13,Control operating effectively.
+TEST000869,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000869,Security Engineering,2026-06-06,Control operating effectively.
+TEST000870,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,FAIL,EV000870,Security Engineering,2026-07-11,Evidence incomplete.
+TEST000871,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000871,Security Engineering,2026-06-06,Control operating effectively.
+TEST000872,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000872,Internal Audit,2026-02-16,Control operating effectively.
+TEST000873,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000873,Security Engineering,2026-05-23,Control operating effectively.
+TEST000874,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000874,Security Engineering,2026-04-11,Control operating effectively.
+TEST000875,CM-01,Configuration management policies are established.,NIST CSF,FAIL,EV000875,Compliance Team,2026-07-27,Control operating effectively.
+TEST000876,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000876,Compliance Team,2026-05-02,Control operating effectively.
+TEST000877,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000877,Internal Audit,2026-06-21,Control operating effectively.
+TEST000878,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000878,Internal Audit,2026-07-04,Control operating effectively.
+TEST000879,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000879,Security Engineering,2026-04-15,Control operating effectively.
+TEST000880,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000880,Internal Audit,2026-04-03,Control operating effectively.
+TEST000881,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000881,Security Engineering,2026-03-01,Control operating effectively.
+TEST000882,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000882,Compliance Team,2026-03-03,Control operating effectively.
+TEST000883,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000883,Security Engineering,2026-04-21,Control operating effectively.
+TEST000884,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST CSF,FAIL,EV000884,Security Engineering,2026-03-22,Privileged access review overdue.
+TEST000885,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000885,Compliance Team,2026-05-23,Control operating effectively.
+TEST000886,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000886,Security Engineering,2026-06-30,Control operating effectively.
+TEST000887,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000887,Compliance Team,2026-04-05,Control operating effectively.
+TEST000888,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000888,Compliance Team,2026-05-08,Control operating effectively.
+TEST000889,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000889,Security Engineering,2026-06-01,Control operating effectively.
+TEST000890,IR-02,Incident response procedures are tested.,NIST SP 800-53,FAIL,EV000890,Internal Audit,2026-06-06,Evidence incomplete.
+TEST000891,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000891,Internal Audit,2026-06-09,Control operating effectively.
+TEST000892,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000892,Security Engineering,2026-04-03,Control operating effectively.
+TEST000893,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000893,Internal Audit,2026-07-06,Control operating effectively.
+TEST000894,CM-01,Configuration management policies are established.,NIST SP 800-53,FAIL,EV000894,Compliance Team,2026-07-21,Minor documentation issue identified.
+TEST000895,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000895,Internal Audit,2026-03-09,Control operating effectively.
+TEST000896,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,FAIL,EV000896,Compliance Team,2026-04-05,Control operating effectively.
+TEST000897,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000897,Internal Audit,2026-06-09,Control operating effectively.
+TEST000898,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000898,Compliance Team,2026-03-26,Control operating effectively.
+TEST000899,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000899,Compliance Team,2026-06-03,Control operating effectively.
+TEST000900,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000900,Security Engineering,2026-01-30,Control operating effectively.
+TEST000901,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000901,Compliance Team,2026-05-25,Control operating effectively.
+TEST000902,IA-01,Identification and authentication policies are maintained.,NIST CSF,PASS,EV000902,Internal Audit,2026-07-13,Control operating effectively.
+TEST000903,CM-02,Systems maintain approved baseline configurations.,NIST CSF,FAIL,EV000903,Internal Audit,2026-06-02,Inactive accounts detected.
+TEST000904,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000904,Compliance Team,2026-07-03,Control operating effectively.
+TEST000905,IR-01,Incident response policies are established.,ISO 27001,PASS,EV000905,Internal Audit,2026-02-27,Control operating effectively.
+TEST000906,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000906,Internal Audit,2026-02-07,Control operating effectively.
+TEST000907,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000907,Compliance Team,2026-04-28,Control operating effectively.
+TEST000908,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000908,Compliance Team,2026-07-14,Control operating effectively.
+TEST000909,IA-01,Identification and authentication policies are maintained.,NIST SP 800-53,PASS,EV000909,Security Engineering,2026-03-18,Control operating effectively.
+TEST000910,CM-01,Configuration management policies are established.,ISO 27001,FAIL,EV000910,Security Engineering,2026-02-19,Inactive accounts detected.
+TEST000911,CM-02,Systems maintain approved baseline configurations.,SOC 2,PASS,EV000911,Security Engineering,2026-07-06,Control operating effectively.
+TEST000912,CM-03,Configuration changes are controlled and documented.,ISO 27001,FAIL,EV000912,Internal Audit,2026-07-03,Minor documentation issue identified.
+TEST000913,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000913,Compliance Team,2026-01-31,Control operating effectively.
+TEST000914,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000914,Internal Audit,2026-06-12,Control operating effectively.
+TEST000915,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000915,Security Engineering,2026-07-09,Control operating effectively.
+TEST000916,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000916,Compliance Team,2026-07-13,Control operating effectively.
+TEST000917,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000917,Internal Audit,2026-02-07,Control operating effectively.
+TEST000918,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000918,Internal Audit,2026-03-17,Control operating effectively.
+TEST000919,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000919,Compliance Team,2026-05-08,Control operating effectively.
+TEST000920,IR-01,Incident response policies are established.,NIST CSF,PASS,EV000920,Internal Audit,2026-05-12,Control operating effectively.
+TEST000921,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000921,Internal Audit,2026-01-30,Control operating effectively.
+TEST000922,CM-01,Configuration management policies are established.,NIST CSF,PASS,EV000922,Internal Audit,2026-02-09,Control operating effectively.
+TEST000923,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000923,Compliance Team,2026-04-16,Control operating effectively.
+TEST000924,AC-01,Access control policy is documented and maintained.,SOC 2,PASS,EV000924,Internal Audit,2026-06-26,Control operating effectively.
+TEST000925,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000925,Security Engineering,2026-07-18,Control operating effectively.
+TEST000926,IR-02,Incident response procedures are tested.,SOC 2,PASS,EV000926,Security Engineering,2026-06-17,Control operating effectively.
+TEST000927,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,FAIL,EV000927,Compliance Team,2026-04-17,Minor documentation issue identified.
+TEST000928,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000928,Security Engineering,2026-07-27,Control operating effectively.
+TEST000929,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000929,Compliance Team,2026-07-15,Control operating effectively.
+TEST000930,AC-01,Access control policy is documented and maintained.,NIST CSF,FAIL,EV000930,Security Engineering,2026-01-29,Control operating effectively.
+TEST000931,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000931,Internal Audit,2026-06-20,Control operating effectively.
+TEST000932,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000932,Compliance Team,2026-04-22,Control operating effectively.
+TEST000933,CM-02,Systems maintain approved baseline configurations.,ISO 27001,PASS,EV000933,Compliance Team,2026-03-17,Control operating effectively.
+TEST000934,AC-01,Access control policy is documented and maintained.,ISO 27001,FAIL,EV000934,Security Engineering,2026-07-23,Evidence incomplete.
+TEST000935,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000935,Compliance Team,2026-07-25,Control operating effectively.
+TEST000936,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000936,Compliance Team,2026-05-16,Control operating effectively.
+TEST000937,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000937,Compliance Team,2026-05-24,Control operating effectively.
+TEST000938,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000938,Security Engineering,2026-01-29,Control operating effectively.
+TEST000939,AC-03,Access enforcement mechanisms restrict unauthorized access.,NIST SP 800-53,PASS,EV000939,Security Engineering,2026-03-17,Control operating effectively.
+TEST000940,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000940,Security Engineering,2026-02-11,Control operating effectively.
+TEST000941,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,FAIL,EV000941,Compliance Team,2026-05-26,Evidence incomplete.
+TEST000942,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000942,Internal Audit,2026-06-05,Control operating effectively.
+TEST000943,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000943,Compliance Team,2026-05-20,Control operating effectively.
+TEST000944,IR-01,Incident response policies are established.,NIST CSF,FAIL,EV000944,Internal Audit,2026-03-30,Minor documentation issue identified.
+TEST000945,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000945,Internal Audit,2026-04-15,Control operating effectively.
+TEST000946,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000946,Compliance Team,2026-06-09,Control operating effectively.
+TEST000947,CM-03,Configuration changes are controlled and documented.,ISO 27001,PASS,EV000947,Internal Audit,2026-03-23,Control operating effectively.
+TEST000948,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000948,Security Engineering,2026-05-13,Control operating effectively.
+TEST000949,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,PASS,EV000949,Internal Audit,2026-01-30,Control operating effectively.
+TEST000950,CM-02,Systems maintain approved baseline configurations.,NIST CSF,FAIL,EV000950,Compliance Team,2026-02-05,Privileged access review overdue.
+TEST000951,IR-02,Incident response procedures are tested.,NIST CSF,PASS,EV000951,Compliance Team,2026-02-13,Control operating effectively.
+TEST000952,AC-03,Access enforcement mechanisms restrict unauthorized access.,ISO 27001,PASS,EV000952,Security Engineering,2026-06-07,Control operating effectively.
+TEST000953,IA-02,Users are uniquely identified and authenticated.,NIST SP 800-53,PASS,EV000953,Compliance Team,2026-02-07,Control operating effectively.
+TEST000954,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000954,Internal Audit,2026-03-17,Control operating effectively.
+TEST000955,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000955,Internal Audit,2026-05-25,Control operating effectively.
+TEST000956,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST CSF,PASS,EV000956,Internal Audit,2026-05-02,Control operating effectively.
+TEST000957,IA-02,Users are uniquely identified and authenticated.,NIST CSF,PASS,EV000957,Compliance Team,2026-05-28,Control operating effectively.
+TEST000958,AC-01,Access control policy is documented and maintained.,NIST CSF,PASS,EV000958,Compliance Team,2026-02-12,Control operating effectively.
+TEST000959,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000959,Security Engineering,2026-04-02,Control operating effectively.
+TEST000960,IR-01,Incident response policies are established.,NIST SP 800-53,PASS,EV000960,Security Engineering,2026-07-23,Control operating effectively.
+TEST000961,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000961,Internal Audit,2026-05-20,Control operating effectively.
+TEST000962,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000962,Internal Audit,2026-05-12,Control operating effectively.
+TEST000963,IR-02,Incident response procedures are tested.,ISO 27001,FAIL,EV000963,Compliance Team,2026-03-09,Minor documentation issue identified.
+TEST000964,CM-03,Configuration changes are controlled and documented.,SOC 2,PASS,EV000964,Security Engineering,2026-02-13,Control operating effectively.
+TEST000965,CM-01,Configuration management policies are established.,ISO 27001,FAIL,EV000965,Compliance Team,2026-04-21,Evidence incomplete.
+TEST000966,CM-01,Configuration management policies are established.,ISO 27001,PASS,EV000966,Internal Audit,2026-04-05,Control operating effectively.
+TEST000967,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000967,Compliance Team,2026-06-13,Control operating effectively.
+TEST000968,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000968,Internal Audit,2026-04-04,Control operating effectively.
+TEST000969,IR-01,Incident response policies are established.,ISO 27001,FAIL,EV000969,Compliance Team,2026-02-25,Evidence incomplete.
+TEST000970,IR-02,Incident response procedures are tested.,ISO 27001,PASS,EV000970,Security Engineering,2026-02-01,Control operating effectively.
+TEST000971,AC-01,Access control policy is documented and maintained.,ISO 27001,PASS,EV000971,Compliance Team,2026-04-04,Control operating effectively.
+TEST000972,AC-02,User access is reviewed periodically and unauthorized access is removed.,ISO 27001,PASS,EV000972,Compliance Team,2026-05-12,Control operating effectively.
+TEST000973,AC-02,User access is reviewed periodically and unauthorized access is removed.,SOC 2,PASS,EV000973,Internal Audit,2026-02-26,Control operating effectively.
+TEST000974,IR-01,Incident response policies are established.,NIST SP 800-53,FAIL,EV000974,Compliance Team,2026-04-06,Privileged access review overdue.
+TEST000975,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000975,Internal Audit,2026-07-13,Control operating effectively.
+TEST000976,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000976,Security Engineering,2026-03-07,Control operating effectively.
+TEST000977,AC-02,User access is reviewed periodically and unauthorized access is removed.,NIST SP 800-53,PASS,EV000977,Security Engineering,2026-05-28,Control operating effectively.
+TEST000978,IR-02,Incident response procedures are tested.,NIST SP 800-53,PASS,EV000978,Compliance Team,2026-03-10,Control operating effectively.
+TEST000979,CM-03,Configuration changes are controlled and documented.,NIST CSF,PASS,EV000979,Security Engineering,2026-03-23,Control operating effectively.
+TEST000980,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000980,Security Engineering,2026-03-09,Control operating effectively.
+TEST000981,IA-02,Users are uniquely identified and authenticated.,NIST CSF,FAIL,EV000981,Compliance Team,2026-04-10,Minor documentation issue identified.
+TEST000982,IR-01,Incident response policies are established.,SOC 2,PASS,EV000982,Compliance Team,2026-07-17,Control operating effectively.
+TEST000983,AC-03,Access enforcement mechanisms restrict unauthorized access.,SOC 2,PASS,EV000983,Security Engineering,2026-02-22,Control operating effectively.
+TEST000984,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,PASS,EV000984,Compliance Team,2026-05-24,Control operating effectively.
+TEST000985,AC-01,Access control policy is documented and maintained.,ISO 27001,FAIL,EV000985,Security Engineering,2026-04-07,Privileged access review overdue.
+TEST000986,IA-02,Users are uniquely identified and authenticated.,ISO 27001,PASS,EV000986,Compliance Team,2026-02-15,Control operating effectively.
+TEST000987,AC-01,Access control policy is documented and maintained.,NIST CSF,FAIL,EV000987,Internal Audit,2026-06-24,Inactive accounts detected.
+TEST000988,CM-03,Configuration changes are controlled and documented.,NIST SP 800-53,FAIL,EV000988,Internal Audit,2026-06-02,Inactive accounts detected.
+TEST000989,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000989,Compliance Team,2026-05-16,Control operating effectively.
+TEST000990,CM-02,Systems maintain approved baseline configurations.,NIST SP 800-53,FAIL,EV000990,Compliance Team,2026-02-10,Inactive accounts detected.
+TEST000991,AC-01,Access control policy is documented and maintained.,NIST SP 800-53,PASS,EV000991,Security Engineering,2026-06-25,Control operating effectively.
+TEST000992,CM-01,Configuration management policies are established.,SOC 2,PASS,EV000992,Internal Audit,2026-05-31,Control operating effectively.
+TEST000993,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000993,Internal Audit,2026-04-06,Control operating effectively.
+TEST000994,CM-03,Configuration changes are controlled and documented.,SOC 2,FAIL,EV000994,Security Engineering,2026-06-11,Inactive accounts detected.
+TEST000995,IA-02,Users are uniquely identified and authenticated.,SOC 2,PASS,EV000995,Compliance Team,2026-02-10,Control operating effectively.
+TEST000996,IR-02,Incident response procedures are tested.,NIST CSF,FAIL,EV000996,Compliance Team,2026-04-16,Minor documentation issue identified.
+TEST000997,CM-02,Systems maintain approved baseline configurations.,NIST CSF,PASS,EV000997,Security Engineering,2026-03-19,Control operating effectively.
+TEST000998,CM-01,Configuration management policies are established.,NIST SP 800-53,PASS,EV000998,Security Engineering,2026-03-23,Control operating effectively.
+TEST000999,IA-01,Identification and authentication policies are maintained.,SOC 2,PASS,EV000999,Internal Audit,2026-04-24,Control operating effectively.

@@ -1,0 +1,1001 @@
+exception_id,policy,owner_employee_id,owner_name,department,risk_level,justification,approved,created_date,expiration_date
+PEX000001,Acceptable Use Policy,EMP00439,Mia Davis,IT,High,Business requirement,False,2026-07-25 16:29:28.719121,2026-12-12 16:29:28.719121
+PEX000002,Acceptable Use Policy,EMP00334,Kelly Reese,Human Resources,High,Business requirement,False,2026-06-21 16:29:28.719121,2027-02-13 16:29:28.719121
+PEX000003,Acceptable Use Policy,EMP00160,Tammy Rodriguez,Legal,Critical,Business requirement,True,2026-01-29 16:29:28.719121,2026-09-19 16:29:28.719121
+PEX000004,MFA Policy,EMP00093,Cody Taylor,Legal,Critical,Business requirement,False,2026-07-17 16:29:28.719121,2026-11-18 16:29:28.719121
+PEX000005,MFA Policy,EMP00242,George Yoder,Finance,Low,Business requirement,False,2026-03-22 16:29:28.719121,2027-02-11 16:29:28.719121
+PEX000006,Remote Access Policy,EMP00233,Sharon Villarreal,Security,High,Business requirement,False,2026-05-13 16:29:28.719121,2027-03-22 16:29:28.719121
+PEX000007,MFA Policy,EMP00392,Shannon Fernandez,Operations,Low,Business requirement,False,2026-07-17 16:29:28.719121,2026-11-07 16:29:28.719121
+PEX000008,Password Policy,EMP00058,Brian Velasquez,Operations,Low,Business requirement,False,2026-02-28 16:29:28.719121,2026-04-06 16:29:28.719121
+PEX000009,Patch Management Policy,EMP00403,Alexandra Hansen,Security,Low,Business requirement,False,2026-03-09 16:29:28.719121,2026-12-30 16:29:28.719121
+PEX000010,Password Policy,EMP00144,Joseph Bryant,Operations,High,Business requirement,True,2026-02-01 16:29:28.719121,2026-09-24 16:29:28.719121
+PEX000011,Remote Access Policy,EMP00087,Steven Schneider,Operations,High,Business requirement,True,2026-03-03 16:29:28.719121,2026-09-25 16:29:28.719121
+PEX000012,MFA Policy,EMP00197,Brandon West,Finance,Critical,Business requirement,False,2026-06-04 16:29:28.719121,2027-06-04 16:29:28.719121
+PEX000013,Patch Management Policy,EMP00304,Martin Whitaker,IT,Medium,Business requirement,True,2026-07-26 16:29:28.719121,2027-01-01 16:29:28.719121
+PEX000014,Password Policy,EMP00348,Laura Neal,Operations,High,Business requirement,False,2026-03-03 16:29:28.719121,2026-07-08 16:29:28.719121
+PEX000015,Remote Access Policy,EMP00500,Daniel Hall,Human Resources,Low,Business requirement,False,2026-06-26 16:29:28.719121,2027-02-28 16:29:28.719121
+PEX000016,Password Policy,EMP00313,Darren Middleton,Human Resources,Critical,Business requirement,False,2026-07-07 16:29:28.719121,2027-06-29 16:29:28.719121
+PEX000017,Password Policy,EMP00291,Mario Bailey,Engineering,High,Business requirement,True,2026-06-15 16:29:28.719121,2027-02-09 16:29:28.719121
+PEX000018,Acceptable Use Policy,EMP00222,Leah Dennis,Human Resources,Critical,Business requirement,False,2026-06-04 16:29:28.719121,2026-10-30 16:29:28.719121
+PEX000019,Acceptable Use Policy,EMP00398,Jonathan Torres,Human Resources,High,Business requirement,True,2026-07-16 16:29:28.719121,2026-08-19 16:29:28.719121
+PEX000020,Remote Access Policy,EMP00385,Beth Nichols,Security,Medium,Business requirement,False,2026-07-09 16:29:28.719121,2026-10-11 16:29:28.719121
+PEX000021,Remote Access Policy,EMP00322,Michael Arias,Operations,Medium,Business requirement,True,2026-07-04 16:29:28.719121,2026-11-12 16:29:28.719121
+PEX000022,Remote Access Policy,EMP00500,Daniel Hall,Human Resources,High,Business requirement,False,2026-05-03 16:29:28.719121,2026-07-26 16:29:28.719121
+PEX000023,Patch Management Policy,EMP00164,Mary Meyer,IT,High,Business requirement,True,2026-03-31 16:29:28.719121,2026-06-24 16:29:28.719121
+PEX000024,MFA Policy,EMP00038,Raymond Berry,Legal,High,Business requirement,False,2026-01-29 16:29:28.719121,2026-12-07 16:29:28.719121
+PEX000025,Acceptable Use Policy,EMP00158,Cassie Hoffman,Security,Low,Business requirement,True,2026-05-11 16:29:28.719121,2026-09-13 16:29:28.719121
+PEX000026,Remote Access Policy,EMP00001,John Lopez,Human Resources,High,Business requirement,False,2026-03-11 16:29:28.719121,2026-12-28 16:29:28.719121
+PEX000027,Password Policy,EMP00392,Shannon Fernandez,Operations,Medium,Business requirement,True,2026-06-24 16:29:28.719121,2027-05-10 16:29:28.719121
+PEX000028,MFA Policy,EMP00499,Ryan Cummings,Human Resources,Low,Business requirement,False,2026-02-22 16:29:28.719121,2026-08-23 16:29:28.719121
+PEX000029,Patch Management Policy,EMP00134,Marilyn Garcia,Operations,Medium,Business requirement,True,2026-05-17 16:29:28.719121,2026-07-14 16:29:28.719121
+PEX000030,Password Policy,EMP00245,Sarah Jefferson,Operations,Medium,Business requirement,True,2026-07-16 16:29:28.719121,2027-07-01 16:29:28.719121
+PEX000031,Remote Access Policy,EMP00129,Leslie Preston,Security,Low,Business requirement,True,2026-06-26 16:29:28.719121,2027-03-05 16:29:28.719121
+PEX000032,Patch Management Policy,EMP00118,Nicole Orr,Finance,Critical,Business requirement,False,2026-06-03 16:29:28.719121,2026-07-26 16:29:28.719121
+PEX000033,Patch Management Policy,EMP00284,David Miller,IT,Critical,Business requirement,True,2026-04-01 16:29:28.719121,2026-10-07 16:29:28.719121
+PEX000034,Patch Management Policy,EMP00379,Michael White,Engineering,Medium,Business requirement,True,2026-03-14 16:29:28.719121,2026-07-29 16:29:28.719121
+PEX000035,Password Policy,EMP00291,Mario Bailey,Engineering,Low,Business requirement,False,2026-07-24 16:29:28.719121,2026-11-07 16:29:28.719121
+PEX000036,Patch Management Policy,EMP00261,Michael Carpenter,Human Resources,Medium,Business requirement,True,2026-04-07 16:29:28.719121,2026-12-19 16:29:28.719121
+PEX000037,MFA Policy,EMP00321,Dr. Shari Waters MD,Legal,Low,Business requirement,False,2026-07-19 16:29:28.719121,2026-10-19 16:29:28.719121
+PEX000038,Remote Access Policy,EMP00207,Robert Ford,Legal,Low,Business requirement,True,2026-04-30 16:29:28.719121,2027-03-10 16:29:28.719121
+PEX000039,MFA Policy,EMP00260,Thomas Allen,Human Resources,Low,Business requirement,True,2026-02-25 16:29:28.719121,2026-04-29 16:29:28.719121
+PEX000040,Password Policy,EMP00046,Jorge Fisher,Legal,High,Business requirement,True,2026-06-19 16:29:28.719121,2026-08-20 16:29:28.719121
+PEX000041,Password Policy,EMP00215,Jenny Mckinney,Security,Low,Business requirement,False,2026-05-30 16:29:28.719121,2026-07-11 16:29:28.719121
+PEX000042,Patch Management Policy,EMP00067,Jennifer Richardson,Engineering,Medium,Business requirement,False,2026-04-24 16:29:28.719121,2026-07-26 16:29:28.719121
+PEX000043,Password Policy,EMP00396,Brittany Lynn,IT,Low,Business requirement,True,2026-03-04 16:29:28.719121,2026-08-10 16:29:28.719121
+PEX000044,Remote Access Policy,EMP00220,Daniel Smith,Finance,Critical,Business requirement,False,2026-06-26 16:29:28.719121,2026-08-07 16:29:28.719121
+PEX000045,Patch Management Policy,EMP00322,Michael Arias,Operations,Medium,Business requirement,True,2026-07-02 16:29:28.719121,2026-09-11 16:29:28.719121
+PEX000046,MFA Policy,EMP00269,Travis Johnson,Security,Critical,Business requirement,False,2026-06-01 16:29:28.719121,2026-12-21 16:29:28.719121
+PEX000047,Remote Access Policy,EMP00488,Christopher Perez,Security,Medium,Business requirement,False,2026-06-08 16:29:28.719121,2027-01-04 16:29:28.719121
+PEX000048,Acceptable Use Policy,EMP00500,Daniel Hall,Human Resources,Low,Business requirement,True,2026-07-28 16:29:28.719121,2026-10-08 16:29:28.719121
+PEX000049,Acceptable Use Policy,EMP00235,Patty Camacho,IT,Low,Business requirement,True,2026-07-19 16:29:28.719121,2026-11-11 16:29:28.719121
+PEX000050,Acceptable Use Policy,EMP00126,Isabel Perez,Engineering,Low,Business requirement,True,2026-06-09 16:29:28.719121,2026-10-15 16:29:28.719121
+PEX000051,Password Policy,EMP00265,William Lee,Human Resources,Critical,Business requirement,True,2026-02-09 16:29:28.719121,2026-11-24 16:29:28.719121
+PEX000052,Password Policy,EMP00103,Laura James,Finance,Low,Business requirement,False,2026-07-04 16:29:28.719121,2026-11-10 16:29:28.719121
+PEX000053,Remote Access Policy,EMP00474,Ricardo Perez,Legal,Critical,Business requirement,True,2026-06-23 16:29:28.719121,2026-10-17 16:29:28.719121
+PEX000054,Acceptable Use Policy,EMP00146,Pam Reyes,Operations,Critical,Business requirement,False,2026-05-30 16:29:28.719121,2026-10-30 16:29:28.719121
+PEX000055,Remote Access Policy,EMP00054,Shelly Rios,IT,Medium,Business requirement,True,2026-03-05 16:29:28.719121,2026-04-25 16:29:28.719121
+PEX000056,MFA Policy,EMP00009,Hayden Young,IT,Low,Business requirement,False,2026-03-16 16:29:28.719121,2026-07-07 16:29:28.719121
+PEX000057,Password Policy,EMP00117,Steven Burton,Operations,Low,Business requirement,True,2026-04-19 16:29:28.719121,2027-04-02 16:29:28.719121
+PEX000058,Password Policy,EMP00178,Kelsey Long,Finance,Critical,Business requirement,False,2026-05-23 16:29:28.719121,2027-04-04 16:29:28.719121
+PEX000059,Acceptable Use Policy,EMP00348,Laura Neal,Operations,High,Business requirement,False,2026-04-05 16:29:28.719121,2026-08-07 16:29:28.719121
+PEX000060,Acceptable Use Policy,EMP00251,Amy Merritt,Finance,Low,Business requirement,True,2026-07-18 16:29:28.719121,2026-11-06 16:29:28.719121
+PEX000061,Password Policy,EMP00470,Teresa Guerrero,Finance,Critical,Business requirement,True,2026-05-13 16:29:28.719121,2026-09-19 16:29:28.719121
+PEX000062,Remote Access Policy,EMP00110,Steven Nichols,Security,Low,Business requirement,True,2026-04-05 16:29:28.719121,2026-11-21 16:29:28.719121
+PEX000063,MFA Policy,EMP00032,Jeremiah Bryant,Human Resources,High,Business requirement,False,2026-03-02 16:29:28.719121,2026-10-26 16:29:28.719121
+PEX000064,Patch Management Policy,EMP00014,Samantha Valdez,Operations,Low,Business requirement,False,2026-07-07 16:29:28.719121,2026-12-12 16:29:28.719121
+PEX000065,Acceptable Use Policy,EMP00013,Sarah Silva,Legal,Critical,Business requirement,False,2026-05-15 16:29:28.719121,2026-07-29 16:29:28.719121
+PEX000066,Remote Access Policy,EMP00070,Brooke Proctor,Engineering,Critical,Business requirement,False,2026-03-05 16:29:28.719121,2027-02-20 16:29:28.719121
+PEX000067,MFA Policy,EMP00288,Christopher Young,Legal,Critical,Business requirement,True,2026-06-16 16:29:28.719121,2027-01-20 16:29:28.719121
+PEX000068,Acceptable Use Policy,EMP00359,Michael Barajas,Operations,Critical,Business requirement,False,2026-03-14 16:29:28.719121,2026-12-19 16:29:28.719121
+PEX000069,Remote Access Policy,EMP00460,Maureen Lopez,Security,High,Business requirement,False,2026-01-30 16:29:28.719121,2026-08-14 16:29:28.719121
+PEX000070,Password Policy,EMP00216,Elizabeth Sellers,Legal,Low,Business requirement,False,2026-06-02 16:29:28.719121,2026-08-23 16:29:28.719121
+PEX000071,Password Policy,EMP00064,Dr. Roberto Garner,Engineering,Low,Business requirement,True,2026-02-18 16:29:28.719121,2027-01-06 16:29:28.719121
+PEX000072,Remote Access Policy,EMP00164,Mary Meyer,IT,Medium,Business requirement,False,2026-04-16 16:29:28.719121,2026-07-11 16:29:28.719121
+PEX000073,Password Policy,EMP00333,Tara Armstrong,Engineering,Critical,Business requirement,True,2026-02-04 16:29:28.719121,2026-12-29 16:29:28.719121
+PEX000074,Remote Access Policy,EMP00344,Kent Carter,Finance,High,Business requirement,True,2026-05-26 16:29:28.719121,2026-12-17 16:29:28.719121
+PEX000075,Remote Access Policy,EMP00143,David Johnson,Security,High,Business requirement,True,2026-03-17 16:29:28.719121,2026-05-26 16:29:28.719121
+PEX000076,Remote Access Policy,EMP00255,Monica Lee,IT,High,Business requirement,False,2026-04-12 16:29:28.719121,2026-11-18 16:29:28.719121
+PEX000077,Remote Access Policy,EMP00430,Victor Everett,Engineering,Low,Business requirement,True,2026-06-25 16:29:28.719121,2026-11-06 16:29:28.719121
+PEX000078,Patch Management Policy,EMP00131,Ronald Hale,Engineering,High,Business requirement,False,2026-05-05 16:29:28.719121,2027-02-10 16:29:28.719121
+PEX000079,Patch Management Policy,EMP00444,Sarah Shelton,Operations,Low,Business requirement,False,2026-02-19 16:29:28.719121,2026-10-20 16:29:28.719121
+PEX000080,Password Policy,EMP00043,Danielle Silva,Operations,Low,Business requirement,True,2026-07-07 16:29:28.719121,2026-09-11 16:29:28.719121
+PEX000081,Acceptable Use Policy,EMP00320,David Ayala,Security,Critical,Business requirement,False,2026-05-01 16:29:28.719121,2027-02-17 16:29:28.719121
+PEX000082,Remote Access Policy,EMP00184,Courtney Lewis,Finance,Medium,Business requirement,True,2026-04-21 16:29:28.719121,2026-12-02 16:29:28.719121
+PEX000083,Patch Management Policy,EMP00027,Anthony Walton,Security,Critical,Business requirement,True,2026-06-04 16:29:28.719121,2026-11-01 16:29:28.719121
+PEX000084,MFA Policy,EMP00041,Jody Burton,Engineering,Low,Business requirement,False,2026-07-10 16:29:28.719121,2027-04-15 16:29:28.719121
+PEX000085,Acceptable Use Policy,EMP00465,Carmen Davis,Human Resources,High,Business requirement,False,2026-02-26 16:29:28.719121,2026-09-23 16:29:28.719121
+PEX000086,Acceptable Use Policy,EMP00123,Jocelyn Anderson,Finance,High,Business requirement,False,2026-05-12 16:29:28.719121,2026-08-24 16:29:28.719121
+PEX000087,Password Policy,EMP00286,Andrea Rice,Security,Medium,Business requirement,False,2026-06-25 16:29:28.719121,2027-03-04 16:29:28.719121
+PEX000088,Acceptable Use Policy,EMP00324,Donna Smith,Finance,High,Business requirement,False,2026-03-28 16:29:28.719121,2026-05-01 16:29:28.719121
+PEX000089,Patch Management Policy,EMP00208,Kimberly Walker,Operations,High,Business requirement,False,2026-06-21 16:29:28.719121,2027-04-29 16:29:28.719121
+PEX000090,Remote Access Policy,EMP00157,Nicole Knox,Legal,Critical,Business requirement,True,2026-02-22 16:29:28.719121,2026-07-03 16:29:28.719121
+PEX000091,MFA Policy,EMP00299,Daniel Chambers,Finance,Low,Business requirement,True,2026-02-03 16:29:28.719121,2027-01-11 16:29:28.719121
+PEX000092,Remote Access Policy,EMP00391,Susan Green,Human Resources,Low,Business requirement,True,2026-05-16 16:29:28.719121,2027-03-31 16:29:28.719121
+PEX000093,Password Policy,EMP00021,Brandi Smith,Operations,Medium,Business requirement,False,2026-05-12 16:29:28.719121,2027-03-27 16:29:28.719121
+PEX000094,Patch Management Policy,EMP00032,Jeremiah Bryant,Human Resources,Low,Business requirement,False,2026-03-14 16:29:28.719121,2026-09-07 16:29:28.719121
+PEX000095,Password Policy,EMP00103,Laura James,Finance,Low,Business requirement,False,2026-06-06 16:29:28.719121,2027-01-28 16:29:28.719121
+PEX000096,Patch Management Policy,EMP00311,Mark Deleon,Security,High,Business requirement,False,2026-03-08 16:29:28.719121,2026-12-30 16:29:28.719121
+PEX000097,Remote Access Policy,EMP00016,Stacey Jenkins,Engineering,Medium,Business requirement,True,2026-07-10 16:29:28.719121,2027-03-26 16:29:28.719121
+PEX000098,Patch Management Policy,EMP00078,Deborah Cooper MD,Security,Low,Business requirement,True,2026-02-02 16:29:28.719121,2026-11-23 16:29:28.719121
+PEX000099,MFA Policy,EMP00107,Brittany Adams,Engineering,Medium,Business requirement,False,2026-02-03 16:29:28.719121,2026-09-19 16:29:28.719121
+PEX000100,Acceptable Use Policy,EMP00004,Lisa Pierce,IT,High,Business requirement,True,2026-06-12 16:29:28.719121,2026-09-07 16:29:28.719121
+PEX000101,MFA Policy,EMP00418,Adam Brown,IT,High,Business requirement,True,2026-02-21 16:29:28.719121,2027-01-12 16:29:28.719121
+PEX000102,Patch Management Policy,EMP00010,Teresa Booth,Engineering,High,Business requirement,True,2026-05-01 16:29:28.719121,2026-10-15 16:29:28.719121
+PEX000103,Password Policy,EMP00284,David Miller,IT,Medium,Business requirement,True,2026-07-14 16:29:28.719121,2027-06-30 16:29:28.719121
+PEX000104,Patch Management Policy,EMP00390,Sherri Vance,Legal,Critical,Business requirement,True,2026-04-30 16:29:28.719121,2026-11-25 16:29:28.719121
+PEX000105,Patch Management Policy,EMP00366,Stacey Jimenez,Security,Medium,Business requirement,True,2026-07-25 16:29:28.719121,2027-02-02 16:29:28.719121
+PEX000106,Acceptable Use Policy,EMP00204,Charles Wilcox,Human Resources,Medium,Business requirement,True,2026-04-08 16:29:28.719121,2027-03-21 16:29:28.719121
+PEX000107,Password Policy,EMP00354,Monica Craig,Human Resources,Critical,Business requirement,False,2026-04-04 16:29:28.719121,2027-03-06 16:29:28.719121
+PEX000108,Acceptable Use Policy,EMP00274,Stephanie Landry,Security,Low,Business requirement,True,2026-06-20 16:29:28.719121,2027-06-10 16:29:28.719121
+PEX000109,Remote Access Policy,EMP00447,Kevin Frederick,Security,Low,Business requirement,True,2026-03-03 16:29:28.719121,2026-07-21 16:29:28.719121
+PEX000110,Acceptable Use Policy,EMP00358,Martha Mcgee,IT,High,Business requirement,False,2026-03-29 16:29:28.719121,2026-05-11 16:29:28.719121
+PEX000111,Remote Access Policy,EMP00092,Micheal Barajas,Security,Low,Business requirement,False,2026-03-31 16:29:28.719121,2027-01-23 16:29:28.719121
+PEX000112,Patch Management Policy,EMP00490,Brandon Bradford,Human Resources,Medium,Business requirement,False,2026-04-23 16:29:28.720627,2026-10-24 16:29:28.720627
+PEX000113,Patch Management Policy,EMP00372,Jessica Hill,Engineering,Critical,Business requirement,False,2026-03-29 16:29:28.720627,2026-05-16 16:29:28.720627
+PEX000114,Password Policy,EMP00401,Tammy Chavez,Security,High,Business requirement,True,2026-06-10 16:29:28.720627,2027-04-26 16:29:28.720627
+PEX000115,MFA Policy,EMP00286,Andrea Rice,Security,High,Business requirement,False,2026-02-10 16:29:28.720627,2026-07-21 16:29:28.720627
+PEX000116,Patch Management Policy,EMP00045,Jose Williams,Engineering,Medium,Business requirement,False,2026-04-23 16:29:28.720627,2026-06-15 16:29:28.720627
+PEX000117,Remote Access Policy,EMP00415,Dave Gutierrez,Human Resources,High,Business requirement,False,2026-04-27 16:29:28.720627,2026-11-09 16:29:28.720627
+PEX000118,Remote Access Policy,EMP00262,Lisa White,Human Resources,High,Business requirement,True,2026-06-28 16:29:28.720627,2026-11-22 16:29:28.720627
+PEX000119,Patch Management Policy,EMP00082,Ian Wright,Finance,High,Business requirement,False,2026-07-22 16:29:28.720627,2026-09-25 16:29:28.720627
+PEX000120,Password Policy,EMP00491,Melissa Knight,Engineering,Low,Business requirement,True,2026-02-18 16:29:28.720627,2026-10-31 16:29:28.720627
+PEX000121,Acceptable Use Policy,EMP00091,Daniel Ramos,Operations,High,Business requirement,False,2026-04-01 16:29:28.720627,2027-03-19 16:29:28.720627
+PEX000122,MFA Policy,EMP00303,Judith Wright,Security,High,Business requirement,False,2026-03-03 16:29:28.720627,2026-06-20 16:29:28.720627
+PEX000123,Patch Management Policy,EMP00310,Lauren Tanner,Finance,Critical,Business requirement,True,2026-05-28 16:29:28.720627,2026-12-15 16:29:28.720627
+PEX000124,MFA Policy,EMP00011,Justin White,Security,Medium,Business requirement,False,2026-03-28 16:29:28.720627,2026-10-04 16:29:28.720627
+PEX000125,Acceptable Use Policy,EMP00177,Brett Murray,Finance,Low,Business requirement,False,2026-05-05 16:29:28.720627,2027-04-04 16:29:28.720627
+PEX000126,Patch Management Policy,EMP00025,David Everett,Human Resources,High,Business requirement,True,2026-01-29 16:29:28.720627,2026-08-29 16:29:28.720627
+PEX000127,Password Policy,EMP00027,Anthony Walton,Security,Medium,Business requirement,False,2026-07-23 16:29:28.720627,2027-06-10 16:29:28.720627
+PEX000128,Remote Access Policy,EMP00040,Daniel Chavez,Operations,Critical,Business requirement,True,2026-03-13 16:29:28.720627,2026-10-09 16:29:28.720627
+PEX000129,Patch Management Policy,EMP00106,Gloria Thomas,Operations,Critical,Business requirement,False,2026-06-03 16:29:28.720627,2026-09-17 16:29:28.720627
+PEX000130,Acceptable Use Policy,EMP00126,Isabel Perez,Engineering,High,Business requirement,False,2026-06-29 16:29:28.720627,2027-04-30 16:29:28.720627
+PEX000131,Remote Access Policy,EMP00302,Breanna Hester,Finance,Medium,Business requirement,False,2026-05-27 16:29:28.720627,2026-11-06 16:29:28.720627
+PEX000132,Acceptable Use Policy,EMP00025,David Everett,Human Resources,Critical,Business requirement,True,2026-04-05 16:29:28.720627,2026-12-12 16:29:28.720627
+PEX000133,MFA Policy,EMP00332,David Francis,Security,High,Business requirement,True,2026-05-27 16:29:28.720627,2027-05-04 16:29:28.720627
+PEX000134,MFA Policy,EMP00071,William Maldonado,Human Resources,Low,Business requirement,False,2026-02-20 16:29:28.720627,2027-01-08 16:29:28.720627
+PEX000135,Remote Access Policy,EMP00275,Michael Gutierrez,IT,High,Business requirement,False,2026-07-02 16:29:28.720627,2027-02-20 16:29:28.720627
+PEX000136,Patch Management Policy,EMP00042,Tabitha Cook,Legal,High,Business requirement,False,2026-06-15 16:29:28.720627,2026-08-17 16:29:28.720627
+PEX000137,Patch Management Policy,EMP00499,Ryan Cummings,Human Resources,High,Business requirement,False,2026-06-24 16:29:28.720627,2027-03-11 16:29:28.720627
+PEX000138,Patch Management Policy,EMP00048,Brian Travis,Security,Low,Business requirement,False,2026-07-03 16:29:28.720627,2026-08-06 16:29:28.720627
+PEX000139,Patch Management Policy,EMP00488,Christopher Perez,Security,Low,Business requirement,False,2026-06-11 16:29:28.720627,2027-02-23 16:29:28.720627
+PEX000140,Acceptable Use Policy,EMP00376,George Hutchinson,Engineering,Critical,Business requirement,False,2026-02-14 16:29:28.720627,2026-04-03 16:29:28.720627
+PEX000141,Acceptable Use Policy,EMP00250,Marcus Schroeder,Engineering,Low,Business requirement,False,2026-07-23 16:29:28.720627,2027-01-29 16:29:28.720627
+PEX000142,MFA Policy,EMP00062,Mariah Duncan,Finance,Low,Business requirement,True,2026-05-14 16:29:28.720627,2026-08-05 16:29:28.720627
+PEX000143,Remote Access Policy,EMP00214,Robin Smith,Human Resources,Critical,Business requirement,False,2026-06-30 16:29:28.720627,2027-03-04 16:29:28.720627
+PEX000144,Patch Management Policy,EMP00038,Raymond Berry,Legal,High,Business requirement,True,2026-06-29 16:29:28.720627,2027-06-08 16:29:28.720627
+PEX000145,Acceptable Use Policy,EMP00365,Mary Jones,Human Resources,Low,Business requirement,True,2026-02-08 16:29:28.720627,2026-07-22 16:29:28.720627
+PEX000146,Acceptable Use Policy,EMP00202,Shirley Baird,Human Resources,Low,Business requirement,False,2026-07-12 16:29:28.720627,2027-01-21 16:29:28.720627
+PEX000147,Patch Management Policy,EMP00274,Stephanie Landry,Security,Medium,Business requirement,True,2026-06-17 16:29:28.720627,2026-08-07 16:29:28.720627
+PEX000148,Patch Management Policy,EMP00233,Sharon Villarreal,Security,Low,Business requirement,True,2026-07-20 16:29:28.720627,2027-02-26 16:29:28.720627
+PEX000149,Password Policy,EMP00223,Michelle Miller,Finance,Critical,Business requirement,False,2026-07-08 16:29:28.720627,2027-06-16 16:29:28.720627
+PEX000150,Patch Management Policy,EMP00388,Kari Pace,Legal,Medium,Business requirement,True,2026-04-03 16:29:28.720627,2026-11-27 16:29:28.720627
+PEX000151,Remote Access Policy,EMP00022,Jim Cox,Human Resources,Low,Business requirement,True,2026-02-14 16:29:28.720627,2026-09-26 16:29:28.720627
+PEX000152,Patch Management Policy,EMP00316,Richard Carter,Security,High,Business requirement,False,2026-06-21 16:29:28.720627,2027-04-16 16:29:28.720627
+PEX000153,MFA Policy,EMP00358,Martha Mcgee,IT,Medium,Business requirement,True,2026-02-21 16:29:28.720627,2026-11-15 16:29:28.720627
+PEX000154,Remote Access Policy,EMP00016,Stacey Jenkins,Engineering,Medium,Business requirement,False,2026-06-01 16:29:28.720627,2026-07-14 16:29:28.720627
+PEX000155,Password Policy,EMP00205,Michael Hunt,Operations,Medium,Business requirement,True,2026-07-26 16:29:28.720627,2026-12-13 16:29:28.720627
+PEX000156,Acceptable Use Policy,EMP00472,Thomas Calderon,Human Resources,Medium,Business requirement,True,2026-03-03 16:29:28.720627,2026-10-23 16:29:28.720627
+PEX000157,MFA Policy,EMP00458,Miss Melissa Tucker,Engineering,Low,Business requirement,True,2026-06-02 16:29:28.720627,2027-04-17 16:29:28.720627
+PEX000158,Password Policy,EMP00272,Shannon Hicks,Human Resources,Critical,Business requirement,True,2026-06-24 16:29:28.720627,2026-10-27 16:29:28.720627
+PEX000159,Acceptable Use Policy,EMP00463,Justin Webster,Human Resources,Medium,Business requirement,False,2026-04-08 16:29:28.720627,2026-09-21 16:29:28.720627
+PEX000160,Password Policy,EMP00048,Brian Travis,Security,High,Business requirement,True,2026-06-22 16:29:28.720627,2026-11-16 16:29:28.720627
+PEX000161,Remote Access Policy,EMP00069,Molly Schaefer,Operations,Low,Business requirement,True,2026-03-27 16:29:28.720627,2027-02-03 16:29:28.720627
+PEX000162,MFA Policy,EMP00013,Sarah Silva,Legal,Low,Business requirement,True,2026-03-12 16:29:28.720627,2026-06-12 16:29:28.720627
+PEX000163,Acceptable Use Policy,EMP00145,Michael Adams,Finance,High,Business requirement,False,2026-04-22 16:29:28.720627,2027-03-20 16:29:28.720627
+PEX000164,Password Policy,EMP00376,George Hutchinson,Engineering,High,Business requirement,True,2026-06-02 16:29:28.720627,2027-01-12 16:29:28.720627
+PEX000165,Remote Access Policy,EMP00280,Benjamin Gray,Legal,Low,Business requirement,False,2026-05-26 16:29:28.720627,2026-09-01 16:29:28.720627
+PEX000166,Patch Management Policy,EMP00142,Brian Gilmore,Legal,High,Business requirement,True,2026-03-09 16:29:28.720627,2026-12-28 16:29:28.720627
+PEX000167,MFA Policy,EMP00473,Zachary Martinez,Human Resources,Low,Business requirement,True,2026-06-04 16:29:28.720627,2026-11-28 16:29:28.720627
+PEX000168,MFA Policy,EMP00217,Monica Castillo,Legal,High,Business requirement,True,2026-07-17 16:29:28.720627,2027-02-23 16:29:28.720627
+PEX000169,Remote Access Policy,EMP00008,Nathaniel Green,Operations,Low,Business requirement,False,2026-06-18 16:29:28.720627,2026-09-17 16:29:28.720627
+PEX000170,Remote Access Policy,EMP00319,William Thomas MD,Human Resources,Low,Business requirement,True,2026-07-20 16:29:28.720627,2026-11-13 16:29:28.720627
+PEX000171,MFA Policy,EMP00232,David Henson,Engineering,Medium,Business requirement,True,2026-03-14 16:29:28.720627,2026-06-15 16:29:28.720627
+PEX000172,Remote Access Policy,EMP00165,Jeremy Moody,Security,Critical,Business requirement,False,2026-04-29 16:29:28.720627,2026-10-09 16:29:28.720627
+PEX000173,Patch Management Policy,EMP00456,Alexander Miller,Human Resources,Low,Business requirement,True,2026-06-05 16:29:28.720627,2026-11-26 16:29:28.720627
+PEX000174,Password Policy,EMP00418,Adam Brown,IT,High,Business requirement,True,2026-06-14 16:29:28.720627,2027-02-24 16:29:28.720627
+PEX000175,Patch Management Policy,EMP00451,James Watson,Legal,High,Business requirement,True,2026-02-16 16:29:28.720627,2026-10-16 16:29:28.720627
+PEX000176,Patch Management Policy,EMP00314,Charles Tucker,Human Resources,High,Business requirement,True,2026-03-28 16:29:28.720627,2027-01-20 16:29:28.720627
+PEX000177,Remote Access Policy,EMP00472,Thomas Calderon,Human Resources,Medium,Business requirement,True,2026-05-09 16:29:28.720627,2026-08-18 16:29:28.720627
+PEX000178,Acceptable Use Policy,EMP00056,Jose Johnson,IT,Medium,Business requirement,True,2026-02-12 16:29:28.720627,2026-03-25 16:29:28.720627
+PEX000179,Acceptable Use Policy,EMP00291,Mario Bailey,Engineering,Low,Business requirement,True,2026-07-16 16:29:28.720627,2027-02-07 16:29:28.720627
+PEX000180,Remote Access Policy,EMP00374,Patricia Patel,Security,High,Business requirement,False,2026-03-03 16:29:28.720627,2026-04-25 16:29:28.720627
+PEX000181,Remote Access Policy,EMP00082,Ian Wright,Finance,Critical,Business requirement,False,2026-07-18 16:29:28.720627,2027-03-08 16:29:28.720627
+PEX000182,MFA Policy,EMP00229,Michael Blevins,Human Resources,Medium,Business requirement,True,2026-02-11 16:29:28.720627,2026-03-16 16:29:28.720627
+PEX000183,Password Policy,EMP00259,Margaret Allen,Legal,Medium,Business requirement,False,2026-07-24 16:29:28.720627,2027-01-03 16:29:28.720627
+PEX000184,Patch Management Policy,EMP00231,Tracy Sanders,Finance,Critical,Business requirement,False,2026-05-16 16:29:28.720627,2027-03-01 16:29:28.720627
+PEX000185,MFA Policy,EMP00251,Amy Merritt,Finance,Medium,Business requirement,False,2026-06-06 16:29:28.720627,2026-12-24 16:29:28.720627
+PEX000186,Patch Management Policy,EMP00215,Jenny Mckinney,Security,Medium,Business requirement,False,2026-06-23 16:29:28.720627,2026-10-07 16:29:28.720627
+PEX000187,MFA Policy,EMP00443,Michelle Richardson,Human Resources,Critical,Business requirement,True,2026-06-27 16:29:28.720627,2027-04-08 16:29:28.720627
+PEX000188,Password Policy,EMP00352,Ashley Koch,Engineering,Medium,Business requirement,False,2026-06-06 16:29:28.720627,2026-10-02 16:29:28.720627
+PEX000189,Password Policy,EMP00030,Alexandra Wilson,Finance,Low,Business requirement,False,2026-02-27 16:29:28.720627,2026-09-24 16:29:28.720627
+PEX000190,MFA Policy,EMP00343,Dominique Franklin,Security,Low,Business requirement,False,2026-04-20 16:29:28.720627,2027-02-23 16:29:28.720627
+PEX000191,MFA Policy,EMP00247,David Shah,Finance,Medium,Business requirement,False,2026-04-18 16:29:28.720627,2027-03-31 16:29:28.720627
+PEX000192,Patch Management Policy,EMP00156,Michelle Thompson,Human Resources,Medium,Business requirement,True,2026-03-26 16:29:28.720627,2026-10-15 16:29:28.720627
+PEX000193,Acceptable Use Policy,EMP00165,Jeremy Moody,Security,Critical,Business requirement,False,2026-02-06 16:29:28.720627,2026-07-19 16:29:28.720627
+PEX000194,Acceptable Use Policy,EMP00085,Kathleen Lynch,Human Resources,Critical,Business requirement,True,2026-07-16 16:29:28.720627,2026-09-02 16:29:28.720627
+PEX000195,Acceptable Use Policy,EMP00297,Jonathan Hampton,Finance,High,Business requirement,True,2026-01-29 16:29:28.720627,2026-05-20 16:29:28.720627
+PEX000196,Acceptable Use Policy,EMP00460,Maureen Lopez,Security,High,Business requirement,True,2026-06-19 16:29:28.720627,2027-03-14 16:29:28.720627
+PEX000197,MFA Policy,EMP00412,Charles Rogers,Operations,Low,Business requirement,False,2026-02-08 16:29:28.720627,2026-05-17 16:29:28.720627
+PEX000198,Patch Management Policy,EMP00087,Steven Schneider,Operations,Low,Business requirement,True,2026-06-28 16:29:28.720627,2027-01-20 16:29:28.720627
+PEX000199,Acceptable Use Policy,EMP00273,Matthew Lozano,Finance,Low,Business requirement,False,2026-07-27 16:29:28.720627,2027-01-07 16:29:28.720627
+PEX000200,Password Policy,EMP00302,Breanna Hester,Finance,High,Business requirement,True,2026-07-25 16:29:28.720627,2026-10-10 16:29:28.720627
+PEX000201,Password Policy,EMP00086,Kimberly Castillo,Security,Critical,Business requirement,True,2026-07-27 16:29:28.720627,2027-03-16 16:29:28.720627
+PEX000202,Password Policy,EMP00060,Lydia Huffman,Finance,Low,Business requirement,True,2026-02-15 16:29:28.720627,2026-12-03 16:29:28.720627
+PEX000203,Acceptable Use Policy,EMP00038,Raymond Berry,Legal,Low,Business requirement,True,2026-03-18 16:29:28.720627,2026-08-01 16:29:28.720627
+PEX000204,Patch Management Policy,EMP00249,Deborah George,Finance,High,Business requirement,True,2026-03-26 16:29:28.720627,2026-05-22 16:29:28.720627
+PEX000205,Patch Management Policy,EMP00194,Samantha Whitaker,IT,High,Business requirement,False,2026-07-04 16:29:28.720627,2026-12-11 16:29:28.720627
+PEX000206,Patch Management Policy,EMP00035,Jonathan Solis,Human Resources,Medium,Business requirement,True,2026-03-22 16:29:28.720627,2026-05-14 16:29:28.720627
+PEX000207,Remote Access Policy,EMP00211,David Blake,Security,Low,Business requirement,True,2026-05-31 16:29:28.720627,2027-01-13 16:29:28.720627
+PEX000208,Remote Access Policy,EMP00121,Richard Maldonado,Human Resources,Low,Business requirement,True,2026-03-10 16:29:28.720627,2026-04-15 16:29:28.720627
+PEX000209,Acceptable Use Policy,EMP00167,Peter Contreras,Finance,Critical,Business requirement,False,2026-03-29 16:29:28.720627,2026-05-10 16:29:28.720627
+PEX000210,MFA Policy,EMP00417,Ashley Taylor,IT,Critical,Business requirement,True,2026-03-24 16:29:28.720627,2027-02-12 16:29:28.720627
+PEX000211,Patch Management Policy,EMP00230,Michael Morales,IT,Low,Business requirement,False,2026-04-23 16:29:28.720627,2027-03-16 16:29:28.720627
+PEX000212,MFA Policy,EMP00166,Robert Patterson,Engineering,Medium,Business requirement,True,2026-04-08 16:29:28.720627,2027-02-03 16:29:28.720627
+PEX000213,Password Policy,EMP00299,Daniel Chambers,Finance,High,Business requirement,False,2026-04-28 16:29:28.720627,2027-02-09 16:29:28.720627
+PEX000214,Remote Access Policy,EMP00217,Monica Castillo,Legal,High,Business requirement,True,2026-03-19 16:29:28.720627,2027-03-03 16:29:28.720627
+PEX000215,Password Policy,EMP00393,Omar Williams,Finance,Low,Business requirement,True,2026-01-30 16:29:28.720627,2026-09-07 16:29:28.720627
+PEX000216,Password Policy,EMP00228,Nancy Orozco,Finance,Low,Business requirement,True,2026-05-29 16:29:28.720627,2026-11-07 16:29:28.720627
+PEX000217,Acceptable Use Policy,EMP00355,Terry Alexander,IT,Low,Business requirement,True,2026-04-02 16:29:28.720627,2026-10-07 16:29:28.720627
+PEX000218,MFA Policy,EMP00040,Daniel Chavez,Operations,Low,Business requirement,True,2026-02-04 16:29:28.720627,2026-10-02 16:29:28.720627
+PEX000219,Acceptable Use Policy,EMP00027,Anthony Walton,Security,Low,Business requirement,False,2026-07-28 16:29:28.720627,2026-12-09 16:29:28.720627
+PEX000220,Patch Management Policy,EMP00441,Anthony Zimmerman,Security,Critical,Business requirement,True,2026-05-13 16:29:28.720627,2027-04-14 16:29:28.720627
+PEX000221,Acceptable Use Policy,EMP00372,Jessica Hill,Engineering,Medium,Business requirement,False,2026-02-22 16:29:28.720627,2026-04-23 16:29:28.720627
+PEX000222,Acceptable Use Policy,EMP00158,Cassie Hoffman,Security,Low,Business requirement,True,2026-06-24 16:29:28.720627,2026-08-22 16:29:28.720627
+PEX000223,Patch Management Policy,EMP00312,Rachael Fisher,Engineering,Low,Business requirement,True,2026-05-26 16:29:28.720627,2027-04-24 16:29:28.720627
+PEX000224,MFA Policy,EMP00093,Cody Taylor,Legal,Medium,Business requirement,False,2026-05-18 16:29:28.720627,2027-01-12 16:29:28.720627
+PEX000225,Acceptable Use Policy,EMP00158,Cassie Hoffman,Security,Low,Business requirement,True,2026-04-04 16:29:28.720627,2026-09-12 16:29:28.720627
+PEX000226,Password Policy,EMP00449,Jamie Robinson,Engineering,Low,Business requirement,True,2026-07-25 16:29:28.720627,2027-04-01 16:29:28.720627
+PEX000227,Remote Access Policy,EMP00016,Stacey Jenkins,Engineering,Medium,Business requirement,True,2026-03-27 16:29:28.720627,2026-07-22 16:29:28.720627
+PEX000228,MFA Policy,EMP00124,Raymond Mullen,Finance,Low,Business requirement,True,2026-05-14 16:29:28.720627,2027-04-27 16:29:28.720627
+PEX000229,Remote Access Policy,EMP00175,Janice Alvarez,Finance,Medium,Business requirement,True,2026-02-26 16:29:28.720627,2026-12-02 16:29:28.720627
+PEX000230,Acceptable Use Policy,EMP00126,Isabel Perez,Engineering,Low,Business requirement,True,2026-02-10 16:29:28.720627,2026-06-04 16:29:28.720627
+PEX000231,Acceptable Use Policy,EMP00095,Steven Gardner,Engineering,Medium,Business requirement,True,2026-04-28 16:29:28.720627,2026-09-27 16:29:28.720627
+PEX000232,Password Policy,EMP00091,Daniel Ramos,Operations,Medium,Business requirement,True,2026-02-20 16:29:28.720627,2027-01-27 16:29:28.720627
+PEX000233,MFA Policy,EMP00365,Mary Jones,Human Resources,High,Business requirement,True,2026-02-26 16:29:28.720627,2026-09-19 16:29:28.720627
+PEX000234,Acceptable Use Policy,EMP00189,Joseph Austin,Legal,High,Business requirement,True,2026-04-22 16:29:28.720627,2027-01-06 16:29:28.720627
+PEX000235,Patch Management Policy,EMP00008,Nathaniel Green,Operations,Low,Business requirement,False,2026-03-18 16:29:28.720627,2026-10-11 16:29:28.720627
+PEX000236,MFA Policy,EMP00355,Terry Alexander,IT,High,Business requirement,False,2026-05-10 16:29:28.720627,2026-08-01 16:29:28.720627
+PEX000237,Acceptable Use Policy,EMP00092,Micheal Barajas,Security,Medium,Business requirement,False,2026-02-09 16:29:28.720627,2026-04-20 16:29:28.720627
+PEX000238,Patch Management Policy,EMP00346,Alicia Howard,Legal,Low,Business requirement,True,2026-02-01 16:29:28.720627,2026-08-30 16:29:28.720627
+PEX000239,MFA Policy,EMP00250,Marcus Schroeder,Engineering,Low,Business requirement,False,2026-04-29 16:29:28.720627,2027-02-05 16:29:28.720627
+PEX000240,Remote Access Policy,EMP00162,Erica Garcia,Legal,Low,Business requirement,True,2026-07-10 16:29:28.720627,2026-12-19 16:29:28.720627
+PEX000241,Patch Management Policy,EMP00303,Judith Wright,Security,Critical,Business requirement,True,2026-02-14 16:29:28.720627,2027-02-03 16:29:28.720627
+PEX000242,Acceptable Use Policy,EMP00279,Christian Gomez,Finance,High,Business requirement,False,2026-05-18 16:29:28.720627,2026-11-09 16:29:28.720627
+PEX000243,Password Policy,EMP00005,Jennifer Sanders,Legal,Low,Business requirement,True,2026-05-22 16:29:28.720627,2027-03-08 16:29:28.720627
+PEX000244,MFA Policy,EMP00356,Veronica Diaz,Human Resources,Critical,Business requirement,False,2026-03-25 16:29:28.720627,2026-09-02 16:29:28.720627
+PEX000245,MFA Policy,EMP00401,Tammy Chavez,Security,Critical,Business requirement,False,2026-02-25 16:29:28.720627,2026-08-17 16:29:28.720627
+PEX000246,Remote Access Policy,EMP00373,David Oneill,Security,Low,Business requirement,False,2026-07-02 16:29:28.720627,2027-02-02 16:29:28.720627
+PEX000247,Password Policy,EMP00370,Terry Parker,Security,Low,Business requirement,True,2026-02-26 16:29:28.720627,2026-04-04 16:29:28.720627
+PEX000248,Password Policy,EMP00122,Caitlin Williams,Legal,Critical,Business requirement,True,2026-03-14 16:29:28.720627,2026-09-28 16:29:28.720627
+PEX000249,Password Policy,EMP00240,Randy Gordon,Legal,Low,Business requirement,True,2026-05-19 16:29:28.720627,2027-01-01 16:29:28.720627
+PEX000250,Patch Management Policy,EMP00059,Benjamin Johnson,IT,Medium,Business requirement,True,2026-04-03 16:29:28.720627,2027-03-25 16:29:28.720627
+PEX000251,Patch Management Policy,EMP00220,Daniel Smith,Finance,Critical,Business requirement,False,2026-07-14 16:29:28.720627,2027-02-18 16:29:28.720627
+PEX000252,Acceptable Use Policy,EMP00363,Leslie Johnson,Operations,Low,Business requirement,False,2026-07-20 16:29:28.720627,2027-06-23 16:29:28.720627
+PEX000253,Password Policy,EMP00005,Jennifer Sanders,Legal,Low,Business requirement,False,2026-06-07 16:29:28.720627,2026-11-11 16:29:28.720627
+PEX000254,Acceptable Use Policy,EMP00395,Darlene Padilla,Engineering,Critical,Business requirement,False,2026-05-22 16:29:28.720627,2027-02-24 16:29:28.720627
+PEX000255,Remote Access Policy,EMP00137,Heather Mccormick,IT,Critical,Business requirement,True,2026-03-13 16:29:28.720627,2027-02-15 16:29:28.720627
+PEX000256,Patch Management Policy,EMP00131,Ronald Hale,Engineering,High,Business requirement,True,2026-02-06 16:29:28.720627,2026-06-24 16:29:28.720627
+PEX000257,Password Policy,EMP00499,Ryan Cummings,Human Resources,Medium,Business requirement,False,2026-07-06 16:29:28.720627,2026-10-30 16:29:28.720627
+PEX000258,Remote Access Policy,EMP00166,Robert Patterson,Engineering,High,Business requirement,True,2026-07-16 16:29:28.720627,2026-08-27 16:29:28.720627
+PEX000259,Password Policy,EMP00061,Joel Pitts,Engineering,Medium,Business requirement,True,2026-07-18 16:29:28.720627,2026-11-04 16:29:28.720627
+PEX000260,Acceptable Use Policy,EMP00029,Jeffrey Sullivan,IT,Critical,Business requirement,True,2026-06-29 16:29:28.720627,2026-11-05 16:29:28.720627
+PEX000261,Patch Management Policy,EMP00470,Teresa Guerrero,Finance,High,Business requirement,False,2026-03-29 16:29:28.720627,2027-02-21 16:29:28.720627
+PEX000262,Remote Access Policy,EMP00158,Cassie Hoffman,Security,Critical,Business requirement,True,2026-06-05 16:29:28.720627,2027-04-23 16:29:28.720627
+PEX000263,MFA Policy,EMP00319,William Thomas MD,Human Resources,High,Business requirement,False,2026-07-02 16:29:28.720627,2027-01-09 16:29:28.720627
+PEX000264,Acceptable Use Policy,EMP00301,Craig Simpson,Security,High,Business requirement,False,2026-03-21 16:29:28.720627,2026-11-07 16:29:28.720627
+PEX000265,Password Policy,EMP00342,Lisa Cooper,Engineering,Low,Business requirement,True,2026-06-01 16:29:28.720627,2027-04-22 16:29:28.720627
+PEX000266,Patch Management Policy,EMP00113,Richard Lambert,Legal,Medium,Business requirement,False,2026-02-12 16:29:28.720627,2026-10-14 16:29:28.720627
+PEX000267,Patch Management Policy,EMP00183,Andrew Bartlett,IT,High,Business requirement,True,2026-07-09 16:29:28.720627,2026-08-19 16:29:28.720627
+PEX000268,MFA Policy,EMP00380,Dennis Garrett,IT,Critical,Business requirement,False,2026-06-21 16:29:28.720627,2026-09-30 16:29:28.720627
+PEX000269,Password Policy,EMP00343,Dominique Franklin,Security,Low,Business requirement,True,2026-04-20 16:29:28.720627,2027-04-08 16:29:28.720627
+PEX000270,Patch Management Policy,EMP00240,Randy Gordon,Legal,Low,Business requirement,False,2026-07-16 16:29:28.720627,2027-06-21 16:29:28.720627
+PEX000271,MFA Policy,EMP00485,Anthony Gaines,Operations,High,Business requirement,False,2026-07-28 16:29:28.720627,2026-10-03 16:29:28.720627
+PEX000272,Password Policy,EMP00365,Mary Jones,Human Resources,High,Business requirement,False,2026-07-17 16:29:28.720627,2026-12-22 16:29:28.720627
+PEX000273,MFA Policy,EMP00441,Anthony Zimmerman,Security,High,Business requirement,False,2026-05-02 16:29:28.720627,2026-10-13 16:29:28.720627
+PEX000274,Remote Access Policy,EMP00232,David Henson,Engineering,High,Business requirement,False,2026-05-26 16:29:28.720627,2026-06-29 16:29:28.720627
+PEX000275,Remote Access Policy,EMP00404,Nicole Garcia,Security,Medium,Business requirement,True,2026-03-25 16:29:28.720627,2026-08-05 16:29:28.720627
+PEX000276,Acceptable Use Policy,EMP00154,Robert Howell,Legal,Medium,Business requirement,True,2026-07-09 16:29:28.720627,2027-06-22 16:29:28.720627
+PEX000277,Acceptable Use Policy,EMP00287,Donna Ramirez,Operations,Low,Business requirement,True,2026-07-21 16:29:28.720627,2027-03-10 16:29:28.720627
+PEX000278,Remote Access Policy,EMP00035,Jonathan Solis,Human Resources,Critical,Business requirement,True,2026-03-22 16:29:28.720627,2026-04-28 16:29:28.720627
+PEX000279,Patch Management Policy,EMP00438,Michael Fisher,IT,Low,Business requirement,False,2026-02-08 16:29:28.720627,2026-06-17 16:29:28.720627
+PEX000280,Acceptable Use Policy,EMP00086,Kimberly Castillo,Security,Medium,Business requirement,True,2026-03-06 16:29:28.720627,2026-04-16 16:29:28.720627
+PEX000281,Acceptable Use Policy,EMP00182,Megan Harris,Finance,Low,Business requirement,True,2026-06-21 16:29:28.720627,2026-12-10 16:29:28.720627
+PEX000282,Remote Access Policy,EMP00354,Monica Craig,Human Resources,High,Business requirement,False,2026-05-07 16:29:28.720627,2026-08-03 16:29:28.720627
+PEX000283,Acceptable Use Policy,EMP00173,David Stephenson,Engineering,Medium,Business requirement,True,2026-05-19 16:29:28.720627,2026-07-13 16:29:28.720627
+PEX000284,MFA Policy,EMP00322,Michael Arias,Operations,Low,Business requirement,False,2026-02-19 16:29:28.720627,2026-11-25 16:29:28.720627
+PEX000285,Password Policy,EMP00108,Veronica Novak,Human Resources,High,Business requirement,False,2026-04-26 16:29:28.720627,2026-06-04 16:29:28.720627
+PEX000286,Remote Access Policy,EMP00123,Jocelyn Anderson,Finance,Medium,Business requirement,False,2026-05-13 16:29:28.720627,2026-10-24 16:29:28.720627
+PEX000287,Acceptable Use Policy,EMP00199,Terry Henson,Legal,High,Business requirement,True,2026-05-09 16:29:28.720627,2027-01-15 16:29:28.720627
+PEX000288,Password Policy,EMP00022,Jim Cox,Human Resources,Low,Business requirement,False,2026-03-01 16:29:28.720627,2027-01-20 16:29:28.720627
+PEX000289,Patch Management Policy,EMP00053,Daniel Durham,Finance,High,Business requirement,True,2026-03-06 16:29:28.720627,2026-07-20 16:29:28.720627
+PEX000290,Remote Access Policy,EMP00411,Renee Davis,Operations,Medium,Business requirement,True,2026-06-24 16:29:28.720627,2026-09-16 16:29:28.720627
+PEX000291,Remote Access Policy,EMP00042,Tabitha Cook,Legal,Critical,Business requirement,False,2026-04-05 16:29:28.720627,2026-12-05 16:29:28.720627
+PEX000292,Password Policy,EMP00205,Michael Hunt,Operations,High,Business requirement,False,2026-06-16 16:29:28.720627,2027-01-13 16:29:28.720627
+PEX000293,Patch Management Policy,EMP00285,Heather Carter,Human Resources,Critical,Business requirement,False,2026-03-11 16:29:28.720627,2026-08-27 16:29:28.720627
+PEX000294,MFA Policy,EMP00443,Michelle Richardson,Human Resources,High,Business requirement,True,2026-06-08 16:29:28.720627,2026-11-24 16:29:28.720627
+PEX000295,MFA Policy,EMP00400,Cheryl Ballard,Human Resources,High,Business requirement,True,2026-04-08 16:29:28.720627,2026-12-18 16:29:28.720627
+PEX000296,Acceptable Use Policy,EMP00139,Pamela Howard,Finance,Medium,Business requirement,False,2026-04-19 16:29:28.720627,2026-11-29 16:29:28.720627
+PEX000297,Acceptable Use Policy,EMP00188,Melissa Hubbard,Human Resources,Low,Business requirement,True,2026-06-10 16:29:28.720627,2027-04-03 16:29:28.720627
+PEX000298,Patch Management Policy,EMP00348,Laura Neal,Operations,Critical,Business requirement,False,2026-03-08 16:29:28.720627,2026-05-30 16:29:28.720627
+PEX000299,MFA Policy,EMP00285,Heather Carter,Human Resources,Low,Business requirement,True,2026-05-24 16:29:28.720627,2027-05-05 16:29:28.720627
+PEX000300,Password Policy,EMP00250,Marcus Schroeder,Engineering,High,Business requirement,True,2026-04-03 16:29:28.720627,2027-02-12 16:29:28.720627
+PEX000301,Remote Access Policy,EMP00030,Alexandra Wilson,Finance,Critical,Business requirement,True,2026-02-24 16:29:28.720627,2026-04-24 16:29:28.720627
+PEX000302,Password Policy,EMP00362,Nancy Boyd,Operations,High,Business requirement,False,2026-07-07 16:29:28.720627,2026-10-09 16:29:28.720627
+PEX000303,Acceptable Use Policy,EMP00217,Monica Castillo,Legal,Medium,Business requirement,True,2026-03-07 16:29:28.720627,2027-01-01 16:29:28.720627
+PEX000304,MFA Policy,EMP00123,Jocelyn Anderson,Finance,High,Business requirement,False,2026-03-04 16:29:28.720627,2026-05-06 16:29:28.720627
+PEX000305,Remote Access Policy,EMP00070,Brooke Proctor,Engineering,Medium,Business requirement,False,2026-07-25 16:29:28.720627,2027-06-18 16:29:28.720627
+PEX000306,Patch Management Policy,EMP00091,Daniel Ramos,Operations,Low,Business requirement,True,2026-07-20 16:29:28.720627,2026-12-14 16:29:28.720627
+PEX000307,Password Policy,EMP00295,Kristen Howell,IT,Critical,Business requirement,False,2026-03-13 16:29:28.720627,2027-01-04 16:29:28.720627
+PEX000308,Password Policy,EMP00194,Samantha Whitaker,IT,Critical,Business requirement,True,2026-06-24 16:29:28.720627,2027-02-21 16:29:28.720627
+PEX000309,MFA Policy,EMP00367,Alice Hardy,IT,Medium,Business requirement,True,2026-03-16 16:29:28.720627,2026-10-12 16:29:28.720627
+PEX000310,MFA Policy,EMP00184,Courtney Lewis,Finance,Critical,Business requirement,True,2026-07-11 16:29:28.720627,2027-06-28 16:29:28.720627
+PEX000311,Remote Access Policy,EMP00310,Lauren Tanner,Finance,Low,Business requirement,True,2026-05-15 16:29:28.720627,2026-09-11 16:29:28.720627
+PEX000312,Acceptable Use Policy,EMP00015,John Tate,Operations,Critical,Business requirement,False,2026-05-03 16:29:28.720627,2026-11-03 16:29:28.720627
+PEX000313,Remote Access Policy,EMP00124,Raymond Mullen,Finance,Critical,Business requirement,True,2026-07-09 16:29:28.720627,2027-05-10 16:29:28.720627
+PEX000314,Acceptable Use Policy,EMP00280,Benjamin Gray,Legal,Low,Business requirement,False,2026-07-12 16:29:28.720627,2027-02-17 16:29:28.720627
+PEX000315,Remote Access Policy,EMP00437,Elizabeth Sanchez,Legal,Critical,Business requirement,True,2026-03-26 16:29:28.720627,2027-02-02 16:29:28.720627
+PEX000316,Acceptable Use Policy,EMP00004,Lisa Pierce,IT,Critical,Business requirement,True,2026-03-24 16:29:28.720627,2026-07-28 16:29:28.720627
+PEX000317,Acceptable Use Policy,EMP00088,Tracey Rodriguez,Human Resources,Medium,Business requirement,True,2026-05-23 16:29:28.720627,2026-09-11 16:29:28.720627
+PEX000318,MFA Policy,EMP00287,Donna Ramirez,Operations,Medium,Business requirement,True,2026-04-17 16:29:28.720627,2026-05-26 16:29:28.720627
+PEX000319,Password Policy,EMP00450,Sheryl Stone,Engineering,Critical,Business requirement,True,2026-03-05 16:29:28.720627,2027-03-05 16:29:28.720627
+PEX000320,Acceptable Use Policy,EMP00018,Katherine Adams,Human Resources,Low,Business requirement,True,2026-05-01 16:29:28.720627,2026-07-06 16:29:28.720627
+PEX000321,Patch Management Policy,EMP00290,Emily Nelson,Human Resources,Medium,Business requirement,False,2026-06-26 16:29:28.720627,2027-02-05 16:29:28.720627
+PEX000322,Remote Access Policy,EMP00044,Rebecca Glenn,Finance,Critical,Business requirement,True,2026-07-20 16:29:28.720627,2026-09-14 16:29:28.720627
+PEX000323,Password Policy,EMP00431,Mark King,Human Resources,High,Business requirement,True,2026-04-17 16:29:28.720627,2026-11-03 16:29:28.720627
+PEX000324,MFA Policy,EMP00307,Theresa Summers,Engineering,Critical,Business requirement,True,2026-03-28 16:29:28.720627,2026-12-14 16:29:28.720627
+PEX000325,MFA Policy,EMP00471,Daniel Harris,Engineering,High,Business requirement,False,2026-05-24 16:29:28.720627,2027-02-09 16:29:28.720627
+PEX000326,Acceptable Use Policy,EMP00494,Claudia Andrews,Legal,Low,Business requirement,True,2026-06-27 16:29:28.720627,2027-01-11 16:29:28.720627
+PEX000327,Remote Access Policy,EMP00044,Rebecca Glenn,Finance,Critical,Business requirement,True,2026-05-28 16:29:28.720627,2026-12-21 16:29:28.720627
+PEX000328,Remote Access Policy,EMP00134,Marilyn Garcia,Operations,High,Business requirement,False,2026-05-11 16:29:28.720627,2026-06-14 16:29:28.720627
+PEX000329,MFA Policy,EMP00077,Melissa Hill,Human Resources,Critical,Business requirement,False,2026-06-28 16:29:28.720627,2026-09-02 16:29:28.720627
+PEX000330,Password Policy,EMP00007,Jessica Atkins,Finance,Medium,Business requirement,True,2026-06-21 16:29:28.720627,2027-02-14 16:29:28.720627
+PEX000331,Remote Access Policy,EMP00440,Tiffany Brown,Legal,Low,Business requirement,False,2026-02-28 16:29:28.720627,2026-07-02 16:29:28.720627
+PEX000332,Remote Access Policy,EMP00401,Tammy Chavez,Security,Critical,Business requirement,True,2026-06-17 16:29:28.720627,2026-12-29 16:29:28.720627
+PEX000333,Remote Access Policy,EMP00335,Paul Hansen,Finance,High,Business requirement,True,2026-04-14 16:29:28.720627,2027-01-08 16:29:28.720627
+PEX000334,Acceptable Use Policy,EMP00358,Martha Mcgee,IT,Medium,Business requirement,True,2026-07-09 16:29:28.720627,2027-07-03 16:29:28.720627
+PEX000335,Patch Management Policy,EMP00115,Benjamin Thompson,IT,Medium,Business requirement,False,2026-02-20 16:29:28.720627,2026-05-27 16:29:28.720627
+PEX000336,Password Policy,EMP00273,Matthew Lozano,Finance,High,Business requirement,True,2026-05-11 16:29:28.720627,2026-09-08 16:29:28.720627
+PEX000337,Acceptable Use Policy,EMP00082,Ian Wright,Finance,Medium,Business requirement,False,2026-04-09 16:29:28.720627,2027-03-17 16:29:28.720627
+PEX000338,Patch Management Policy,EMP00377,Vanessa Winters,Operations,Low,Business requirement,False,2026-03-17 16:29:28.720627,2026-10-05 16:29:28.720627
+PEX000339,Password Policy,EMP00427,Thomas Tucker,Engineering,High,Business requirement,False,2026-06-04 16:29:28.720627,2026-12-03 16:29:28.720627
+PEX000340,Password Policy,EMP00097,Mary Wyatt,Engineering,Medium,Business requirement,False,2026-06-18 16:29:28.720627,2027-01-17 16:29:28.720627
+PEX000341,Patch Management Policy,EMP00474,Ricardo Perez,Legal,High,Business requirement,False,2026-02-11 16:29:28.720627,2026-05-26 16:29:28.720627
+PEX000342,Remote Access Policy,EMP00136,Luke Marshall,Finance,High,Business requirement,True,2026-06-26 16:29:28.720627,2026-10-21 16:29:28.720627
+PEX000343,MFA Policy,EMP00236,Heidi Chambers,Engineering,Low,Business requirement,False,2026-03-02 16:29:28.720627,2027-01-23 16:29:28.720627
+PEX000344,MFA Policy,EMP00296,Richard Richardson,Finance,Medium,Business requirement,False,2026-03-12 16:29:28.720627,2026-05-02 16:29:28.720627
+PEX000345,Remote Access Policy,EMP00289,Sean Hernandez,Finance,High,Business requirement,True,2026-03-25 16:29:28.720627,2026-10-17 16:29:28.720627
+PEX000346,Remote Access Policy,EMP00466,Jody Hoffman,Security,Medium,Business requirement,False,2026-02-14 16:29:28.720627,2026-09-20 16:29:28.720627
+PEX000347,Remote Access Policy,EMP00202,Shirley Baird,Human Resources,Low,Business requirement,True,2026-07-27 16:29:28.720627,2027-02-19 16:29:28.720627
+PEX000348,Patch Management Policy,EMP00270,Dr. Michael Stevens,IT,High,Business requirement,False,2026-07-10 16:29:28.720627,2027-01-10 16:29:28.720627
+PEX000349,MFA Policy,EMP00022,Jim Cox,Human Resources,High,Business requirement,True,2026-01-31 16:29:28.720627,2026-10-05 16:29:28.720627
+PEX000350,MFA Policy,EMP00292,Annette Figueroa,Engineering,Medium,Business requirement,True,2026-04-23 16:29:28.720627,2026-11-27 16:29:28.720627
+PEX000351,MFA Policy,EMP00032,Jeremiah Bryant,Human Resources,Medium,Business requirement,True,2026-02-23 16:29:28.720627,2026-08-31 16:29:28.720627
+PEX000352,Password Policy,EMP00089,Andrew Schmidt,Human Resources,Low,Business requirement,False,2026-07-24 16:29:28.720627,2027-04-25 16:29:28.720627
+PEX000353,MFA Policy,EMP00258,Denise Williams,Human Resources,Low,Business requirement,False,2026-05-10 16:29:28.720627,2027-01-29 16:29:28.720627
+PEX000354,Acceptable Use Policy,EMP00390,Sherri Vance,Legal,High,Business requirement,False,2026-05-16 16:29:28.720627,2026-08-07 16:29:28.720627
+PEX000355,Patch Management Policy,EMP00271,Lori Lamb,Operations,Low,Business requirement,False,2026-05-24 16:29:28.720627,2026-12-13 16:29:28.720627
+PEX000356,Remote Access Policy,EMP00422,Matthew Wright,Operations,High,Business requirement,True,2026-06-28 16:29:28.720627,2026-11-12 16:29:28.720627
+PEX000357,Password Policy,EMP00216,Elizabeth Sellers,Legal,Critical,Business requirement,False,2026-05-15 16:29:28.720627,2027-04-29 16:29:28.720627
+PEX000358,Acceptable Use Policy,EMP00228,Nancy Orozco,Finance,High,Business requirement,False,2026-04-09 16:29:28.720627,2026-05-12 16:29:28.720627
+PEX000359,Remote Access Policy,EMP00312,Rachael Fisher,Engineering,Critical,Business requirement,True,2026-05-29 16:29:28.720627,2027-04-04 16:29:28.720627
+PEX000360,Patch Management Policy,EMP00370,Terry Parker,Security,Critical,Business requirement,True,2026-06-15 16:29:28.720627,2027-03-18 16:29:28.720627
+PEX000361,Patch Management Policy,EMP00010,Teresa Booth,Engineering,Low,Business requirement,False,2026-05-27 16:29:28.720627,2027-05-27 16:29:28.720627
+PEX000362,Patch Management Policy,EMP00246,Jennifer Bates,Legal,Critical,Business requirement,True,2026-07-05 16:29:28.720627,2027-04-08 16:29:28.720627
+PEX000363,MFA Policy,EMP00482,Jennifer Patel DVM,Engineering,Low,Business requirement,True,2026-06-10 16:29:28.720627,2026-10-08 16:29:28.720627
+PEX000364,Password Policy,EMP00280,Benjamin Gray,Legal,High,Business requirement,False,2026-07-24 16:29:28.720627,2027-03-17 16:29:28.720627
+PEX000365,Acceptable Use Policy,EMP00016,Stacey Jenkins,Engineering,Critical,Business requirement,False,2026-03-10 16:29:28.720627,2026-04-27 16:29:28.720627
+PEX000366,Acceptable Use Policy,EMP00212,Sean Franco,IT,Critical,Business requirement,True,2026-04-03 16:29:28.720627,2027-02-07 16:29:28.720627
+PEX000367,Password Policy,EMP00469,Brian Pham,IT,Medium,Business requirement,True,2026-04-20 16:29:28.720627,2027-03-05 16:29:28.720627
+PEX000368,Remote Access Policy,EMP00410,Jesse Watkins,IT,Medium,Business requirement,False,2026-06-04 16:29:28.720627,2027-06-02 16:29:28.720627
+PEX000369,Acceptable Use Policy,EMP00248,Breanna Gomez,Operations,High,Business requirement,True,2026-02-18 16:29:28.720627,2027-02-18 16:29:28.720627
+PEX000370,Remote Access Policy,EMP00178,Kelsey Long,Finance,Critical,Business requirement,False,2026-07-05 16:29:28.720627,2027-03-26 16:29:28.720627
+PEX000371,MFA Policy,EMP00407,Rebecca Flores,Legal,Critical,Business requirement,True,2026-04-05 16:29:28.720627,2027-04-03 16:29:28.720627
+PEX000372,Remote Access Policy,EMP00007,Jessica Atkins,Finance,High,Business requirement,True,2026-01-31 16:29:28.720627,2026-03-31 16:29:28.720627
+PEX000373,Password Policy,EMP00368,Melissa Michael,Finance,Medium,Business requirement,True,2026-02-08 16:29:28.720627,2027-01-06 16:29:28.720627
+PEX000374,Password Policy,EMP00446,Mrs. Autumn Wyatt,Legal,High,Business requirement,False,2026-05-12 16:29:28.720627,2026-12-08 16:29:28.720627
+PEX000375,MFA Policy,EMP00234,Kaitlin Martinez,Engineering,High,Business requirement,True,2026-03-08 16:29:28.720627,2026-11-23 16:29:28.720627
+PEX000376,MFA Policy,EMP00031,Jack Sims,Legal,Low,Business requirement,False,2026-07-03 16:29:28.720627,2026-08-28 16:29:28.720627
+PEX000377,Acceptable Use Policy,EMP00478,Charles Henderson,IT,High,Business requirement,True,2026-07-04 16:29:28.720627,2027-02-20 16:29:28.720627
+PEX000378,MFA Policy,EMP00235,Patty Camacho,IT,Low,Business requirement,False,2026-02-28 16:29:28.720627,2027-01-05 16:29:28.720627
+PEX000379,Patch Management Policy,EMP00271,Lori Lamb,Operations,Medium,Business requirement,False,2026-03-04 16:29:28.720627,2026-05-28 16:29:28.720627
+PEX000380,Patch Management Policy,EMP00408,Mrs. Mary Brown,Human Resources,Low,Business requirement,True,2026-03-12 16:29:28.720627,2027-01-22 16:29:28.720627
+PEX000381,Password Policy,EMP00290,Emily Nelson,Human Resources,Low,Business requirement,True,2026-03-14 16:29:28.720627,2027-01-27 16:29:28.720627
+PEX000382,Patch Management Policy,EMP00199,Terry Henson,Legal,Critical,Business requirement,True,2026-02-22 16:29:28.720627,2026-06-18 16:29:28.720627
+PEX000383,Acceptable Use Policy,EMP00254,Larry Garcia,IT,Critical,Business requirement,True,2026-03-21 16:29:28.720627,2026-08-22 16:29:28.720627
+PEX000384,Remote Access Policy,EMP00414,Michael Bishop,Operations,Medium,Business requirement,True,2026-03-11 16:29:28.720627,2026-11-02 16:29:28.720627
+PEX000385,Remote Access Policy,EMP00264,Carl Stafford,Finance,Critical,Business requirement,False,2026-02-11 16:29:28.720627,2026-08-20 16:29:28.720627
+PEX000386,Password Policy,EMP00469,Brian Pham,IT,High,Business requirement,True,2026-07-01 16:29:28.720627,2026-12-09 16:29:28.720627
+PEX000387,MFA Policy,EMP00108,Veronica Novak,Human Resources,Medium,Business requirement,False,2026-04-29 16:29:28.720627,2027-04-02 16:29:28.720627
+PEX000388,Password Policy,EMP00306,Kristi Atkins,Security,Critical,Business requirement,False,2026-03-16 16:29:28.720627,2026-12-25 16:29:28.720627
+PEX000389,Remote Access Policy,EMP00047,Connie Ward,Human Resources,High,Business requirement,True,2026-07-19 16:29:28.720627,2027-03-27 16:29:28.720627
+PEX000390,Password Policy,EMP00295,Kristen Howell,IT,Medium,Business requirement,False,2026-02-03 16:29:28.720627,2026-03-27 16:29:28.720627
+PEX000391,Remote Access Policy,EMP00438,Michael Fisher,IT,Low,Business requirement,True,2026-03-17 16:29:28.720627,2026-09-16 16:29:28.720627
+PEX000392,Acceptable Use Policy,EMP00210,Meredith Atkinson DVM,Operations,Critical,Business requirement,False,2026-04-21 16:29:28.720627,2026-12-16 16:29:28.720627
+PEX000393,Remote Access Policy,EMP00448,Michelle Cole,Security,Critical,Business requirement,True,2026-04-09 16:29:28.720627,2026-05-14 16:29:28.720627
+PEX000394,MFA Policy,EMP00439,Mia Davis,IT,Medium,Business requirement,False,2026-06-02 16:29:28.720627,2026-10-19 16:29:28.720627
+PEX000395,MFA Policy,EMP00224,Gina Williams,Finance,Low,Business requirement,False,2026-02-07 16:29:28.720627,2026-09-21 16:29:28.720627
+PEX000396,Password Policy,EMP00473,Zachary Martinez,Human Resources,Low,Business requirement,False,2026-04-19 16:29:28.720627,2027-03-17 16:29:28.720627
+PEX000397,Patch Management Policy,EMP00024,Michael Roberts,Human Resources,Medium,Business requirement,True,2026-02-06 16:29:28.720627,2026-12-06 16:29:28.720627
+PEX000398,MFA Policy,EMP00179,Miguel Weber,Engineering,Medium,Business requirement,False,2026-03-24 16:29:28.720627,2026-06-13 16:29:28.720627
+PEX000399,Password Policy,EMP00159,Andrew Roberts,Operations,Critical,Business requirement,False,2026-07-22 16:29:28.720627,2027-06-09 16:29:28.720627
+PEX000400,Password Policy,EMP00053,Daniel Durham,Finance,Critical,Business requirement,True,2026-03-25 16:29:28.720627,2026-05-02 16:29:28.720627
+PEX000401,Remote Access Policy,EMP00140,Samantha Erickson,Finance,Medium,Business requirement,False,2026-07-26 16:29:28.720627,2027-04-04 16:29:28.720627
+PEX000402,Acceptable Use Policy,EMP00174,Emily Church,Human Resources,Medium,Business requirement,False,2026-02-16 16:29:28.720627,2026-10-27 16:29:28.720627
+PEX000403,MFA Policy,EMP00416,Victoria Silva,Legal,Medium,Business requirement,True,2026-07-27 16:29:28.720627,2026-12-03 16:29:28.720627
+PEX000404,Password Policy,EMP00052,Joshua Jones,Engineering,High,Business requirement,False,2026-04-18 16:29:28.720627,2026-10-26 16:29:28.720627
+PEX000405,Acceptable Use Policy,EMP00343,Dominique Franklin,Security,Low,Business requirement,False,2026-07-20 16:29:28.720627,2027-02-03 16:29:28.720627
+PEX000406,Remote Access Policy,EMP00477,William Pearson,Legal,Critical,Business requirement,True,2026-06-03 16:29:28.720627,2026-12-31 16:29:28.720627
+PEX000407,Remote Access Policy,EMP00344,Kent Carter,Finance,High,Business requirement,False,2026-05-06 16:29:28.720627,2026-06-29 16:29:28.720627
+PEX000408,Patch Management Policy,EMP00253,Richard Bailey,Engineering,Medium,Business requirement,False,2026-04-23 16:29:28.720627,2026-09-22 16:29:28.720627
+PEX000409,MFA Policy,EMP00168,Maxwell Munoz,IT,High,Business requirement,True,2026-02-27 16:29:28.720627,2026-07-05 16:29:28.720627
+PEX000410,MFA Policy,EMP00253,Richard Bailey,Engineering,Low,Business requirement,False,2026-07-03 16:29:28.720627,2026-10-01 16:29:28.720627
+PEX000411,Acceptable Use Policy,EMP00139,Pamela Howard,Finance,High,Business requirement,True,2026-02-15 16:29:28.720627,2026-07-21 16:29:28.720627
+PEX000412,Patch Management Policy,EMP00349,Brian Rowland,Legal,Low,Business requirement,False,2026-07-12 16:29:28.720627,2026-10-29 16:29:28.720627
+PEX000413,Password Policy,EMP00007,Jessica Atkins,Finance,Critical,Business requirement,False,2026-06-25 16:29:28.720627,2026-09-01 16:29:28.720627
+PEX000414,Remote Access Policy,EMP00444,Sarah Shelton,Operations,Low,Business requirement,False,2026-03-28 16:29:28.720627,2027-02-27 16:29:28.720627
+PEX000415,MFA Policy,EMP00471,Daniel Harris,Engineering,High,Business requirement,False,2026-05-14 16:29:28.720627,2027-01-10 16:29:28.720627
+PEX000416,Remote Access Policy,EMP00329,Danielle Anderson MD,Engineering,Medium,Business requirement,False,2026-04-29 16:29:28.720627,2026-12-12 16:29:28.720627
+PEX000417,Patch Management Policy,EMP00418,Adam Brown,IT,Low,Business requirement,False,2026-06-22 16:29:28.720627,2027-02-25 16:29:28.720627
+PEX000418,Remote Access Policy,EMP00477,William Pearson,Legal,Medium,Business requirement,False,2026-04-12 16:29:28.720627,2026-08-06 16:29:28.720627
+PEX000419,Acceptable Use Policy,EMP00070,Brooke Proctor,Engineering,Critical,Business requirement,False,2026-06-07 16:29:28.721632,2027-02-16 16:29:28.721632
+PEX000420,MFA Policy,EMP00157,Nicole Knox,Legal,Critical,Business requirement,False,2026-06-23 16:29:28.721632,2026-08-18 16:29:28.721632
+PEX000421,Password Policy,EMP00347,Carlos Smith,Legal,High,Business requirement,False,2026-07-23 16:29:28.721632,2027-04-27 16:29:28.721632
+PEX000422,Password Policy,EMP00041,Jody Burton,Engineering,Medium,Business requirement,False,2026-04-23 16:29:28.721632,2026-07-05 16:29:28.721632
+PEX000423,Patch Management Policy,EMP00083,Michelle Williams,Engineering,Low,Business requirement,True,2026-04-28 16:29:28.721632,2026-10-31 16:29:28.721632
+PEX000424,Password Policy,EMP00280,Benjamin Gray,Legal,Low,Business requirement,True,2026-01-29 16:29:28.721632,2026-05-07 16:29:28.721632
+PEX000425,Acceptable Use Policy,EMP00337,Jared Reyes,Human Resources,Critical,Business requirement,True,2026-07-17 16:29:28.721632,2026-11-10 16:29:28.721632
+PEX000426,MFA Policy,EMP00103,Laura James,Finance,Low,Business requirement,True,2026-04-19 16:29:28.721632,2026-07-02 16:29:28.721632
+PEX000427,Remote Access Policy,EMP00151,Paige Harrington,Operations,Critical,Business requirement,True,2026-07-08 16:29:28.721632,2027-04-02 16:29:28.721632
+PEX000428,Patch Management Policy,EMP00238,Vincent Morris,IT,Medium,Business requirement,True,2026-07-21 16:29:28.721632,2026-12-01 16:29:28.721632
+PEX000429,Remote Access Policy,EMP00032,Jeremiah Bryant,Human Resources,Medium,Business requirement,True,2026-03-04 16:29:28.721632,2026-10-30 16:29:28.721632
+PEX000430,Patch Management Policy,EMP00312,Rachael Fisher,Engineering,High,Business requirement,True,2026-07-02 16:29:28.721632,2026-12-04 16:29:28.721632
+PEX000431,Acceptable Use Policy,EMP00145,Michael Adams,Finance,High,Business requirement,False,2026-07-23 16:29:28.721632,2026-12-17 16:29:28.721632
+PEX000432,Password Policy,EMP00232,David Henson,Engineering,Low,Business requirement,False,2026-07-12 16:29:28.721632,2027-02-27 16:29:28.721632
+PEX000433,MFA Policy,EMP00144,Joseph Bryant,Operations,High,Business requirement,True,2026-02-28 16:29:28.721632,2026-04-16 16:29:28.721632
+PEX000434,Password Policy,EMP00395,Darlene Padilla,Engineering,Critical,Business requirement,True,2026-06-27 16:29:28.721632,2027-01-26 16:29:28.721632
+PEX000435,Patch Management Policy,EMP00441,Anthony Zimmerman,Security,Critical,Business requirement,True,2026-06-30 16:29:28.721632,2027-06-25 16:29:28.721632
+PEX000436,Password Policy,EMP00378,Norman Jackson,Human Resources,High,Business requirement,True,2026-03-22 16:29:28.721632,2027-01-05 16:29:28.721632
+PEX000437,MFA Policy,EMP00051,Richard Velez,Legal,Medium,Business requirement,True,2026-04-22 16:29:28.721632,2027-03-22 16:29:28.721632
+PEX000438,Patch Management Policy,EMP00415,Dave Gutierrez,Human Resources,Medium,Business requirement,True,2026-07-08 16:29:28.721632,2026-12-06 16:29:28.721632
+PEX000439,Acceptable Use Policy,EMP00400,Cheryl Ballard,Human Resources,High,Business requirement,True,2026-05-07 16:29:28.721632,2027-01-18 16:29:28.721632
+PEX000440,Acceptable Use Policy,EMP00276,Christopher Cuevas,Engineering,High,Business requirement,True,2026-02-20 16:29:28.721632,2026-07-19 16:29:28.721632
+PEX000441,MFA Policy,EMP00097,Mary Wyatt,Engineering,Medium,Business requirement,True,2026-07-16 16:29:28.721632,2027-04-04 16:29:28.721632
+PEX000442,Acceptable Use Policy,EMP00156,Michelle Thompson,Human Resources,High,Business requirement,True,2026-02-09 16:29:28.721632,2026-12-01 16:29:28.721632
+PEX000443,MFA Policy,EMP00275,Michael Gutierrez,IT,High,Business requirement,True,2026-02-27 16:29:28.721632,2026-10-16 16:29:28.721632
+PEX000444,Acceptable Use Policy,EMP00245,Sarah Jefferson,Operations,Low,Business requirement,False,2026-04-02 16:29:28.721632,2026-06-13 16:29:28.721632
+PEX000445,Password Policy,EMP00457,Erik Reyes,Operations,Medium,Business requirement,False,2026-05-31 16:29:28.721632,2026-09-21 16:29:28.721632
+PEX000446,Acceptable Use Policy,EMP00003,Natasha Obrien,Engineering,Low,Business requirement,True,2026-03-21 16:29:28.721632,2026-11-19 16:29:28.721632
+PEX000447,MFA Policy,EMP00158,Cassie Hoffman,Security,High,Business requirement,True,2026-04-16 16:29:28.721632,2027-01-25 16:29:28.721632
+PEX000448,Remote Access Policy,EMP00462,Michael Graham,Engineering,Medium,Business requirement,False,2026-04-25 16:29:28.721632,2026-10-28 16:29:28.721632
+PEX000449,Patch Management Policy,EMP00368,Melissa Michael,Finance,Critical,Business requirement,True,2026-07-26 16:29:28.721632,2027-07-20 16:29:28.721632
+PEX000450,Acceptable Use Policy,EMP00330,Sharon Crawford,Legal,Medium,Business requirement,True,2026-02-19 16:29:28.721632,2026-10-04 16:29:28.721632
+PEX000451,Acceptable Use Policy,EMP00365,Mary Jones,Human Resources,Low,Business requirement,False,2026-03-11 16:29:28.721632,2027-02-07 16:29:28.721632
+PEX000452,MFA Policy,EMP00310,Lauren Tanner,Finance,Critical,Business requirement,True,2026-05-19 16:29:28.721632,2026-09-21 16:29:28.721632
+PEX000453,Remote Access Policy,EMP00133,Cynthia Woodward,Operations,High,Business requirement,False,2026-03-18 16:29:28.721632,2026-12-09 16:29:28.721632
+PEX000454,Acceptable Use Policy,EMP00414,Michael Bishop,Operations,Medium,Business requirement,False,2026-06-18 16:29:28.721632,2027-04-22 16:29:28.721632
+PEX000455,Acceptable Use Policy,EMP00005,Jennifer Sanders,Legal,Critical,Business requirement,True,2026-05-14 16:29:28.721632,2026-09-29 16:29:28.721632
+PEX000456,Password Policy,EMP00483,Shannon Peterson,Operations,Low,Business requirement,True,2026-06-27 16:29:28.721632,2026-12-31 16:29:28.721632
+PEX000457,Password Policy,EMP00005,Jennifer Sanders,Legal,Medium,Business requirement,True,2026-03-31 16:29:28.721632,2026-07-02 16:29:28.721632
+PEX000458,Acceptable Use Policy,EMP00167,Peter Contreras,Finance,Medium,Business requirement,False,2026-06-12 16:29:28.721632,2027-03-20 16:29:28.721632
+PEX000459,Acceptable Use Policy,EMP00438,Michael Fisher,IT,High,Business requirement,False,2026-04-02 16:29:28.721632,2026-09-09 16:29:28.721632
+PEX000460,MFA Policy,EMP00043,Danielle Silva,Operations,Low,Business requirement,False,2026-02-08 16:29:28.721632,2026-09-10 16:29:28.721632
+PEX000461,Acceptable Use Policy,EMP00419,Brandon Barker,Engineering,High,Business requirement,True,2026-03-31 16:29:28.721632,2027-01-23 16:29:28.721632
+PEX000462,Patch Management Policy,EMP00092,Micheal Barajas,Security,Critical,Business requirement,True,2026-04-20 16:29:28.721632,2026-11-13 16:29:28.721632
+PEX000463,MFA Policy,EMP00470,Teresa Guerrero,Finance,Critical,Business requirement,True,2026-05-21 16:29:28.721632,2027-01-30 16:29:28.721632
+PEX000464,Patch Management Policy,EMP00098,Susan Mckay,Human Resources,High,Business requirement,True,2026-05-31 16:29:28.721632,2026-12-30 16:29:28.721632
+PEX000465,Password Policy,EMP00479,Jennifer Salazar,Security,High,Business requirement,False,2026-07-06 16:29:28.721632,2027-02-20 16:29:28.721632
+PEX000466,Patch Management Policy,EMP00311,Mark Deleon,Security,Low,Business requirement,True,2026-05-07 16:29:28.721632,2026-08-26 16:29:28.721632
+PEX000467,MFA Policy,EMP00430,Victor Everett,Engineering,Medium,Business requirement,True,2026-05-09 16:29:28.721632,2026-07-30 16:29:28.721632
+PEX000468,MFA Policy,EMP00148,Jeremy Bailey,Human Resources,High,Business requirement,True,2026-07-02 16:29:28.721632,2026-10-27 16:29:28.721632
+PEX000469,Acceptable Use Policy,EMP00155,Kenneth Miranda,Engineering,High,Business requirement,False,2026-04-25 16:29:28.721632,2026-12-23 16:29:28.721632
+PEX000470,Patch Management Policy,EMP00178,Kelsey Long,Finance,High,Business requirement,True,2026-05-21 16:29:28.721632,2026-12-19 16:29:28.721632
+PEX000471,Acceptable Use Policy,EMP00341,Scott Lopez,Legal,High,Business requirement,True,2026-04-13 16:29:28.721632,2026-12-22 16:29:28.721632
+PEX000472,Acceptable Use Policy,EMP00482,Jennifer Patel DVM,Engineering,Low,Business requirement,True,2026-07-22 16:29:28.721632,2026-10-31 16:29:28.721632
+PEX000473,Password Policy,EMP00194,Samantha Whitaker,IT,High,Business requirement,True,2026-06-10 16:29:28.721632,2026-09-25 16:29:28.721632
+PEX000474,Acceptable Use Policy,EMP00155,Kenneth Miranda,Engineering,Medium,Business requirement,False,2026-03-29 16:29:28.721632,2026-12-15 16:29:28.721632
+PEX000475,Password Policy,EMP00197,Brandon West,Finance,Critical,Business requirement,True,2026-03-27 16:29:28.721632,2026-07-20 16:29:28.721632
+PEX000476,Remote Access Policy,EMP00175,Janice Alvarez,Finance,Low,Business requirement,False,2026-05-01 16:29:28.721632,2027-02-17 16:29:28.721632
+PEX000477,Acceptable Use Policy,EMP00496,Jason Lam,Finance,Medium,Business requirement,True,2026-05-16 16:29:28.721632,2027-02-23 16:29:28.721632
+PEX000478,MFA Policy,EMP00177,Brett Murray,Finance,High,Business requirement,False,2026-07-27 16:29:28.721632,2027-05-12 16:29:28.721632
+PEX000479,Remote Access Policy,EMP00113,Richard Lambert,Legal,High,Business requirement,True,2026-03-29 16:29:28.721632,2026-09-21 16:29:28.721632
+PEX000480,MFA Policy,EMP00365,Mary Jones,Human Resources,Low,Business requirement,True,2026-04-30 16:29:28.721632,2026-07-22 16:29:28.721632
+PEX000481,Password Policy,EMP00439,Mia Davis,IT,Medium,Business requirement,False,2026-04-15 16:29:28.721632,2026-07-16 16:29:28.721632
+PEX000482,Remote Access Policy,EMP00150,Kyle Cain,Security,Critical,Business requirement,False,2026-02-20 16:29:28.721632,2026-11-07 16:29:28.721632
+PEX000483,Password Policy,EMP00305,Benjamin Stewart,Human Resources,Low,Business requirement,False,2026-02-06 16:29:28.721632,2026-10-14 16:29:28.721632
+PEX000484,Patch Management Policy,EMP00427,Thomas Tucker,Engineering,Critical,Business requirement,False,2026-06-17 16:29:28.721632,2027-02-24 16:29:28.721632
+PEX000485,Password Policy,EMP00275,Michael Gutierrez,IT,High,Business requirement,False,2026-01-30 16:29:28.721632,2027-01-12 16:29:28.721632
+PEX000486,Acceptable Use Policy,EMP00117,Steven Burton,Operations,Critical,Business requirement,False,2026-04-10 16:29:28.721632,2027-02-24 16:29:28.721632
+PEX000487,Acceptable Use Policy,EMP00186,Kelly Calhoun,IT,High,Business requirement,True,2026-03-17 16:29:28.721632,2027-03-09 16:29:28.721632
+PEX000488,MFA Policy,EMP00289,Sean Hernandez,Finance,High,Business requirement,False,2026-03-23 16:29:28.721632,2026-11-01 16:29:28.721632
+PEX000489,Patch Management Policy,EMP00264,Carl Stafford,Finance,Critical,Business requirement,True,2026-02-12 16:29:28.721632,2026-07-07 16:29:28.721632
+PEX000490,Acceptable Use Policy,EMP00062,Mariah Duncan,Finance,Low,Business requirement,True,2026-03-01 16:29:28.721632,2026-12-15 16:29:28.721632
+PEX000491,Remote Access Policy,EMP00043,Danielle Silva,Operations,High,Business requirement,True,2026-07-02 16:29:28.721632,2026-11-28 16:29:28.721632
+PEX000492,Acceptable Use Policy,EMP00096,Lauren Jensen,Human Resources,Medium,Business requirement,True,2026-05-11 16:29:28.721632,2026-08-05 16:29:28.721632
+PEX000493,Password Policy,EMP00062,Mariah Duncan,Finance,High,Business requirement,True,2026-02-25 16:29:28.721632,2026-12-23 16:29:28.721632
+PEX000494,Password Policy,EMP00265,William Lee,Human Resources,Medium,Business requirement,True,2026-02-01 16:29:28.721632,2026-12-06 16:29:28.721632
+PEX000495,MFA Policy,EMP00271,Lori Lamb,Operations,High,Business requirement,False,2026-07-20 16:29:28.721632,2027-05-03 16:29:28.721632
+PEX000496,Patch Management Policy,EMP00454,Sarah Phillips,Human Resources,Critical,Business requirement,True,2026-05-10 16:29:28.721632,2026-07-21 16:29:28.721632
+PEX000497,Password Policy,EMP00456,Alexander Miller,Human Resources,Medium,Business requirement,False,2026-07-15 16:29:28.721632,2026-10-22 16:29:28.721632
+PEX000498,Password Policy,EMP00001,John Lopez,Human Resources,Medium,Business requirement,False,2026-07-15 16:29:28.721632,2027-07-03 16:29:28.721632
+PEX000499,MFA Policy,EMP00324,Donna Smith,Finance,High,Business requirement,False,2026-04-12 16:29:28.721632,2026-12-22 16:29:28.721632
+PEX000500,Password Policy,EMP00267,Anthony Alexander,Finance,High,Business requirement,True,2026-01-29 16:29:28.721632,2026-10-24 16:29:28.721632
+PEX000501,Remote Access Policy,EMP00278,Matthew Perez,Human Resources,Critical,Business requirement,False,2026-02-08 16:29:28.721632,2026-03-24 16:29:28.721632
+PEX000502,Acceptable Use Policy,EMP00435,Ronald Rogers,Legal,Critical,Business requirement,False,2026-04-19 16:29:28.721632,2027-02-24 16:29:28.721632
+PEX000503,Acceptable Use Policy,EMP00129,Leslie Preston,Security,High,Business requirement,False,2026-02-06 16:29:28.721632,2026-04-10 16:29:28.721632
+PEX000504,Remote Access Policy,EMP00027,Anthony Walton,Security,Low,Business requirement,False,2026-04-11 16:29:28.721632,2026-08-03 16:29:28.721632
+PEX000505,Password Policy,EMP00015,John Tate,Operations,Medium,Business requirement,False,2026-06-20 16:29:28.721632,2026-09-12 16:29:28.721632
+PEX000506,Patch Management Policy,EMP00263,Alexis Roberts,Finance,Medium,Business requirement,True,2026-02-10 16:29:28.721632,2026-10-03 16:29:28.721632
+PEX000507,MFA Policy,EMP00056,Jose Johnson,IT,Low,Business requirement,False,2026-06-08 16:29:28.721632,2026-07-10 16:29:28.721632
+PEX000508,Remote Access Policy,EMP00378,Norman Jackson,Human Resources,Low,Business requirement,True,2026-03-24 16:29:28.721632,2026-12-22 16:29:28.721632
+PEX000509,Remote Access Policy,EMP00423,Roberto Thomas,Security,Medium,Business requirement,True,2026-03-23 16:29:28.721632,2027-01-06 16:29:28.721632
+PEX000510,Remote Access Policy,EMP00202,Shirley Baird,Human Resources,Medium,Business requirement,False,2026-04-20 16:29:28.721632,2026-12-28 16:29:28.721632
+PEX000511,MFA Policy,EMP00376,George Hutchinson,Engineering,Medium,Business requirement,True,2026-07-10 16:29:28.721632,2027-04-01 16:29:28.721632
+PEX000512,Password Policy,EMP00120,Scott Lopez,Engineering,Critical,Business requirement,True,2026-06-23 16:29:28.721632,2026-09-01 16:29:28.721632
+PEX000513,Acceptable Use Policy,EMP00434,Dean Mayo,Human Resources,Critical,Business requirement,False,2026-04-27 16:29:28.721632,2026-07-17 16:29:28.721632
+PEX000514,Patch Management Policy,EMP00068,Sean Reyes,Human Resources,Low,Business requirement,True,2026-05-12 16:29:28.721632,2026-12-01 16:29:28.721632
+PEX000515,Remote Access Policy,EMP00361,Michael Thomas,Security,Critical,Business requirement,True,2026-02-16 16:29:28.721632,2026-06-04 16:29:28.721632
+PEX000516,Password Policy,EMP00401,Tammy Chavez,Security,Critical,Business requirement,False,2026-07-15 16:29:28.721632,2026-10-29 16:29:28.721632
+PEX000517,Patch Management Policy,EMP00050,Mr. Ronald Wright,IT,Critical,Business requirement,False,2026-04-24 16:29:28.721632,2026-07-12 16:29:28.721632
+PEX000518,Patch Management Policy,EMP00029,Jeffrey Sullivan,IT,Low,Business requirement,False,2026-03-11 16:29:28.721632,2026-12-11 16:29:28.721632
+PEX000519,MFA Policy,EMP00383,Christopher Bonilla,Legal,High,Business requirement,True,2026-04-01 16:29:28.721632,2026-12-24 16:29:28.721632
+PEX000520,Patch Management Policy,EMP00056,Jose Johnson,IT,Medium,Business requirement,False,2026-04-29 16:29:28.721632,2027-03-09 16:29:28.721632
+PEX000521,MFA Policy,EMP00382,Elizabeth Lang,Human Resources,Medium,Business requirement,True,2026-02-19 16:29:28.721632,2026-12-24 16:29:28.721632
+PEX000522,Patch Management Policy,EMP00429,Jessica Nunez,Engineering,Critical,Business requirement,True,2026-04-21 16:29:28.721632,2027-04-05 16:29:28.721632
+PEX000523,Acceptable Use Policy,EMP00172,Susan Hanson,Security,Medium,Business requirement,True,2026-07-03 16:29:28.721632,2026-09-12 16:29:28.721632
+PEX000524,Remote Access Policy,EMP00295,Kristen Howell,IT,High,Business requirement,True,2026-05-30 16:29:28.721632,2027-05-07 16:29:28.721632
+PEX000525,Patch Management Policy,EMP00329,Danielle Anderson MD,Engineering,High,Business requirement,False,2026-07-27 16:29:28.721632,2027-01-09 16:29:28.721632
+PEX000526,MFA Policy,EMP00417,Ashley Taylor,IT,Medium,Business requirement,False,2026-03-01 16:29:28.721632,2026-07-23 16:29:28.721632
+PEX000527,Remote Access Policy,EMP00191,Kristy Cruz,Security,Critical,Business requirement,True,2026-03-22 16:29:28.721632,2027-02-14 16:29:28.721632
+PEX000528,MFA Policy,EMP00447,Kevin Frederick,Security,Critical,Business requirement,True,2026-03-27 16:29:28.721632,2026-09-26 16:29:28.721632
+PEX000529,Remote Access Policy,EMP00326,Jennifer Miller,Security,High,Business requirement,False,2026-05-12 16:29:28.721632,2027-01-13 16:29:28.721632
+PEX000530,Acceptable Use Policy,EMP00194,Samantha Whitaker,IT,High,Business requirement,False,2026-04-23 16:29:28.721632,2026-10-12 16:29:28.721632
+PEX000531,MFA Policy,EMP00065,Jeffrey Orozco,Legal,High,Business requirement,True,2026-07-17 16:29:28.721632,2026-11-06 16:29:28.721632
+PEX000532,Patch Management Policy,EMP00367,Alice Hardy,IT,Medium,Business requirement,False,2026-05-19 16:29:28.721632,2027-04-26 16:29:28.721632
+PEX000533,Remote Access Policy,EMP00093,Cody Taylor,Legal,High,Business requirement,False,2026-02-24 16:29:28.721632,2026-06-05 16:29:28.721632
+PEX000534,Password Policy,EMP00392,Shannon Fernandez,Operations,Medium,Business requirement,False,2026-03-06 16:29:28.721632,2027-01-23 16:29:28.721632
+PEX000535,Patch Management Policy,EMP00362,Nancy Boyd,Operations,High,Business requirement,False,2026-03-14 16:29:28.721632,2026-07-21 16:29:28.721632
+PEX000536,Patch Management Policy,EMP00446,Mrs. Autumn Wyatt,Legal,Medium,Business requirement,False,2026-02-04 16:29:28.721632,2026-04-14 16:29:28.721632
+PEX000537,Password Policy,EMP00027,Anthony Walton,Security,High,Business requirement,True,2026-02-06 16:29:28.721632,2026-11-29 16:29:28.721632
+PEX000538,Acceptable Use Policy,EMP00150,Kyle Cain,Security,Critical,Business requirement,True,2026-03-01 16:29:28.721632,2027-01-30 16:29:28.721632
+PEX000539,Remote Access Policy,EMP00048,Brian Travis,Security,High,Business requirement,True,2026-07-24 16:29:28.721632,2027-03-26 16:29:28.721632
+PEX000540,Password Policy,EMP00269,Travis Johnson,Security,Medium,Business requirement,True,2026-05-19 16:29:28.721632,2026-08-08 16:29:28.721632
+PEX000541,Password Policy,EMP00324,Donna Smith,Finance,Critical,Business requirement,False,2026-04-10 16:29:28.721632,2026-12-26 16:29:28.721632
+PEX000542,Patch Management Policy,EMP00427,Thomas Tucker,Engineering,Critical,Business requirement,True,2026-05-12 16:29:28.721632,2027-02-03 16:29:28.721632
+PEX000543,MFA Policy,EMP00269,Travis Johnson,Security,High,Business requirement,True,2026-02-04 16:29:28.721632,2026-11-29 16:29:28.721632
+PEX000544,Remote Access Policy,EMP00279,Christian Gomez,Finance,High,Business requirement,True,2026-06-05 16:29:28.721632,2026-10-25 16:29:28.721632
+PEX000545,Acceptable Use Policy,EMP00250,Marcus Schroeder,Engineering,High,Business requirement,True,2026-07-03 16:29:28.721632,2027-06-30 16:29:28.721632
+PEX000546,MFA Policy,EMP00029,Jeffrey Sullivan,IT,Low,Business requirement,False,2026-05-20 16:29:28.721632,2026-08-03 16:29:28.721632
+PEX000547,MFA Policy,EMP00408,Mrs. Mary Brown,Human Resources,Medium,Business requirement,False,2026-03-26 16:29:28.721632,2027-03-22 16:29:28.721632
+PEX000548,Patch Management Policy,EMP00177,Brett Murray,Finance,Critical,Business requirement,False,2026-02-02 16:29:28.721632,2026-06-19 16:29:28.721632
+PEX000549,MFA Policy,EMP00408,Mrs. Mary Brown,Human Resources,Medium,Business requirement,True,2026-02-15 16:29:28.721632,2026-09-12 16:29:28.721632
+PEX000550,Patch Management Policy,EMP00383,Christopher Bonilla,Legal,Low,Business requirement,True,2026-07-09 16:29:28.721632,2026-10-14 16:29:28.721632
+PEX000551,Password Policy,EMP00192,Jennifer Hogan,Human Resources,Low,Business requirement,False,2026-07-06 16:29:28.721632,2027-02-01 16:29:28.721632
+PEX000552,Acceptable Use Policy,EMP00074,Melissa Monroe,Human Resources,Medium,Business requirement,True,2026-07-10 16:29:28.721632,2026-10-16 16:29:28.721632
+PEX000553,MFA Policy,EMP00403,Alexandra Hansen,Security,Low,Business requirement,True,2026-06-14 16:29:28.721632,2026-11-09 16:29:28.721632
+PEX000554,Patch Management Policy,EMP00242,George Yoder,Finance,Medium,Business requirement,True,2026-07-01 16:29:28.721632,2026-08-31 16:29:28.721632
+PEX000555,Patch Management Policy,EMP00049,Mrs. Kara Holt,Human Resources,Low,Business requirement,False,2026-03-29 16:29:28.721632,2026-06-24 16:29:28.721632
+PEX000556,Acceptable Use Policy,EMP00448,Michelle Cole,Security,High,Business requirement,False,2026-04-02 16:29:28.721632,2027-01-22 16:29:28.721632
+PEX000557,Acceptable Use Policy,EMP00198,Crystal Flores,IT,High,Business requirement,True,2026-05-02 16:29:28.721632,2026-09-23 16:29:28.721632
+PEX000558,MFA Policy,EMP00103,Laura James,Finance,Critical,Business requirement,True,2026-06-16 16:29:28.721632,2027-06-03 16:29:28.721632
+PEX000559,MFA Policy,EMP00300,Nicole Reed,Finance,High,Business requirement,False,2026-02-12 16:29:28.721632,2027-01-07 16:29:28.721632
+PEX000560,Remote Access Policy,EMP00430,Victor Everett,Engineering,Critical,Business requirement,True,2026-06-01 16:29:28.721632,2026-12-04 16:29:28.721632
+PEX000561,Acceptable Use Policy,EMP00081,Paul Patterson,Legal,Low,Business requirement,True,2026-02-08 16:29:28.721632,2026-07-11 16:29:28.721632
+PEX000562,Password Policy,EMP00315,Colleen Cochran,Operations,Medium,Business requirement,False,2026-05-23 16:29:28.721632,2026-10-31 16:29:28.721632
+PEX000563,Password Policy,EMP00125,Felicia Rocha,Human Resources,High,Business requirement,False,2026-07-04 16:29:28.721632,2026-09-16 16:29:28.721632
+PEX000564,Password Policy,EMP00187,Marie Bates,Human Resources,High,Business requirement,True,2026-04-21 16:29:28.721632,2027-03-26 16:29:28.721632
+PEX000565,MFA Policy,EMP00377,Vanessa Winters,Operations,Low,Business requirement,True,2026-05-15 16:29:28.721632,2027-04-06 16:29:28.721632
+PEX000566,MFA Policy,EMP00434,Dean Mayo,Human Resources,Low,Business requirement,True,2026-05-01 16:29:28.721632,2027-01-06 16:29:28.721632
+PEX000567,Remote Access Policy,EMP00138,Felicia Carroll,Legal,Medium,Business requirement,True,2026-06-20 16:29:28.721632,2027-04-10 16:29:28.721632
+PEX000568,Acceptable Use Policy,EMP00465,Carmen Davis,Human Resources,Medium,Business requirement,True,2026-05-30 16:29:28.721632,2027-02-16 16:29:28.721632
+PEX000569,Acceptable Use Policy,EMP00271,Lori Lamb,Operations,Low,Business requirement,True,2026-06-12 16:29:28.721632,2027-01-18 16:29:28.721632
+PEX000570,MFA Policy,EMP00450,Sheryl Stone,Engineering,Critical,Business requirement,True,2026-05-01 16:29:28.721632,2027-01-30 16:29:28.721632
+PEX000571,Password Policy,EMP00498,Ricky Cook,Operations,Critical,Business requirement,True,2026-05-24 16:29:28.721632,2026-07-21 16:29:28.721632
+PEX000572,MFA Policy,EMP00449,Jamie Robinson,Engineering,Medium,Business requirement,True,2026-05-27 16:29:28.721632,2026-08-07 16:29:28.721632
+PEX000573,Password Policy,EMP00302,Breanna Hester,Finance,Medium,Business requirement,True,2026-04-23 16:29:28.721632,2026-09-28 16:29:28.721632
+PEX000574,Patch Management Policy,EMP00306,Kristi Atkins,Security,High,Business requirement,False,2026-06-14 16:29:28.721632,2027-02-11 16:29:28.721632
+PEX000575,Password Policy,EMP00381,Terry Morgan,IT,Medium,Business requirement,True,2026-06-09 16:29:28.721632,2026-11-15 16:29:28.721632
+PEX000576,MFA Policy,EMP00282,David Hawkins,IT,Medium,Business requirement,False,2026-03-02 16:29:28.721632,2026-06-10 16:29:28.721632
+PEX000577,Remote Access Policy,EMP00292,Annette Figueroa,Engineering,Low,Business requirement,True,2026-01-30 16:29:28.721632,2026-06-12 16:29:28.721632
+PEX000578,Acceptable Use Policy,EMP00194,Samantha Whitaker,IT,Medium,Business requirement,True,2026-05-17 16:29:28.721632,2027-01-04 16:29:28.721632
+PEX000579,Acceptable Use Policy,EMP00303,Judith Wright,Security,High,Business requirement,False,2026-05-04 16:29:28.721632,2027-03-14 16:29:28.721632
+PEX000580,Patch Management Policy,EMP00358,Martha Mcgee,IT,High,Business requirement,False,2026-03-10 16:29:28.721632,2026-07-27 16:29:28.721632
+PEX000581,Remote Access Policy,EMP00096,Lauren Jensen,Human Resources,High,Business requirement,False,2026-04-30 16:29:28.721632,2027-02-21 16:29:28.721632
+PEX000582,MFA Policy,EMP00017,Taylor Mccormick,Engineering,Critical,Business requirement,True,2026-05-10 16:29:28.721632,2026-08-12 16:29:28.721632
+PEX000583,MFA Policy,EMP00403,Alexandra Hansen,Security,High,Business requirement,True,2026-05-29 16:29:28.721632,2027-05-27 16:29:28.721632
+PEX000584,Acceptable Use Policy,EMP00236,Heidi Chambers,Engineering,High,Business requirement,False,2026-07-23 16:29:28.721632,2027-02-15 16:29:28.721632
+PEX000585,Acceptable Use Policy,EMP00299,Daniel Chambers,Finance,Critical,Business requirement,False,2026-03-19 16:29:28.721632,2026-11-21 16:29:28.721632
+PEX000586,Password Policy,EMP00092,Micheal Barajas,Security,Low,Business requirement,True,2026-01-31 16:29:28.721632,2026-10-27 16:29:28.721632
+PEX000587,Patch Management Policy,EMP00003,Natasha Obrien,Engineering,High,Business requirement,True,2026-07-22 16:29:28.721632,2027-06-21 16:29:28.721632
+PEX000588,Password Policy,EMP00150,Kyle Cain,Security,Low,Business requirement,True,2026-02-06 16:29:28.721632,2026-11-27 16:29:28.721632
+PEX000589,Acceptable Use Policy,EMP00120,Scott Lopez,Engineering,Critical,Business requirement,False,2026-05-23 16:29:28.721632,2027-04-12 16:29:28.721632
+PEX000590,Acceptable Use Policy,EMP00029,Jeffrey Sullivan,IT,Critical,Business requirement,True,2026-07-02 16:29:28.721632,2026-11-25 16:29:28.721632
+PEX000591,MFA Policy,EMP00043,Danielle Silva,Operations,Low,Business requirement,True,2026-04-13 16:29:28.721632,2027-03-28 16:29:28.721632
+PEX000592,Acceptable Use Policy,EMP00038,Raymond Berry,Legal,High,Business requirement,False,2026-04-19 16:29:28.721632,2027-04-13 16:29:28.721632
+PEX000593,Acceptable Use Policy,EMP00484,Joseph Gomez,Finance,Low,Business requirement,False,2026-06-06 16:29:28.721632,2026-08-29 16:29:28.721632
+PEX000594,Remote Access Policy,EMP00314,Charles Tucker,Human Resources,Critical,Business requirement,True,2026-03-15 16:29:28.721632,2026-12-31 16:29:28.721632
+PEX000595,MFA Policy,EMP00087,Steven Schneider,Operations,Medium,Business requirement,True,2026-04-07 16:29:28.721632,2026-06-03 16:29:28.721632
+PEX000596,Remote Access Policy,EMP00112,Natalie Friedman,Security,High,Business requirement,True,2026-04-21 16:29:28.721632,2026-08-08 16:29:28.721632
+PEX000597,Remote Access Policy,EMP00074,Melissa Monroe,Human Resources,Low,Business requirement,True,2026-06-15 16:29:28.721632,2027-03-09 16:29:28.721632
+PEX000598,Acceptable Use Policy,EMP00033,Matthew Moody,IT,Critical,Business requirement,False,2026-04-12 16:29:28.721632,2026-08-14 16:29:28.721632
+PEX000599,Remote Access Policy,EMP00123,Jocelyn Anderson,Finance,Low,Business requirement,False,2026-04-12 16:29:28.721632,2026-10-14 16:29:28.721632
+PEX000600,MFA Policy,EMP00221,Marcus Fisher,Finance,High,Business requirement,False,2026-03-04 16:29:28.721632,2026-06-08 16:29:28.721632
+PEX000601,Remote Access Policy,EMP00254,Larry Garcia,IT,Medium,Business requirement,False,2026-06-13 16:29:28.721632,2027-05-14 16:29:28.721632
+PEX000602,Remote Access Policy,EMP00031,Jack Sims,Legal,Low,Business requirement,False,2026-02-21 16:29:28.721632,2026-09-24 16:29:28.721632
+PEX000603,Password Policy,EMP00430,Victor Everett,Engineering,Medium,Business requirement,False,2026-02-19 16:29:28.721632,2026-08-27 16:29:28.721632
+PEX000604,Remote Access Policy,EMP00489,Nicholas Gonzales,Security,Low,Business requirement,False,2026-05-16 16:29:28.721632,2027-04-18 16:29:28.721632
+PEX000605,Remote Access Policy,EMP00468,Angela Irwin,IT,Medium,Business requirement,True,2026-06-05 16:29:28.721632,2027-01-29 16:29:28.721632
+PEX000606,Patch Management Policy,EMP00426,Brian Woodard,Legal,Low,Business requirement,False,2026-06-19 16:29:28.721632,2026-09-24 16:29:28.721632
+PEX000607,Patch Management Policy,EMP00467,Elaine Rice,Security,Critical,Business requirement,True,2026-06-17 16:29:28.721632,2027-01-31 16:29:28.721632
+PEX000608,MFA Policy,EMP00213,Gregory Lyons,IT,Critical,Business requirement,False,2026-02-07 16:29:28.721632,2026-06-16 16:29:28.721632
+PEX000609,MFA Policy,EMP00165,Jeremy Moody,Security,Medium,Business requirement,True,2026-06-16 16:29:28.721632,2027-05-03 16:29:28.721632
+PEX000610,Patch Management Policy,EMP00109,Tracey Morris,IT,Low,Business requirement,True,2026-06-21 16:29:28.721632,2026-07-26 16:29:28.721632
+PEX000611,Patch Management Policy,EMP00442,Autumn Taylor,Operations,High,Business requirement,False,2026-06-04 16:29:28.721632,2027-04-04 16:29:28.721632
+PEX000612,MFA Policy,EMP00133,Cynthia Woodward,Operations,Critical,Business requirement,True,2026-07-17 16:29:28.721632,2026-10-18 16:29:28.721632
+PEX000613,Password Policy,EMP00315,Colleen Cochran,Operations,Medium,Business requirement,True,2026-05-28 16:29:28.721632,2026-07-28 16:29:28.721632
+PEX000614,MFA Policy,EMP00454,Sarah Phillips,Human Resources,Low,Business requirement,True,2026-05-16 16:29:28.721632,2027-01-28 16:29:28.721632
+PEX000615,Password Policy,EMP00210,Meredith Atkinson DVM,Operations,Low,Business requirement,True,2026-04-19 16:29:28.721632,2026-08-21 16:29:28.721632
+PEX000616,Remote Access Policy,EMP00075,James White,Legal,High,Business requirement,True,2026-04-22 16:29:28.721632,2026-07-19 16:29:28.721632
+PEX000617,Remote Access Policy,EMP00310,Lauren Tanner,Finance,High,Business requirement,False,2026-01-31 16:29:28.721632,2026-07-19 16:29:28.721632
+PEX000618,Acceptable Use Policy,EMP00191,Kristy Cruz,Security,Critical,Business requirement,True,2026-04-07 16:29:28.721632,2026-12-12 16:29:28.721632
+PEX000619,Remote Access Policy,EMP00141,William Durham,Finance,Low,Business requirement,False,2026-03-19 16:29:28.721632,2027-02-24 16:29:28.721632
+PEX000620,Patch Management Policy,EMP00180,Andrea Castillo,Engineering,Critical,Business requirement,False,2026-02-14 16:29:28.721632,2026-07-26 16:29:28.721632
+PEX000621,MFA Policy,EMP00323,Tyler Grant,Security,High,Business requirement,True,2026-06-07 16:29:28.721632,2027-06-06 16:29:28.721632
+PEX000622,Patch Management Policy,EMP00170,Scott Smith,Operations,Low,Business requirement,True,2026-06-29 16:29:28.721632,2026-08-04 16:29:28.721632
+PEX000623,Patch Management Policy,EMP00461,Daniel Harris,IT,High,Business requirement,False,2026-02-07 16:29:28.721632,2026-12-26 16:29:28.721632
+PEX000624,Password Policy,EMP00353,Gail Ellis,Legal,Critical,Business requirement,False,2026-05-17 16:29:28.721632,2026-12-01 16:29:28.721632
+PEX000625,Patch Management Policy,EMP00132,Megan Scott,Finance,Medium,Business requirement,False,2026-06-22 16:29:28.721632,2026-11-12 16:29:28.721632
+PEX000626,MFA Policy,EMP00241,Jacob Powell Jr.,Legal,Critical,Business requirement,True,2026-07-14 16:29:28.721632,2027-04-07 16:29:28.721632
+PEX000627,Remote Access Policy,EMP00500,Daniel Hall,Human Resources,High,Business requirement,False,2026-06-17 16:29:28.721632,2027-06-17 16:29:28.721632
+PEX000628,MFA Policy,EMP00030,Alexandra Wilson,Finance,High,Business requirement,True,2026-03-20 16:29:28.721632,2026-09-21 16:29:28.721632
+PEX000629,MFA Policy,EMP00237,Deborah Hall,Security,Low,Business requirement,True,2026-06-08 16:29:28.721632,2026-12-27 16:29:28.721632
+PEX000630,MFA Policy,EMP00246,Jennifer Bates,Legal,High,Business requirement,True,2026-01-31 16:29:28.721632,2026-03-08 16:29:28.721632
+PEX000631,Acceptable Use Policy,EMP00036,Rose Henderson,Human Resources,Critical,Business requirement,True,2026-06-01 16:29:28.721632,2027-05-04 16:29:28.721632
+PEX000632,Remote Access Policy,EMP00299,Daniel Chambers,Finance,Critical,Business requirement,True,2026-02-21 16:29:28.721632,2027-02-12 16:29:28.721632
+PEX000633,Patch Management Policy,EMP00107,Brittany Adams,Engineering,High,Business requirement,True,2026-06-25 16:29:28.721632,2026-11-05 16:29:28.721632
+PEX000634,Password Policy,EMP00476,Rebecca Taylor,IT,Critical,Business requirement,True,2026-07-28 16:29:28.721632,2026-09-28 16:29:28.721632
+PEX000635,Password Policy,EMP00334,Kelly Reese,Human Resources,Low,Business requirement,True,2026-06-24 16:29:28.721632,2027-03-18 16:29:28.721632
+PEX000636,Acceptable Use Policy,EMP00449,Jamie Robinson,Engineering,Critical,Business requirement,True,2026-06-26 16:29:28.721632,2026-12-01 16:29:28.721632
+PEX000637,Remote Access Policy,EMP00002,Curtis Archer,Security,Critical,Business requirement,False,2026-02-06 16:29:28.721632,2026-07-12 16:29:28.721632
+PEX000638,Remote Access Policy,EMP00253,Richard Bailey,Engineering,Critical,Business requirement,True,2026-07-09 16:29:28.721632,2027-03-25 16:29:28.721632
+PEX000639,Remote Access Policy,EMP00232,David Henson,Engineering,Medium,Business requirement,False,2026-07-23 16:29:28.721632,2027-05-02 16:29:28.721632
+PEX000640,Password Policy,EMP00323,Tyler Grant,Security,Critical,Business requirement,True,2026-03-27 16:29:28.721632,2026-10-10 16:29:28.721632
+PEX000641,Patch Management Policy,EMP00182,Megan Harris,Finance,Medium,Business requirement,False,2026-05-27 16:29:28.721632,2027-01-23 16:29:28.721632
+PEX000642,Patch Management Policy,EMP00071,William Maldonado,Human Resources,Critical,Business requirement,False,2026-06-18 16:29:28.721632,2026-08-14 16:29:28.721632
+PEX000643,Password Policy,EMP00332,David Francis,Security,Medium,Business requirement,False,2026-06-19 16:29:28.721632,2026-12-25 16:29:28.721632
+PEX000644,Patch Management Policy,EMP00384,Stephanie Cook,Finance,High,Business requirement,True,2026-02-08 16:29:28.721632,2026-12-20 16:29:28.721632
+PEX000645,Password Policy,EMP00469,Brian Pham,IT,Medium,Business requirement,False,2026-06-20 16:29:28.721632,2026-10-21 16:29:28.721632
+PEX000646,Acceptable Use Policy,EMP00245,Sarah Jefferson,Operations,High,Business requirement,False,2026-05-10 16:29:28.721632,2027-04-30 16:29:28.721632
+PEX000647,Acceptable Use Policy,EMP00310,Lauren Tanner,Finance,High,Business requirement,False,2026-03-22 16:29:28.721632,2026-07-14 16:29:28.721632
+PEX000648,Acceptable Use Policy,EMP00455,James Pierce,Finance,Medium,Business requirement,True,2026-06-19 16:29:28.721632,2027-02-26 16:29:28.721632
+PEX000649,Remote Access Policy,EMP00406,Kyle Rojas,Human Resources,Low,Business requirement,True,2026-02-08 16:29:28.721632,2027-01-07 16:29:28.721632
+PEX000650,MFA Policy,EMP00208,Kimberly Walker,Operations,Medium,Business requirement,True,2026-03-18 16:29:28.721632,2026-10-30 16:29:28.721632
+PEX000651,Acceptable Use Policy,EMP00076,Barbara Reynolds,Human Resources,High,Business requirement,True,2026-06-19 16:29:28.721632,2027-02-11 16:29:28.721632
+PEX000652,Patch Management Policy,EMP00084,Stephanie Wyatt,Security,High,Business requirement,False,2026-04-12 16:29:28.721632,2027-01-07 16:29:28.721632
+PEX000653,MFA Policy,EMP00252,Nicholas Taylor,Security,High,Business requirement,False,2026-06-26 16:29:28.721632,2026-09-15 16:29:28.721632
+PEX000654,MFA Policy,EMP00296,Richard Richardson,Finance,Low,Business requirement,False,2026-03-28 16:29:28.721632,2026-10-15 16:29:28.721632
+PEX000655,Remote Access Policy,EMP00145,Michael Adams,Finance,Low,Business requirement,False,2026-03-01 16:29:28.721632,2026-10-18 16:29:28.721632
+PEX000656,MFA Policy,EMP00218,Rebecca Burns,Human Resources,Low,Business requirement,False,2026-03-09 16:29:28.721632,2026-06-21 16:29:28.721632
+PEX000657,Remote Access Policy,EMP00150,Kyle Cain,Security,Critical,Business requirement,False,2026-06-02 16:29:28.721632,2026-11-25 16:29:28.721632
+PEX000658,MFA Policy,EMP00470,Teresa Guerrero,Finance,High,Business requirement,False,2026-05-12 16:29:28.721632,2026-08-28 16:29:28.721632
+PEX000659,MFA Policy,EMP00326,Jennifer Miller,Security,Low,Business requirement,True,2026-07-06 16:29:28.721632,2027-04-12 16:29:28.721632
+PEX000660,Patch Management Policy,EMP00471,Daniel Harris,Engineering,Medium,Business requirement,False,2026-04-25 16:29:28.721632,2027-01-27 16:29:28.721632
+PEX000661,Remote Access Policy,EMP00486,Stacy Woodward,Security,Medium,Business requirement,False,2026-07-07 16:29:28.721632,2026-12-26 16:29:28.721632
+PEX000662,MFA Policy,EMP00058,Brian Velasquez,Operations,Medium,Business requirement,False,2026-03-21 16:29:28.721632,2027-02-26 16:29:28.721632
+PEX000663,Acceptable Use Policy,EMP00387,Joshua Phillips,Operations,Medium,Business requirement,True,2026-04-18 16:29:28.721632,2027-03-09 16:29:28.721632
+PEX000664,Password Policy,EMP00052,Joshua Jones,Engineering,Medium,Business requirement,False,2026-07-13 16:29:28.721632,2027-01-06 16:29:28.721632
+PEX000665,Password Policy,EMP00322,Michael Arias,Operations,High,Business requirement,False,2026-04-14 16:29:28.721632,2026-11-09 16:29:28.721632
+PEX000666,Password Policy,EMP00195,Aaron Anderson,Human Resources,Low,Business requirement,True,2026-07-22 16:29:28.721632,2027-01-29 16:29:28.721632
+PEX000667,Patch Management Policy,EMP00458,Miss Melissa Tucker,Engineering,Critical,Business requirement,False,2026-04-11 16:29:28.721632,2027-01-02 16:29:28.721632
+PEX000668,MFA Policy,EMP00230,Michael Morales,IT,High,Business requirement,True,2026-07-23 16:29:28.721632,2027-07-13 16:29:28.721632
+PEX000669,Remote Access Policy,EMP00218,Rebecca Burns,Human Resources,High,Business requirement,True,2026-06-15 16:29:28.721632,2026-11-08 16:29:28.721632
+PEX000670,MFA Policy,EMP00465,Carmen Davis,Human Resources,Critical,Business requirement,True,2026-05-26 16:29:28.721632,2026-08-25 16:29:28.721632
+PEX000671,Patch Management Policy,EMP00344,Kent Carter,Finance,High,Business requirement,False,2026-04-18 16:29:28.721632,2026-11-06 16:29:28.721632
+PEX000672,Remote Access Policy,EMP00489,Nicholas Gonzales,Security,Low,Business requirement,False,2026-05-03 16:29:28.721632,2026-09-19 16:29:28.721632
+PEX000673,Remote Access Policy,EMP00432,Jennifer Torres,Human Resources,Critical,Business requirement,True,2026-03-11 16:29:28.721632,2026-08-19 16:29:28.721632
+PEX000674,Acceptable Use Policy,EMP00153,Jennifer Freeman,Security,Low,Business requirement,True,2026-06-08 16:29:28.721632,2026-09-29 16:29:28.721632
+PEX000675,Patch Management Policy,EMP00162,Erica Garcia,Legal,Critical,Business requirement,False,2026-02-23 16:29:28.721632,2026-06-01 16:29:28.721632
+PEX000676,MFA Policy,EMP00236,Heidi Chambers,Engineering,Medium,Business requirement,False,2026-03-01 16:29:28.721632,2026-06-09 16:29:28.721632
+PEX000677,Patch Management Policy,EMP00029,Jeffrey Sullivan,IT,Medium,Business requirement,False,2026-04-06 16:29:28.721632,2026-05-30 16:29:28.721632
+PEX000678,Remote Access Policy,EMP00115,Benjamin Thompson,IT,Medium,Business requirement,True,2026-03-19 16:29:28.721632,2026-11-30 16:29:28.721632
+PEX000679,Password Policy,EMP00339,Paul Jenkins,Finance,High,Business requirement,True,2026-05-19 16:29:28.721632,2027-02-09 16:29:28.721632
+PEX000680,MFA Policy,EMP00405,Michael King,Engineering,Low,Business requirement,True,2026-06-25 16:29:28.721632,2026-12-26 16:29:28.721632
+PEX000681,Acceptable Use Policy,EMP00240,Randy Gordon,Legal,High,Business requirement,True,2026-06-17 16:29:28.721632,2026-08-11 16:29:28.721632
+PEX000682,Remote Access Policy,EMP00195,Aaron Anderson,Human Resources,High,Business requirement,False,2026-03-31 16:29:28.721632,2026-05-23 16:29:28.721632
+PEX000683,MFA Policy,EMP00146,Pam Reyes,Operations,Medium,Business requirement,True,2026-07-05 16:29:28.721632,2027-03-25 16:29:28.721632
+PEX000684,Patch Management Policy,EMP00061,Joel Pitts,Engineering,Low,Business requirement,True,2026-04-30 16:29:28.721632,2026-07-10 16:29:28.721632
+PEX000685,Patch Management Policy,EMP00095,Steven Gardner,Engineering,Medium,Business requirement,True,2026-07-10 16:29:28.721632,2027-06-23 16:29:28.721632
+PEX000686,Patch Management Policy,EMP00407,Rebecca Flores,Legal,Medium,Business requirement,True,2026-05-03 16:29:28.721632,2027-04-19 16:29:28.721632
+PEX000687,Password Policy,EMP00098,Susan Mckay,Human Resources,Critical,Business requirement,False,2026-02-10 16:29:28.721632,2027-01-16 16:29:28.721632
+PEX000688,MFA Policy,EMP00395,Darlene Padilla,Engineering,High,Business requirement,False,2026-04-18 16:29:28.721632,2027-03-09 16:29:28.721632
+PEX000689,Patch Management Policy,EMP00182,Megan Harris,Finance,Low,Business requirement,False,2026-06-17 16:29:28.721632,2027-01-26 16:29:28.721632
+PEX000690,Password Policy,EMP00420,Jeremy Lopez,Legal,Medium,Business requirement,True,2026-03-05 16:29:28.721632,2026-08-16 16:29:28.721632
+PEX000691,Remote Access Policy,EMP00464,Sarah David,Legal,Critical,Business requirement,True,2026-02-24 16:29:28.721632,2026-07-08 16:29:28.721632
+PEX000692,Password Policy,EMP00142,Brian Gilmore,Legal,High,Business requirement,True,2026-02-24 16:29:28.721632,2026-09-05 16:29:28.721632
+PEX000693,Password Policy,EMP00280,Benjamin Gray,Legal,Medium,Business requirement,True,2026-02-10 16:29:28.721632,2026-04-26 16:29:28.721632
+PEX000694,Acceptable Use Policy,EMP00186,Kelly Calhoun,IT,High,Business requirement,False,2026-05-19 16:29:28.721632,2026-06-20 16:29:28.721632
+PEX000695,Patch Management Policy,EMP00499,Ryan Cummings,Human Resources,Medium,Business requirement,False,2026-03-22 16:29:28.721632,2027-03-21 16:29:28.721632
+PEX000696,MFA Policy,EMP00281,Randy Cortez DVM,Finance,Low,Business requirement,True,2026-02-07 16:29:28.721632,2026-03-27 16:29:28.721632
+PEX000697,Acceptable Use Policy,EMP00471,Daniel Harris,Engineering,High,Business requirement,True,2026-04-21 16:29:28.721632,2027-03-07 16:29:28.721632
+PEX000698,Patch Management Policy,EMP00004,Lisa Pierce,IT,Medium,Business requirement,True,2026-06-04 16:29:28.721632,2027-04-24 16:29:28.721632
+PEX000699,MFA Policy,EMP00092,Micheal Barajas,Security,Medium,Business requirement,True,2026-03-14 16:29:28.721632,2026-07-03 16:29:28.721632
+PEX000700,Patch Management Policy,EMP00274,Stephanie Landry,Security,Critical,Business requirement,True,2026-02-14 16:29:28.721632,2027-02-11 16:29:28.721632
+PEX000701,MFA Policy,EMP00445,Patricia Joseph,Finance,Low,Business requirement,True,2026-05-09 16:29:28.721632,2026-09-27 16:29:28.721632
+PEX000702,Remote Access Policy,EMP00352,Ashley Koch,Engineering,Medium,Business requirement,False,2026-07-09 16:29:28.721632,2027-02-11 16:29:28.721632
+PEX000703,MFA Policy,EMP00437,Elizabeth Sanchez,Legal,Medium,Business requirement,True,2026-05-25 16:29:28.721632,2027-04-12 16:29:28.721632
+PEX000704,Remote Access Policy,EMP00338,Alexander Dudley,Security,Low,Business requirement,False,2026-07-08 16:29:28.721632,2026-09-25 16:29:28.721632
+PEX000705,Password Policy,EMP00030,Alexandra Wilson,Finance,Low,Business requirement,False,2026-03-15 16:29:28.721632,2026-09-19 16:29:28.721632
+PEX000706,Patch Management Policy,EMP00121,Richard Maldonado,Human Resources,Critical,Business requirement,False,2026-04-12 16:29:28.721632,2026-11-02 16:29:28.721632
+PEX000707,MFA Policy,EMP00312,Rachael Fisher,Engineering,Medium,Business requirement,False,2026-06-12 16:29:28.721632,2027-03-31 16:29:28.721632
+PEX000708,Acceptable Use Policy,EMP00110,Steven Nichols,Security,High,Business requirement,False,2026-02-18 16:29:28.721632,2026-05-17 16:29:28.721632
+PEX000709,MFA Policy,EMP00114,Megan Flowers,IT,High,Business requirement,False,2026-02-22 16:29:28.721632,2026-06-03 16:29:28.721632
+PEX000710,MFA Policy,EMP00188,Melissa Hubbard,Human Resources,Critical,Business requirement,False,2026-07-20 16:29:28.721632,2027-06-17 16:29:28.721632
+PEX000711,Acceptable Use Policy,EMP00414,Michael Bishop,Operations,Medium,Business requirement,True,2026-06-16 16:29:28.721632,2026-09-04 16:29:28.721632
+PEX000712,Acceptable Use Policy,EMP00213,Gregory Lyons,IT,High,Business requirement,False,2026-02-19 16:29:28.721632,2026-09-25 16:29:28.721632
+PEX000713,Patch Management Policy,EMP00310,Lauren Tanner,Finance,Critical,Business requirement,False,2026-01-30 16:29:28.721632,2026-10-14 16:29:28.721632
+PEX000714,MFA Policy,EMP00467,Elaine Rice,Security,Critical,Business requirement,True,2026-02-08 16:29:28.721632,2026-06-04 16:29:28.721632
+PEX000715,Remote Access Policy,EMP00151,Paige Harrington,Operations,Medium,Business requirement,True,2026-05-23 16:29:28.721632,2027-01-19 16:29:28.721632
+PEX000716,Acceptable Use Policy,EMP00123,Jocelyn Anderson,Finance,Critical,Business requirement,True,2026-06-30 16:29:28.721632,2027-03-12 16:29:28.721632
+PEX000717,Password Policy,EMP00027,Anthony Walton,Security,Medium,Business requirement,True,2026-07-27 16:29:28.721632,2027-04-26 16:29:28.721632
+PEX000718,Remote Access Policy,EMP00203,Colleen Walker,Engineering,High,Business requirement,False,2026-06-20 16:29:28.721632,2027-01-27 16:29:28.721632
+PEX000719,MFA Policy,EMP00447,Kevin Frederick,Security,Critical,Business requirement,True,2026-07-09 16:29:28.721632,2026-12-31 16:29:28.721632
+PEX000720,Remote Access Policy,EMP00447,Kevin Frederick,Security,Low,Business requirement,True,2026-05-17 16:29:28.721632,2026-09-23 16:29:28.721632
+PEX000721,MFA Policy,EMP00319,William Thomas MD,Human Resources,Low,Business requirement,False,2026-02-23 16:29:28.721632,2027-01-07 16:29:28.721632
+PEX000722,Remote Access Policy,EMP00114,Megan Flowers,IT,Medium,Business requirement,True,2026-04-19 16:29:28.721632,2026-09-23 16:29:28.721632
+PEX000723,Remote Access Policy,EMP00260,Thomas Allen,Human Resources,Medium,Business requirement,False,2026-07-24 16:29:28.721632,2027-07-16 16:29:28.721632
+PEX000724,MFA Policy,EMP00166,Robert Patterson,Engineering,Low,Business requirement,False,2026-04-02 16:29:28.721632,2026-10-22 16:29:28.721632
+PEX000725,Password Policy,EMP00137,Heather Mccormick,IT,High,Business requirement,True,2026-03-24 16:29:28.721632,2027-02-26 16:29:28.721632
+PEX000726,Patch Management Policy,EMP00072,Austin Miller,Security,High,Business requirement,False,2026-04-25 16:29:28.721632,2026-12-27 16:29:28.721632
+PEX000727,Remote Access Policy,EMP00423,Roberto Thomas,Security,Low,Business requirement,False,2026-07-04 16:29:28.721632,2026-09-12 16:29:28.721632
+PEX000728,MFA Policy,EMP00257,James Payne,Engineering,Critical,Business requirement,False,2026-06-17 16:29:28.721632,2027-03-15 16:29:28.721632
+PEX000729,Password Policy,EMP00283,Chad Soto,Finance,Critical,Business requirement,True,2026-02-05 16:29:28.721632,2026-10-21 16:29:28.721632
+PEX000730,Remote Access Policy,EMP00108,Veronica Novak,Human Resources,Medium,Business requirement,False,2026-04-14 16:29:28.721632,2027-03-21 16:29:28.721632
+PEX000731,Remote Access Policy,EMP00342,Lisa Cooper,Engineering,Low,Business requirement,True,2026-05-21 16:29:28.721632,2026-10-15 16:29:28.721632
+PEX000732,Remote Access Policy,EMP00173,David Stephenson,Engineering,Medium,Business requirement,False,2026-04-26 16:29:28.721632,2027-01-23 16:29:28.721632
+PEX000733,Password Policy,EMP00423,Roberto Thomas,Security,High,Business requirement,True,2026-03-31 16:29:28.721632,2026-08-13 16:29:28.721632
+PEX000734,Patch Management Policy,EMP00083,Michelle Williams,Engineering,Low,Business requirement,False,2026-05-02 16:29:28.721632,2026-06-19 16:29:28.721632
+PEX000735,Password Policy,EMP00020,Jonathan Davis,IT,Medium,Business requirement,False,2026-02-02 16:29:28.721632,2026-06-19 16:29:28.721632
+PEX000736,Patch Management Policy,EMP00162,Erica Garcia,Legal,Medium,Business requirement,False,2026-02-03 16:29:28.721632,2027-01-16 16:29:28.721632
+PEX000737,MFA Policy,EMP00302,Breanna Hester,Finance,High,Business requirement,True,2026-04-07 16:29:28.721632,2027-03-18 16:29:28.721632
+PEX000738,Patch Management Policy,EMP00251,Amy Merritt,Finance,Medium,Business requirement,False,2026-02-10 16:29:28.721632,2026-07-28 16:29:28.721632
+PEX000739,Remote Access Policy,EMP00360,Haley Peterson,Security,High,Business requirement,False,2026-05-25 16:29:28.722631,2026-10-16 16:29:28.722631
+PEX000740,Password Policy,EMP00326,Jennifer Miller,Security,Critical,Business requirement,False,2026-02-06 16:29:28.722631,2026-08-13 16:29:28.722631
+PEX000741,Password Policy,EMP00430,Victor Everett,Engineering,Critical,Business requirement,True,2026-06-24 16:29:28.722631,2027-05-06 16:29:28.722631
+PEX000742,Patch Management Policy,EMP00228,Nancy Orozco,Finance,Critical,Business requirement,False,2026-03-18 16:29:28.722631,2026-06-16 16:29:28.722631
+PEX000743,Patch Management Policy,EMP00292,Annette Figueroa,Engineering,Low,Business requirement,True,2026-02-26 16:29:28.722631,2027-01-02 16:29:28.722631
+PEX000744,Patch Management Policy,EMP00073,William Velasquez,Human Resources,High,Business requirement,True,2026-02-11 16:29:28.722631,2026-09-03 16:29:28.722631
+PEX000745,MFA Policy,EMP00437,Elizabeth Sanchez,Legal,High,Business requirement,False,2026-05-29 16:29:28.722631,2026-07-12 16:29:28.722631
+PEX000746,Password Policy,EMP00386,Shawn Leblanc,Human Resources,Critical,Business requirement,False,2026-03-25 16:29:28.722631,2027-02-28 16:29:28.722631
+PEX000747,Password Policy,EMP00137,Heather Mccormick,IT,Medium,Business requirement,True,2026-07-03 16:29:28.722631,2027-06-25 16:29:28.722631
+PEX000748,MFA Policy,EMP00314,Charles Tucker,Human Resources,Low,Business requirement,True,2026-06-12 16:29:28.722631,2026-08-21 16:29:28.722631
+PEX000749,MFA Policy,EMP00133,Cynthia Woodward,Operations,High,Business requirement,True,2026-02-08 16:29:28.722631,2026-05-03 16:29:28.722631
+PEX000750,Remote Access Policy,EMP00473,Zachary Martinez,Human Resources,High,Business requirement,True,2026-02-07 16:29:28.722631,2026-08-17 16:29:28.722631
+PEX000751,Remote Access Policy,EMP00194,Samantha Whitaker,IT,High,Business requirement,True,2026-05-09 16:29:28.722631,2026-07-08 16:29:28.722631
+PEX000752,Patch Management Policy,EMP00191,Kristy Cruz,Security,High,Business requirement,True,2026-05-05 16:29:28.722631,2026-10-16 16:29:28.722631
+PEX000753,Remote Access Policy,EMP00235,Patty Camacho,IT,High,Business requirement,True,2026-03-28 16:29:28.722631,2026-08-01 16:29:28.722631
+PEX000754,Patch Management Policy,EMP00031,Jack Sims,Legal,High,Business requirement,True,2026-06-16 16:29:28.722631,2026-08-12 16:29:28.722631
+PEX000755,Acceptable Use Policy,EMP00207,Robert Ford,Legal,Medium,Business requirement,False,2026-02-22 16:29:28.722631,2026-06-22 16:29:28.722631
+PEX000756,Patch Management Policy,EMP00028,Jeremy Beasley,Engineering,High,Business requirement,False,2026-05-06 16:29:28.722631,2027-01-24 16:29:28.722631
+PEX000757,Password Policy,EMP00199,Terry Henson,Legal,High,Business requirement,True,2026-04-25 16:29:28.722631,2027-01-08 16:29:28.722631
+PEX000758,Password Policy,EMP00146,Pam Reyes,Operations,High,Business requirement,True,2026-07-04 16:29:28.722631,2027-01-23 16:29:28.722631
+PEX000759,Acceptable Use Policy,EMP00167,Peter Contreras,Finance,High,Business requirement,True,2026-04-23 16:29:28.722631,2026-12-09 16:29:28.722631
+PEX000760,Patch Management Policy,EMP00398,Jonathan Torres,Human Resources,Medium,Business requirement,False,2026-03-01 16:29:28.722631,2027-02-23 16:29:28.722631
+PEX000761,Patch Management Policy,EMP00091,Daniel Ramos,Operations,Critical,Business requirement,True,2026-07-22 16:29:28.722631,2027-02-20 16:29:28.722631
+PEX000762,Remote Access Policy,EMP00295,Kristen Howell,IT,Critical,Business requirement,True,2026-03-07 16:29:28.722631,2026-09-06 16:29:28.722631
+PEX000763,Acceptable Use Policy,EMP00327,Joel Peters,Legal,Medium,Business requirement,True,2026-04-17 16:29:28.722631,2026-07-28 16:29:28.722631
+PEX000764,Patch Management Policy,EMP00449,Jamie Robinson,Engineering,Medium,Business requirement,True,2026-03-02 16:29:28.722631,2026-07-06 16:29:28.722631
+PEX000765,Remote Access Policy,EMP00213,Gregory Lyons,IT,High,Business requirement,False,2026-06-26 16:29:28.722631,2027-03-11 16:29:28.722631
+PEX000766,MFA Policy,EMP00023,Deanna Stephens,Legal,Critical,Business requirement,False,2026-04-15 16:29:28.722631,2026-12-07 16:29:28.722631
+PEX000767,Remote Access Policy,EMP00058,Brian Velasquez,Operations,Low,Business requirement,False,2026-05-24 16:29:28.722631,2026-10-24 16:29:28.722631
+PEX000768,Patch Management Policy,EMP00141,William Durham,Finance,Critical,Business requirement,False,2026-06-05 16:29:28.722631,2026-11-11 16:29:28.722631
+PEX000769,Password Policy,EMP00110,Steven Nichols,Security,Critical,Business requirement,False,2026-07-26 16:29:28.722631,2027-03-26 16:29:28.722631
+PEX000770,Patch Management Policy,EMP00481,Gene Bryant,Human Resources,High,Business requirement,True,2026-04-25 16:29:28.722631,2026-06-29 16:29:28.722631
+PEX000771,Remote Access Policy,EMP00088,Tracey Rodriguez,Human Resources,Low,Business requirement,True,2026-07-26 16:29:28.722631,2026-10-06 16:29:28.722631
+PEX000772,MFA Policy,EMP00084,Stephanie Wyatt,Security,Low,Business requirement,True,2026-05-14 16:29:28.722631,2026-08-02 16:29:28.722631
+PEX000773,Password Policy,EMP00076,Barbara Reynolds,Human Resources,Medium,Business requirement,True,2026-03-16 16:29:28.722631,2027-01-06 16:29:28.722631
+PEX000774,Remote Access Policy,EMP00376,George Hutchinson,Engineering,Critical,Business requirement,True,2026-04-03 16:29:28.722631,2026-05-03 16:29:28.722631
+PEX000775,Remote Access Policy,EMP00323,Tyler Grant,Security,Medium,Business requirement,False,2026-02-16 16:29:28.722631,2026-06-09 16:29:28.722631
+PEX000776,MFA Policy,EMP00109,Tracey Morris,IT,High,Business requirement,True,2026-04-18 16:29:28.722631,2026-09-11 16:29:28.722631
+PEX000777,Patch Management Policy,EMP00230,Michael Morales,IT,Critical,Business requirement,True,2026-05-25 16:29:28.722631,2026-07-19 16:29:28.722631
+PEX000778,Acceptable Use Policy,EMP00232,David Henson,Engineering,Low,Business requirement,False,2026-04-01 16:29:28.722631,2026-11-10 16:29:28.722631
+PEX000779,Remote Access Policy,EMP00380,Dennis Garrett,IT,Critical,Business requirement,True,2026-05-31 16:29:28.722631,2027-03-23 16:29:28.722631
+PEX000780,Password Policy,EMP00471,Daniel Harris,Engineering,Medium,Business requirement,True,2026-04-18 16:29:28.722631,2026-12-18 16:29:28.722631
+PEX000781,Remote Access Policy,EMP00168,Maxwell Munoz,IT,High,Business requirement,True,2026-04-04 16:29:28.722631,2027-02-05 16:29:28.722631
+PEX000782,Patch Management Policy,EMP00363,Leslie Johnson,Operations,Low,Business requirement,False,2026-07-05 16:29:28.722631,2027-03-28 16:29:28.722631
+PEX000783,Acceptable Use Policy,EMP00356,Veronica Diaz,Human Resources,Medium,Business requirement,True,2026-05-27 16:29:28.722631,2027-03-11 16:29:28.722631
+PEX000784,Remote Access Policy,EMP00478,Charles Henderson,IT,High,Business requirement,False,2026-03-28 16:29:28.722631,2026-10-13 16:29:28.722631
+PEX000785,Acceptable Use Policy,EMP00025,David Everett,Human Resources,Low,Business requirement,False,2026-07-03 16:29:28.722631,2026-08-09 16:29:28.722631
+PEX000786,Remote Access Policy,EMP00402,Clayton Baker,IT,High,Business requirement,True,2026-03-07 16:29:28.722631,2026-07-05 16:29:28.722631
+PEX000787,Remote Access Policy,EMP00401,Tammy Chavez,Security,Medium,Business requirement,False,2026-03-14 16:29:28.722631,2026-09-23 16:29:28.722631
+PEX000788,Acceptable Use Policy,EMP00315,Colleen Cochran,Operations,Critical,Business requirement,True,2026-06-04 16:29:28.722631,2026-08-17 16:29:28.722631
+PEX000789,Password Policy,EMP00339,Paul Jenkins,Finance,High,Business requirement,False,2026-02-03 16:29:28.722631,2026-06-18 16:29:28.722631
+PEX000790,Acceptable Use Policy,EMP00425,Kara Parker,Human Resources,Critical,Business requirement,True,2026-04-25 16:29:28.722631,2027-02-06 16:29:28.722631
+PEX000791,Patch Management Policy,EMP00153,Jennifer Freeman,Security,High,Business requirement,False,2026-02-19 16:29:28.722631,2027-01-04 16:29:28.722631
+PEX000792,Patch Management Policy,EMP00454,Sarah Phillips,Human Resources,Critical,Business requirement,False,2026-02-19 16:29:28.722631,2026-05-08 16:29:28.722631
+PEX000793,MFA Policy,EMP00292,Annette Figueroa,Engineering,High,Business requirement,True,2026-05-09 16:29:28.722631,2027-01-19 16:29:28.722631
+PEX000794,Patch Management Policy,EMP00185,Barry Thompson,Human Resources,Low,Business requirement,False,2026-02-02 16:29:28.722631,2026-03-07 16:29:28.722631
+PEX000795,Acceptable Use Policy,EMP00319,William Thomas MD,Human Resources,Critical,Business requirement,False,2026-02-06 16:29:28.722631,2026-11-01 16:29:28.722631
+PEX000796,Remote Access Policy,EMP00207,Robert Ford,Legal,Low,Business requirement,True,2026-04-18 16:29:28.722631,2026-11-30 16:29:28.722631
+PEX000797,Remote Access Policy,EMP00215,Jenny Mckinney,Security,Medium,Business requirement,False,2026-04-30 16:29:28.722631,2026-07-19 16:29:28.722631
+PEX000798,Patch Management Policy,EMP00010,Teresa Booth,Engineering,Low,Business requirement,False,2026-06-01 16:29:28.722631,2027-05-06 16:29:28.722631
+PEX000799,Password Policy,EMP00180,Andrea Castillo,Engineering,Low,Business requirement,False,2026-02-08 16:29:28.722631,2026-12-27 16:29:28.722631
+PEX000800,Remote Access Policy,EMP00205,Michael Hunt,Operations,Critical,Business requirement,False,2026-05-12 16:29:28.722631,2026-11-05 16:29:28.722631
+PEX000801,Acceptable Use Policy,EMP00041,Jody Burton,Engineering,Low,Business requirement,True,2026-07-15 16:29:28.722631,2026-10-15 16:29:28.722631
+PEX000802,Patch Management Policy,EMP00009,Hayden Young,IT,High,Business requirement,True,2026-03-09 16:29:28.722631,2027-01-03 16:29:28.722631
+PEX000803,MFA Policy,EMP00490,Brandon Bradford,Human Resources,Critical,Business requirement,True,2026-05-17 16:29:28.722631,2027-02-05 16:29:28.722631
+PEX000804,Patch Management Policy,EMP00164,Mary Meyer,IT,Low,Business requirement,False,2026-02-02 16:29:28.722631,2026-11-23 16:29:28.722631
+PEX000805,Patch Management Policy,EMP00137,Heather Mccormick,IT,Low,Business requirement,False,2026-04-21 16:29:28.722631,2026-11-23 16:29:28.722631
+PEX000806,Password Policy,EMP00326,Jennifer Miller,Security,Low,Business requirement,False,2026-05-13 16:29:28.722631,2026-11-10 16:29:28.722631
+PEX000807,Patch Management Policy,EMP00123,Jocelyn Anderson,Finance,Critical,Business requirement,False,2026-05-11 16:29:28.722631,2027-02-12 16:29:28.722631
+PEX000808,Remote Access Policy,EMP00064,Dr. Roberto Garner,Engineering,Critical,Business requirement,True,2026-02-04 16:29:28.722631,2026-11-13 16:29:28.722631
+PEX000809,Patch Management Policy,EMP00428,Jaime Baker,Legal,High,Business requirement,True,2026-06-06 16:29:28.722631,2026-09-04 16:29:28.722631
+PEX000810,Patch Management Policy,EMP00092,Micheal Barajas,Security,Low,Business requirement,False,2026-04-26 16:29:28.722631,2027-02-05 16:29:28.722631
+PEX000811,Remote Access Policy,EMP00025,David Everett,Human Resources,Critical,Business requirement,False,2026-04-16 16:29:28.722631,2027-03-19 16:29:28.722631
+PEX000812,Patch Management Policy,EMP00288,Christopher Young,Legal,Medium,Business requirement,True,2026-06-16 16:29:28.722631,2026-09-02 16:29:28.722631
+PEX000813,Password Policy,EMP00249,Deborah George,Finance,Medium,Business requirement,True,2026-03-19 16:29:28.722631,2027-03-11 16:29:28.722631
+PEX000814,MFA Policy,EMP00087,Steven Schneider,Operations,Critical,Business requirement,True,2026-04-21 16:29:28.722631,2026-12-21 16:29:28.722631
+PEX000815,Password Policy,EMP00471,Daniel Harris,Engineering,Medium,Business requirement,False,2026-05-30 16:29:28.722631,2027-04-13 16:29:28.722631
+PEX000816,Password Policy,EMP00034,Mark Mason,Security,Medium,Business requirement,True,2026-07-20 16:29:28.722631,2026-09-27 16:29:28.722631
+PEX000817,Acceptable Use Policy,EMP00033,Matthew Moody,IT,High,Business requirement,False,2026-04-05 16:29:28.722631,2027-01-28 16:29:28.722631
+PEX000818,Patch Management Policy,EMP00150,Kyle Cain,Security,Critical,Business requirement,True,2026-07-23 16:29:28.722631,2027-03-25 16:29:28.722631
+PEX000819,Remote Access Policy,EMP00092,Micheal Barajas,Security,Low,Business requirement,True,2026-06-09 16:29:28.722631,2027-01-22 16:29:28.722631
+PEX000820,Remote Access Policy,EMP00493,Edward Ferrell,Finance,Critical,Business requirement,False,2026-03-11 16:29:28.722631,2026-09-28 16:29:28.722631
+PEX000821,Patch Management Policy,EMP00281,Randy Cortez DVM,Finance,Medium,Business requirement,False,2026-05-22 16:29:28.722631,2027-03-26 16:29:28.722631
+PEX000822,MFA Policy,EMP00163,Misty Rice,IT,Critical,Business requirement,True,2026-07-22 16:29:28.722631,2027-01-10 16:29:28.722631
+PEX000823,Patch Management Policy,EMP00232,David Henson,Engineering,High,Business requirement,True,2026-06-26 16:29:28.722631,2026-12-04 16:29:28.722631
+PEX000824,Password Policy,EMP00336,Kelsey Kramer,Security,Low,Business requirement,False,2026-06-19 16:29:28.722631,2026-08-17 16:29:28.722631
+PEX000825,Acceptable Use Policy,EMP00375,Tina Ochoa,Legal,Low,Business requirement,False,2026-05-17 16:29:28.722631,2027-03-08 16:29:28.722631
+PEX000826,Acceptable Use Policy,EMP00155,Kenneth Miranda,Engineering,High,Business requirement,False,2026-03-15 16:29:28.722631,2026-09-02 16:29:28.722631
+PEX000827,Acceptable Use Policy,EMP00080,Kristin Sutton DDS,Engineering,Medium,Business requirement,False,2026-07-24 16:29:28.722631,2027-06-12 16:29:28.722631
+PEX000828,Patch Management Policy,EMP00353,Gail Ellis,Legal,Medium,Business requirement,False,2026-05-24 16:29:28.722631,2026-09-09 16:29:28.722631
+PEX000829,Acceptable Use Policy,EMP00213,Gregory Lyons,IT,High,Business requirement,False,2026-05-29 16:29:28.722631,2027-04-16 16:29:28.722631
+PEX000830,MFA Policy,EMP00409,Jessica Warner,Security,High,Business requirement,False,2026-07-18 16:29:28.722631,2027-05-06 16:29:28.722631
+PEX000831,Patch Management Policy,EMP00443,Michelle Richardson,Human Resources,Critical,Business requirement,False,2026-04-05 16:29:28.722631,2026-05-30 16:29:28.722631
+PEX000832,Acceptable Use Policy,EMP00464,Sarah David,Legal,High,Business requirement,False,2026-06-17 16:29:28.722631,2027-03-19 16:29:28.722631
+PEX000833,Remote Access Policy,EMP00498,Ricky Cook,Operations,High,Business requirement,False,2026-03-25 16:29:28.722631,2026-08-07 16:29:28.722631
+PEX000834,MFA Policy,EMP00405,Michael King,Engineering,Medium,Business requirement,False,2026-03-09 16:29:28.722631,2026-05-11 16:29:28.722631
+PEX000835,Remote Access Policy,EMP00140,Samantha Erickson,Finance,Critical,Business requirement,True,2026-06-15 16:29:28.722631,2026-07-18 16:29:28.722631
+PEX000836,Acceptable Use Policy,EMP00150,Kyle Cain,Security,High,Business requirement,False,2026-04-19 16:29:28.722631,2027-04-12 16:29:28.722631
+PEX000837,Password Policy,EMP00439,Mia Davis,IT,Low,Business requirement,True,2026-06-13 16:29:28.722631,2027-06-04 16:29:28.722631
+PEX000838,Acceptable Use Policy,EMP00248,Breanna Gomez,Operations,Low,Business requirement,True,2026-03-20 16:29:28.722631,2027-01-19 16:29:28.722631
+PEX000839,Patch Management Policy,EMP00389,Elizabeth Patel,Security,Critical,Business requirement,True,2026-05-08 16:29:28.722631,2026-10-10 16:29:28.722631
+PEX000840,Patch Management Policy,EMP00339,Paul Jenkins,Finance,Medium,Business requirement,False,2026-01-29 16:29:28.722631,2026-06-10 16:29:28.722631
+PEX000841,Acceptable Use Policy,EMP00143,David Johnson,Security,Medium,Business requirement,False,2026-03-30 16:29:28.722631,2026-06-05 16:29:28.722631
+PEX000842,Remote Access Policy,EMP00077,Melissa Hill,Human Resources,Critical,Business requirement,False,2026-05-13 16:29:28.722631,2027-03-23 16:29:28.722631
+PEX000843,MFA Policy,EMP00075,James White,Legal,Low,Business requirement,True,2026-04-08 16:29:28.722631,2026-08-24 16:29:28.722631
+PEX000844,Remote Access Policy,EMP00260,Thomas Allen,Human Resources,Medium,Business requirement,False,2026-03-14 16:29:28.722631,2026-12-24 16:29:28.722631
+PEX000845,Patch Management Policy,EMP00461,Daniel Harris,IT,Medium,Business requirement,True,2026-06-05 16:29:28.722631,2027-02-12 16:29:28.722631
+PEX000846,Patch Management Policy,EMP00432,Jennifer Torres,Human Resources,High,Business requirement,True,2026-06-22 16:29:28.722631,2026-09-22 16:29:28.722631
+PEX000847,Patch Management Policy,EMP00141,William Durham,Finance,Low,Business requirement,True,2026-06-28 16:29:28.722631,2027-02-24 16:29:28.722631
+PEX000848,Patch Management Policy,EMP00135,Steven Dunn,Engineering,Medium,Business requirement,False,2026-05-03 16:29:28.722631,2027-04-18 16:29:28.722631
+PEX000849,Acceptable Use Policy,EMP00038,Raymond Berry,Legal,Medium,Business requirement,False,2026-07-20 16:29:28.722631,2027-04-17 16:29:28.722631
+PEX000850,Password Policy,EMP00257,James Payne,Engineering,High,Business requirement,False,2026-07-25 16:29:28.722631,2027-05-29 16:29:28.722631
+PEX000851,MFA Policy,EMP00349,Brian Rowland,Legal,High,Business requirement,True,2026-05-10 16:29:28.722631,2026-09-12 16:29:28.722631
+PEX000852,MFA Policy,EMP00326,Jennifer Miller,Security,Low,Business requirement,False,2026-02-01 16:29:28.722631,2026-11-27 16:29:28.722631
+PEX000853,Patch Management Policy,EMP00291,Mario Bailey,Engineering,High,Business requirement,True,2026-04-21 16:29:28.722631,2027-03-20 16:29:28.722631
+PEX000854,Remote Access Policy,EMP00453,Steven Lee,Human Resources,Critical,Business requirement,True,2026-02-01 16:29:28.722631,2026-06-04 16:29:28.722631
+PEX000855,Acceptable Use Policy,EMP00268,Justin Blankenship,Human Resources,Low,Business requirement,True,2026-04-17 16:29:28.722631,2026-12-10 16:29:28.722631
+PEX000856,Patch Management Policy,EMP00276,Christopher Cuevas,Engineering,Critical,Business requirement,True,2026-02-21 16:29:28.722631,2026-04-12 16:29:28.722631
+PEX000857,MFA Policy,EMP00066,Steven English,Engineering,Low,Business requirement,False,2026-03-23 16:29:28.722631,2026-12-27 16:29:28.722631
+PEX000858,Acceptable Use Policy,EMP00002,Curtis Archer,Security,Low,Business requirement,False,2026-03-12 16:29:28.722631,2026-12-14 16:29:28.722631
+PEX000859,Password Policy,EMP00097,Mary Wyatt,Engineering,Critical,Business requirement,False,2026-06-24 16:29:28.722631,2026-07-26 16:29:28.722631
+PEX000860,Patch Management Policy,EMP00421,Michael Johnson,Security,Critical,Business requirement,False,2026-02-21 16:29:28.722631,2026-08-08 16:29:28.722631
+PEX000861,Patch Management Policy,EMP00277,Jonathan Davis,Operations,Medium,Business requirement,True,2026-07-28 16:29:28.722631,2027-05-04 16:29:28.722631
+PEX000862,MFA Policy,EMP00189,Joseph Austin,Legal,High,Business requirement,True,2026-03-21 16:29:28.722631,2026-11-05 16:29:28.722631
+PEX000863,Patch Management Policy,EMP00289,Sean Hernandez,Finance,Critical,Business requirement,False,2026-02-12 16:29:28.722631,2027-02-01 16:29:28.722631
+PEX000864,Acceptable Use Policy,EMP00179,Miguel Weber,Engineering,Low,Business requirement,True,2026-06-27 16:29:28.722631,2026-09-23 16:29:28.722631
+PEX000865,Acceptable Use Policy,EMP00267,Anthony Alexander,Finance,Medium,Business requirement,False,2026-07-03 16:29:28.722631,2027-05-05 16:29:28.722631
+PEX000866,Patch Management Policy,EMP00224,Gina Williams,Finance,High,Business requirement,True,2026-05-03 16:29:28.722631,2027-03-14 16:29:28.722631
+PEX000867,Patch Management Policy,EMP00293,Cristian Harris,Human Resources,Medium,Business requirement,False,2026-04-18 16:29:28.722631,2026-06-30 16:29:28.722631
+PEX000868,Password Policy,EMP00317,Caleb Myers,IT,High,Business requirement,False,2026-05-28 16:29:28.722631,2026-10-07 16:29:28.722631
+PEX000869,Acceptable Use Policy,EMP00383,Christopher Bonilla,Legal,Medium,Business requirement,False,2026-03-07 16:29:28.722631,2026-10-04 16:29:28.722631
+PEX000870,Password Policy,EMP00110,Steven Nichols,Security,Critical,Business requirement,True,2026-05-13 16:29:28.722631,2027-03-15 16:29:28.722631
+PEX000871,MFA Policy,EMP00018,Katherine Adams,Human Resources,High,Business requirement,False,2026-03-12 16:29:28.722631,2026-07-25 16:29:28.722631
+PEX000872,MFA Policy,EMP00074,Melissa Monroe,Human Resources,Medium,Business requirement,True,2026-03-14 16:29:28.722631,2026-09-06 16:29:28.722631
+PEX000873,Patch Management Policy,EMP00178,Kelsey Long,Finance,Medium,Business requirement,False,2026-05-30 16:29:28.722631,2027-03-05 16:29:28.722631
+PEX000874,MFA Policy,EMP00059,Benjamin Johnson,IT,Medium,Business requirement,True,2026-02-24 16:29:28.722631,2026-08-25 16:29:28.722631
+PEX000875,Patch Management Policy,EMP00161,Devon Neal,Human Resources,High,Business requirement,True,2026-07-02 16:29:28.722631,2026-08-10 16:29:28.722631
+PEX000876,Patch Management Policy,EMP00066,Steven English,Engineering,Medium,Business requirement,True,2026-01-31 16:29:28.722631,2026-12-24 16:29:28.722631
+PEX000877,Patch Management Policy,EMP00187,Marie Bates,Human Resources,High,Business requirement,False,2026-06-28 16:29:28.722631,2026-08-15 16:29:28.722631
+PEX000878,Patch Management Policy,EMP00123,Jocelyn Anderson,Finance,Low,Business requirement,False,2026-03-07 16:29:28.722631,2026-10-12 16:29:28.722631
+PEX000879,Password Policy,EMP00447,Kevin Frederick,Security,Medium,Business requirement,True,2026-05-31 16:29:28.722631,2027-01-25 16:29:28.722631
+PEX000880,MFA Policy,EMP00449,Jamie Robinson,Engineering,Medium,Business requirement,True,2026-05-21 16:29:28.722631,2026-08-29 16:29:28.722631
+PEX000881,MFA Policy,EMP00263,Alexis Roberts,Finance,Low,Business requirement,True,2026-04-22 16:29:28.722631,2027-01-22 16:29:28.722631
+PEX000882,Remote Access Policy,EMP00119,Misty Brandt,Finance,Critical,Business requirement,False,2026-03-23 16:29:28.722631,2026-05-23 16:29:28.722631
+PEX000883,Patch Management Policy,EMP00373,David Oneill,Security,Medium,Business requirement,False,2026-01-29 16:29:28.722631,2026-06-13 16:29:28.722631
+PEX000884,Patch Management Policy,EMP00218,Rebecca Burns,Human Resources,Medium,Business requirement,False,2026-05-17 16:29:28.722631,2027-04-13 16:29:28.722631
+PEX000885,Remote Access Policy,EMP00096,Lauren Jensen,Human Resources,High,Business requirement,False,2026-04-02 16:29:28.722631,2026-07-19 16:29:28.722631
+PEX000886,Patch Management Policy,EMP00072,Austin Miller,Security,Critical,Business requirement,False,2026-06-27 16:29:28.722631,2026-11-21 16:29:28.722631
+PEX000887,MFA Policy,EMP00045,Jose Williams,Engineering,High,Business requirement,True,2026-04-21 16:29:28.722631,2027-01-16 16:29:28.722631
+PEX000888,Patch Management Policy,EMP00126,Isabel Perez,Engineering,High,Business requirement,False,2026-03-24 16:29:28.722631,2026-07-24 16:29:28.722631
+PEX000889,Password Policy,EMP00093,Cody Taylor,Legal,Critical,Business requirement,True,2026-04-19 16:29:28.722631,2026-11-03 16:29:28.722631
+PEX000890,Remote Access Policy,EMP00104,Leonard Davis,Security,Medium,Business requirement,False,2026-04-04 16:29:28.722631,2026-07-30 16:29:28.722631
+PEX000891,Patch Management Policy,EMP00319,William Thomas MD,Human Resources,Critical,Business requirement,True,2026-04-15 16:29:28.722631,2027-01-31 16:29:28.722631
+PEX000892,Acceptable Use Policy,EMP00131,Ronald Hale,Engineering,Critical,Business requirement,False,2026-05-17 16:29:28.722631,2026-06-18 16:29:28.722631
+PEX000893,Acceptable Use Policy,EMP00076,Barbara Reynolds,Human Resources,Critical,Business requirement,True,2026-02-19 16:29:28.722631,2026-12-27 16:29:28.722631
+PEX000894,MFA Policy,EMP00168,Maxwell Munoz,IT,Critical,Business requirement,False,2026-06-21 16:29:28.722631,2027-06-19 16:29:28.722631
+PEX000895,Password Policy,EMP00116,Penny Frazier,Human Resources,High,Business requirement,False,2026-04-19 16:29:28.722631,2027-03-10 16:29:28.722631
+PEX000896,Remote Access Policy,EMP00330,Sharon Crawford,Legal,Low,Business requirement,False,2026-06-25 16:29:28.722631,2026-12-21 16:29:28.722631
+PEX000897,Password Policy,EMP00253,Richard Bailey,Engineering,High,Business requirement,True,2026-04-19 16:29:28.722631,2026-05-22 16:29:28.722631
+PEX000898,Acceptable Use Policy,EMP00461,Daniel Harris,IT,Medium,Business requirement,False,2026-02-25 16:29:28.722631,2027-01-18 16:29:28.722631
+PEX000899,Password Policy,EMP00299,Daniel Chambers,Finance,Medium,Business requirement,True,2026-04-03 16:29:28.722631,2027-01-15 16:29:28.722631
+PEX000900,MFA Policy,EMP00007,Jessica Atkins,Finance,Low,Business requirement,False,2026-04-08 16:29:28.722631,2026-10-17 16:29:28.722631
+PEX000901,Patch Management Policy,EMP00060,Lydia Huffman,Finance,Low,Business requirement,True,2026-07-17 16:29:28.722631,2026-09-15 16:29:28.722631
+PEX000902,Patch Management Policy,EMP00452,Maurice Martinez,Engineering,Low,Business requirement,False,2026-02-09 16:29:28.722631,2027-01-14 16:29:28.722631
+PEX000903,Remote Access Policy,EMP00432,Jennifer Torres,Human Resources,Critical,Business requirement,False,2026-03-07 16:29:28.722631,2026-10-28 16:29:28.722631
+PEX000904,Patch Management Policy,EMP00036,Rose Henderson,Human Resources,High,Business requirement,False,2026-06-30 16:29:28.722631,2027-05-28 16:29:28.722631
+PEX000905,MFA Policy,EMP00328,Stacey Barajas,Engineering,Medium,Business requirement,False,2026-03-12 16:29:28.722631,2026-04-29 16:29:28.722631
+PEX000906,Acceptable Use Policy,EMP00103,Laura James,Finance,Critical,Business requirement,False,2026-02-20 16:29:28.722631,2027-02-14 16:29:28.722631
+PEX000907,Acceptable Use Policy,EMP00308,Christopher Grant,Finance,Medium,Business requirement,True,2026-03-24 16:29:28.722631,2026-05-10 16:29:28.722631
+PEX000908,Acceptable Use Policy,EMP00279,Christian Gomez,Finance,High,Business requirement,False,2026-02-03 16:29:28.722631,2026-10-07 16:29:28.722631
+PEX000909,MFA Policy,EMP00285,Heather Carter,Human Resources,Medium,Business requirement,True,2026-05-13 16:29:28.722631,2027-01-30 16:29:28.722631
+PEX000910,Password Policy,EMP00452,Maurice Martinez,Engineering,Critical,Business requirement,True,2026-06-08 16:29:28.722631,2026-10-05 16:29:28.722631
+PEX000911,Remote Access Policy,EMP00004,Lisa Pierce,IT,High,Business requirement,False,2026-03-01 16:29:28.722631,2026-12-14 16:29:28.722631
+PEX000912,Remote Access Policy,EMP00166,Robert Patterson,Engineering,High,Business requirement,False,2026-02-05 16:29:28.722631,2026-03-15 16:29:28.722631
+PEX000913,Remote Access Policy,EMP00292,Annette Figueroa,Engineering,Medium,Business requirement,False,2026-04-24 16:29:28.722631,2026-08-29 16:29:28.722631
+PEX000914,MFA Policy,EMP00471,Daniel Harris,Engineering,High,Business requirement,False,2026-02-03 16:29:28.722631,2026-10-05 16:29:28.722631
+PEX000915,Patch Management Policy,EMP00426,Brian Woodard,Legal,High,Business requirement,False,2026-05-05 16:29:28.722631,2027-04-17 16:29:28.722631
+PEX000916,Remote Access Policy,EMP00247,David Shah,Finance,High,Business requirement,False,2026-05-02 16:29:28.722631,2026-12-01 16:29:28.722631
+PEX000917,MFA Policy,EMP00093,Cody Taylor,Legal,Critical,Business requirement,True,2026-07-04 16:29:28.722631,2027-04-30 16:29:28.722631
+PEX000918,Acceptable Use Policy,EMP00424,Monica Miller,Human Resources,Low,Business requirement,False,2026-03-22 16:29:28.722631,2027-02-25 16:29:28.722631
+PEX000919,Password Policy,EMP00237,Deborah Hall,Security,Medium,Business requirement,True,2026-02-26 16:29:28.722631,2026-10-06 16:29:28.722631
+PEX000920,Remote Access Policy,EMP00283,Chad Soto,Finance,Low,Business requirement,False,2026-04-03 16:29:28.722631,2026-06-12 16:29:28.722631
+PEX000921,Remote Access Policy,EMP00389,Elizabeth Patel,Security,Low,Business requirement,True,2026-02-22 16:29:28.722631,2026-10-31 16:29:28.722631
+PEX000922,Acceptable Use Policy,EMP00181,Michelle Gill,Legal,High,Business requirement,True,2026-07-25 16:29:28.722631,2027-04-25 16:29:28.722631
+PEX000923,Password Policy,EMP00436,Jill Patterson,IT,Critical,Business requirement,True,2026-03-05 16:29:28.722631,2026-10-04 16:29:28.722631
+PEX000924,MFA Policy,EMP00457,Erik Reyes,Operations,Medium,Business requirement,False,2026-06-01 16:29:28.722631,2026-10-10 16:29:28.722631
+PEX000925,MFA Policy,EMP00070,Brooke Proctor,Engineering,Low,Business requirement,True,2026-07-15 16:29:28.722631,2026-10-11 16:29:28.722631
+PEX000926,MFA Policy,EMP00125,Felicia Rocha,Human Resources,Low,Business requirement,False,2026-05-01 16:29:28.722631,2026-10-26 16:29:28.722631
+PEX000927,Patch Management Policy,EMP00303,Judith Wright,Security,Medium,Business requirement,False,2026-06-23 16:29:28.722631,2026-11-16 16:29:28.722631
+PEX000928,Password Policy,EMP00055,Benjamin White,IT,Critical,Business requirement,True,2026-06-28 16:29:28.722631,2027-03-20 16:29:28.722631
+PEX000929,Patch Management Policy,EMP00095,Steven Gardner,Engineering,Low,Business requirement,False,2026-07-05 16:29:28.722631,2027-04-28 16:29:28.722631
+PEX000930,MFA Policy,EMP00438,Michael Fisher,IT,Medium,Business requirement,True,2026-03-26 16:29:28.722631,2026-05-16 16:29:28.722631
+PEX000931,Acceptable Use Policy,EMP00298,Patricia Potter,Human Resources,Low,Business requirement,False,2026-02-25 16:29:28.722631,2026-12-07 16:29:28.722631
+PEX000932,Password Policy,EMP00259,Margaret Allen,Legal,Medium,Business requirement,False,2026-05-30 16:29:28.722631,2027-02-11 16:29:28.722631
+PEX000933,Patch Management Policy,EMP00167,Peter Contreras,Finance,High,Business requirement,False,2026-04-16 16:29:28.722631,2026-06-23 16:29:28.722631
+PEX000934,Remote Access Policy,EMP00089,Andrew Schmidt,Human Resources,Low,Business requirement,False,2026-07-19 16:29:28.722631,2027-05-26 16:29:28.722631
+PEX000935,Remote Access Policy,EMP00339,Paul Jenkins,Finance,Medium,Business requirement,False,2026-05-25 16:29:28.722631,2026-11-25 16:29:28.722631
+PEX000936,Remote Access Policy,EMP00382,Elizabeth Lang,Human Resources,Medium,Business requirement,True,2026-03-28 16:29:28.722631,2026-05-28 16:29:28.722631
+PEX000937,Password Policy,EMP00433,Tyler Garcia,Operations,Medium,Business requirement,False,2026-05-13 16:29:28.722631,2026-09-04 16:29:28.722631
+PEX000938,MFA Policy,EMP00312,Rachael Fisher,Engineering,Low,Business requirement,True,2026-04-26 16:29:28.722631,2026-10-24 16:29:28.722631
+PEX000939,Password Policy,EMP00353,Gail Ellis,Legal,Low,Business requirement,False,2026-01-30 16:29:28.722631,2026-10-15 16:29:28.722631
+PEX000940,Password Policy,EMP00238,Vincent Morris,IT,Medium,Business requirement,False,2026-04-13 16:29:28.722631,2026-08-13 16:29:28.722631
+PEX000941,Acceptable Use Policy,EMP00117,Steven Burton,Operations,High,Business requirement,False,2026-06-18 16:29:28.722631,2027-02-15 16:29:28.722631
+PEX000942,Password Policy,EMP00094,Victoria Austin,Engineering,High,Business requirement,False,2026-06-02 16:29:28.722631,2026-12-14 16:29:28.722631
+PEX000943,MFA Policy,EMP00375,Tina Ochoa,Legal,Critical,Business requirement,True,2026-07-01 16:29:28.722631,2027-03-30 16:29:28.722631
+PEX000944,MFA Policy,EMP00191,Kristy Cruz,Security,Low,Business requirement,False,2026-03-07 16:29:28.722631,2026-10-06 16:29:28.722631
+PEX000945,MFA Policy,EMP00357,Kimberly Scott,Operations,Medium,Business requirement,True,2026-05-14 16:29:28.722631,2027-04-03 16:29:28.722631
+PEX000946,Remote Access Policy,EMP00121,Richard Maldonado,Human Resources,Low,Business requirement,True,2026-02-21 16:29:28.722631,2026-04-05 16:29:28.722631
+PEX000947,Acceptable Use Policy,EMP00280,Benjamin Gray,Legal,Low,Business requirement,True,2026-03-22 16:29:28.722631,2026-10-28 16:29:28.722631
+PEX000948,Password Policy,EMP00200,Matthew Warren,Security,Critical,Business requirement,True,2026-06-17 16:29:28.722631,2026-12-07 16:29:28.722631
+PEX000949,Password Policy,EMP00455,James Pierce,Finance,Low,Business requirement,True,2026-02-13 16:29:28.722631,2026-03-18 16:29:28.722631
+PEX000950,Remote Access Policy,EMP00434,Dean Mayo,Human Resources,High,Business requirement,True,2026-06-07 16:29:28.722631,2026-08-09 16:29:28.722631
+PEX000951,Acceptable Use Policy,EMP00490,Brandon Bradford,Human Resources,Critical,Business requirement,False,2026-06-14 16:29:28.722631,2027-02-08 16:29:28.722631
+PEX000952,Acceptable Use Policy,EMP00357,Kimberly Scott,Operations,Medium,Business requirement,False,2026-07-15 16:29:28.722631,2027-06-22 16:29:28.722631
+PEX000953,Password Policy,EMP00071,William Maldonado,Human Resources,Low,Business requirement,False,2026-05-30 16:29:28.722631,2027-05-13 16:29:28.722631
+PEX000954,Remote Access Policy,EMP00146,Pam Reyes,Operations,Low,Business requirement,False,2026-06-26 16:29:28.722631,2026-12-03 16:29:28.722631
+PEX000955,MFA Policy,EMP00001,John Lopez,Human Resources,Critical,Business requirement,False,2026-03-04 16:29:28.722631,2026-10-15 16:29:28.722631
+PEX000956,Remote Access Policy,EMP00467,Elaine Rice,Security,Medium,Business requirement,False,2026-03-03 16:29:28.722631,2027-03-02 16:29:28.722631
+PEX000957,Remote Access Policy,EMP00431,Mark King,Human Resources,Critical,Business requirement,True,2026-04-24 16:29:28.722631,2026-06-17 16:29:28.722631
+PEX000958,Password Policy,EMP00215,Jenny Mckinney,Security,Low,Business requirement,True,2026-05-28 16:29:28.722631,2027-01-03 16:29:28.722631
+PEX000959,MFA Policy,EMP00339,Paul Jenkins,Finance,Low,Business requirement,False,2026-06-14 16:29:28.722631,2027-05-11 16:29:28.722631
+PEX000960,Patch Management Policy,EMP00206,Laura Cook,Operations,High,Business requirement,True,2026-03-31 16:29:28.722631,2027-03-18 16:29:28.722631
+PEX000961,Patch Management Policy,EMP00139,Pamela Howard,Finance,High,Business requirement,True,2026-05-13 16:29:28.722631,2027-04-21 16:29:28.722631
+PEX000962,Patch Management Policy,EMP00306,Kristi Atkins,Security,Medium,Business requirement,True,2026-03-10 16:29:28.722631,2026-06-21 16:29:28.722631
+PEX000963,Acceptable Use Policy,EMP00377,Vanessa Winters,Operations,High,Business requirement,True,2026-02-17 16:29:28.722631,2026-08-18 16:29:28.722631
+PEX000964,Remote Access Policy,EMP00030,Alexandra Wilson,Finance,Low,Business requirement,False,2026-04-09 16:29:28.722631,2026-09-02 16:29:28.722631
+PEX000965,Acceptable Use Policy,EMP00200,Matthew Warren,Security,High,Business requirement,True,2026-05-16 16:29:28.722631,2027-01-02 16:29:28.722631
+PEX000966,MFA Policy,EMP00160,Tammy Rodriguez,Legal,Low,Business requirement,True,2026-04-08 16:29:28.722631,2027-01-02 16:29:28.722631
+PEX000967,Patch Management Policy,EMP00177,Brett Murray,Finance,High,Business requirement,False,2026-03-09 16:29:28.722631,2026-06-30 16:29:28.722631
+PEX000968,Acceptable Use Policy,EMP00439,Mia Davis,IT,Low,Business requirement,False,2026-03-21 16:29:28.722631,2026-10-06 16:29:28.722631
+PEX000969,Patch Management Policy,EMP00060,Lydia Huffman,Finance,Medium,Business requirement,True,2026-02-10 16:29:28.722631,2027-01-17 16:29:28.722631
+PEX000970,Remote Access Policy,EMP00223,Michelle Miller,Finance,Low,Business requirement,True,2026-04-15 16:29:28.722631,2027-01-12 16:29:28.722631
+PEX000971,Acceptable Use Policy,EMP00312,Rachael Fisher,Engineering,Low,Business requirement,False,2026-02-11 16:29:28.722631,2026-05-22 16:29:28.722631
+PEX000972,Patch Management Policy,EMP00395,Darlene Padilla,Engineering,High,Business requirement,False,2026-03-07 16:29:28.722631,2026-06-21 16:29:28.722631
+PEX000973,Acceptable Use Policy,EMP00408,Mrs. Mary Brown,Human Resources,High,Business requirement,False,2026-05-08 16:29:28.722631,2027-04-16 16:29:28.722631
+PEX000974,MFA Policy,EMP00166,Robert Patterson,Engineering,Low,Business requirement,True,2026-07-01 16:29:28.722631,2027-04-27 16:29:28.722631
+PEX000975,Acceptable Use Policy,EMP00280,Benjamin Gray,Legal,Medium,Business requirement,True,2026-04-21 16:29:28.722631,2026-06-18 16:29:28.722631
+PEX000976,Password Policy,EMP00474,Ricardo Perez,Legal,Medium,Business requirement,True,2026-02-26 16:29:28.722631,2026-03-30 16:29:28.722631
+PEX000977,Patch Management Policy,EMP00064,Dr. Roberto Garner,Engineering,Medium,Business requirement,False,2026-04-20 16:29:28.722631,2026-07-04 16:29:28.722631
+PEX000978,Remote Access Policy,EMP00100,Terry Rios,Legal,Low,Business requirement,False,2026-05-18 16:29:28.722631,2026-06-26 16:29:28.722631
+PEX000979,Acceptable Use Policy,EMP00292,Annette Figueroa,Engineering,Low,Business requirement,True,2026-02-28 16:29:28.722631,2026-11-16 16:29:28.722631
+PEX000980,MFA Policy,EMP00109,Tracey Morris,IT,Low,Business requirement,False,2026-05-19 16:29:28.722631,2027-02-21 16:29:28.722631
+PEX000981,Remote Access Policy,EMP00378,Norman Jackson,Human Resources,Low,Business requirement,False,2026-03-24 16:29:28.722631,2026-10-13 16:29:28.722631
+PEX000982,MFA Policy,EMP00332,David Francis,Security,Medium,Business requirement,True,2026-07-27 16:29:28.722631,2027-03-01 16:29:28.722631
+PEX000983,Remote Access Policy,EMP00025,David Everett,Human Resources,Medium,Business requirement,False,2026-02-22 16:29:28.722631,2026-10-21 16:29:28.722631
+PEX000984,MFA Policy,EMP00056,Jose Johnson,IT,High,Business requirement,False,2026-03-04 16:29:28.722631,2026-05-09 16:29:28.722631
+PEX000985,Remote Access Policy,EMP00289,Sean Hernandez,Finance,Critical,Business requirement,False,2026-03-25 16:29:28.722631,2026-08-13 16:29:28.722631
+PEX000986,Remote Access Policy,EMP00289,Sean Hernandez,Finance,Critical,Business requirement,True,2026-06-23 16:29:28.722631,2027-04-16 16:29:28.722631
+PEX000987,Remote Access Policy,EMP00187,Marie Bates,Human Resources,Medium,Business requirement,False,2026-04-13 16:29:28.722631,2026-11-29 16:29:28.722631
+PEX000988,MFA Policy,EMP00140,Samantha Erickson,Finance,Critical,Business requirement,True,2026-01-31 16:29:28.722631,2026-08-20 16:29:28.722631
+PEX000989,Remote Access Policy,EMP00132,Megan Scott,Finance,Critical,Business requirement,False,2026-04-09 16:29:28.722631,2026-10-17 16:29:28.722631
+PEX000990,Password Policy,EMP00493,Edward Ferrell,Finance,Low,Business requirement,False,2026-06-13 16:29:28.722631,2027-06-04 16:29:28.722631
+PEX000991,Patch Management Policy,EMP00446,Mrs. Autumn Wyatt,Legal,High,Business requirement,True,2026-07-09 16:29:28.722631,2026-09-27 16:29:28.722631
+PEX000992,Password Policy,EMP00182,Megan Harris,Finance,Low,Business requirement,True,2026-05-06 16:29:28.722631,2027-02-14 16:29:28.722631
+PEX000993,MFA Policy,EMP00411,Renee Davis,Operations,Critical,Business requirement,False,2026-05-08 16:29:28.722631,2027-04-01 16:29:28.722631
+PEX000994,Patch Management Policy,EMP00160,Tammy Rodriguez,Legal,Critical,Business requirement,False,2026-04-22 16:29:28.722631,2026-12-05 16:29:28.722631
+PEX000995,MFA Policy,EMP00493,Edward Ferrell,Finance,Critical,Business requirement,True,2026-06-05 16:29:28.722631,2027-04-09 16:29:28.722631
+PEX000996,Password Policy,EMP00044,Rebecca Glenn,Finance,High,Business requirement,True,2026-07-21 16:29:28.722631,2026-12-10 16:29:28.722631
+PEX000997,MFA Policy,EMP00200,Matthew Warren,Security,Low,Business requirement,False,2026-06-24 16:29:28.722631,2026-09-29 16:29:28.722631
+PEX000998,Patch Management Policy,EMP00323,Tyler Grant,Security,High,Business requirement,False,2026-04-01 16:29:28.722631,2027-02-18 16:29:28.722631
+PEX000999,MFA Policy,EMP00459,Katrina Murphy,Legal,Low,Business requirement,False,2026-06-02 16:29:28.722631,2026-11-30 16:29:28.722631
+PEX001000,Remote Access Policy,EMP00499,Ryan Cummings,Human Resources,High,Business requirement,False,2026-03-31 16:29:28.722631,2027-02-22 16:29:28.722631
