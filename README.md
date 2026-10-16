@@ -85,7 +85,7 @@ limitations.
 
 ## Prompt Injection Research — Red Team / Blue Team Pipeline
 
-An extension of the [autonomous red team / blue team pipeline](#) adding
+An extension of the autonomous red team / blue team pipeline adding
 prompt injection testing against a real LLM-backed target application.
 This project tests both **direct prompt injection** (payloads submitted
 to an LLM application) and **indirect prompt injection** (malicious
